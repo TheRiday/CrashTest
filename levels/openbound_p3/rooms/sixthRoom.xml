@@ -119,10 +119,10 @@
 
     <sprite name='terezi' x='422' y='624' width='40' height='24' collidable='true' depthing='1'>
       <animation sheet='tereziSit' x='-30' y='-90'/>
-      <action command='talk' name="It's Terezi!" sprite='damara'>
+      <action command='talk' name="C’est Terezi !" sprite='damara'>
           <args>
-          @terezi_idle TEREZI: H3Y D4MZ!!!!
-          @terezi_idle TEREZI: 1F YOU GO 4NYWH3R3 N34R H1M, 1 W1LL FUCK1NG K1LL YOU!
+          @terezi_idle TEREZI: H3Y D4MZ !!!!
+          @terezi_idle TEREZI: S1 TU T’4PPROCH3S D3 LU1, J3 T3 BUT3 !
           @damara_fu2 DAMARA:
           <!--  -->
           </args>
