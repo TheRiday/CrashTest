@@ -64,42 +64,42 @@
 		</action>
 
 
-			<action class='rufiohTalk2' sprite='meenah' command='talk' name='Ask Rufioh to join.'>
+			<action class='rufiohTalk2' sprite='meenah' command='talk' name='Demande à Rufioh de se joindre à toi.'>
 			      <args>
-			      @meenah_talk MEENAH: i probubbly shouldnt even ask this since youre not as brave as people make out with you to be
-			      @meenah_annoyedtalk:#wait#what-did-i-say?#nm MEENAH: i mean make you out to be
-			      @meenah_happytalk MEENAH: but would you want to come away with me to...
-			      @rufioh_notalk \nRUFIOH: whoa, man... not you too!!! ahaha...
-			      @meenah_wut2 MEENAH: wut
-			      @rufioh_sheepish \nRUFIOH: 1t's f1ne... 1t's alr1ght that you d1g me, 1'm flattered... you were just the last person who hadn't h1t on me yet... and 1 k1nda dug that about you, you know?
-			      @meenah_angry MEENAH: i wasnt asking you out dope
-			      @rufioh_surprisetalk \nRUFIOH: oh... wow... sh*t! sorry, guess 1 got the wrong 1dea...
-			      @rufioh_sheepish \nRUFIOH: 1t's just k1nd of a reflex, doll... you know? everybody h1ts on me all the t1me, and 1 don't know why... sh*t 1s crazy...
-			      @rufioh_offendedtalk \nRUFIOH: just the other day, get th1s... some orange guy 1n a green sh1rt jumped out of some bushes and tr1ed to k1ss me... and 1'm l1ke whaaat... step off jolly man, haha...
-			      @meenah_creepytalk MEENAH: maybe its cause youre a bishie ass glubberfucker with a kickin hawk
-			      @rufioh_happytalk:#1-could-g1ve-you-mohawk-dy1ng-t1ps...#you'd-rock-the-sh*t-out-of-that-look!!! \nRUFIOH: yo, that's cool of you to say...  you've got k1nda th1s otenba b1shojo th1ng go1ng on yourself, g1rl... your style rocks, 1 always thought you looked pretty slamm1n...
-			      @meenah_happytalk MEENAH: for what its worth
-			      @meenah_happytalk MEENAH: i would be your moe dere dere waifu in the beat of a pump biscuit
-			      @meenah_happytalk MEENAH: if i was remotely attracted to you or found your personality more appealing
-			      @meenah_happytalk MEENAH: and also if i shared your dumb passion for troll anime and didnt think it clogged massive blowhole
-			      @rufioh_talk \nRUFIOH: ahaha, bangarang! that's a scenar1o 1'd be alr1ght w1th...
-			      @rufioh_sadtalk \nRUFIOH: no one really to talk to anymore about my stor1es, yo... s1nce th1ngs got so ch1lly w1th my ex...
-			      @meenah_annoyed MEENAH: goddamn witch
-			      @rufioh_offended \nRUFIOH: seriously... she crazy...
-			      @rufioh_happytalk:#and-1f-not-what-brand-of-mohawk-dye-1-use? \nRUFIOH: so what were you go1ng to ask me... uh, 1f not on a date?
-			      @meenah_annoyed MEENAH: never mind
-			      @meenah_annoyedtalk MEENAH: youre not even gonna agree anyway cause this team suuuuucks
-			      @meenah_happy MEENAH: later ruf
+			      @meenah_talk MEENAH: je ne devrais peut etre pas te demander ca vu que tu nes pas si brave et tu pourrais bien finir par membrasseraussi brave que ce que les autre sembrassent a dire
+			      @meenah_annoyedtalk:#attends#quest-ce-que-jai-dits-?#pas-important MEENAH: je veux dire finir par membarrasser sembarassent a dire
+			      @meenah_happytalk MEENAH: mais tu voudrais venir avec moi pour...
+			      @rufioh_notalk \nRUFIOH: whoa, mec... pas to1 auss1 !!! ahaha...
+			      @meenah_wut2 MEENAH: quewa
+			      @rufioh_sheepish \nRUFIOH: ça va... c’est pas grave s1 tu me k1ffes, je su1s flatté... tu éta1s juste la dern1ère personne qu1 ne m’ava1t pas dragué... et j’a1 un peu a1mé ça chez to1, tu sa1s ?
+			      @meenah_angry MEENAH: je ne te demandais pas de sortir avec moi cretin
+			      @rufioh_surprisetalk \nRUFIOH: oh... wow... m*rde ! désolé, je suppose que je me su1s fa1t une mauva1se 1dée...
+			      @rufioh_sheepish \nRUFIOH: c’est juste une sorte de réflexe, poupée... tu vo1s ? tout le monde me drague tout le temps, et je sa1s pas pourquo1... p*ta1n c’est fou...
+			      @rufioh_offendedtalk \nRUFIOH: r1en que l’autre jour, écoute... un mec orange dans un t-sh1rt vert est sort1 d’un bu1sson et a essayé de m’embrasser... et je su1s genre quooo1... recule l'enjoué, haha...
+			      @meenah_creepytalk MEENAH: peut etre parce que tes un putain de bishonen avec une crete qui tue
+			      @rufioh_happytalk:#je-pourra1s-te-donner-des-conse1ls pour-te-te1ndre-une-crète...#tu-déch1rera1-avec-ce-look-!!! \nRUFIOH: yo, c’est cool de me le d1re...  tu as ce truc de l’otenba b1shojo qu1i fonct1onne chez sur to1, meuf... ton style est trop cool, j’a1 toujours trouvé que t’éta1s super classecool...
+			      @meenah_happytalk MEENAH: pour ce que ca vaut
+			      @meenah_happytalk MEENAH: je pourrais etre ta moe dere dere en moins dune seconde mon chou 
+			      @meenah_happytalk MEENAH: si jetais attiree par toi ou si je trouvais ta personnalitee plus seduisante
+			      @meenah_happytalk MEENAH: et aussi si je partageais ta passion debile pour les animes trolls et ne pensais pas que ca puait de leventprenait tous les dialogues
+			      @rufioh_talk \nRUFIOH: ahaha, bangarang ! c’est un scénar1o qu1 pourra1t me pla1re...
+			      @rufioh_sadtalk \nRUFIOH: j’a1 pas grand monde avec qu1 parler de mes h1stoi1res, yo... vu que je su1s en fro1d avec mon ex...
+			      @meenah_annoyed MEENAH: saletee de sorciere
+			      @rufioh_offended \nRUFIOH: sér1eux... elle est folle...
+			      @rufioh_happytalk:#et-s1-c’est-pas-de-quelle-sorte-de-te1nture-je-me-sers-pour-ma-crête-? \nRUFIOH: donc que voula1s tu me demander... heu, s1 c’est pas un rendez-vous ?
+			      @meenah_annoyed MEENAH: oublie
+			      @meenah_annoyedtalk MEENAH: tu vas pas etre daccord de toute facon car cette equipe craaaaaiiiiiint
+			      @meenah_happy MEENAH: a plus ruf
 			      <!--  -->
 			      </args>
 			</action>
 
 
-			<action class='rufiohTalk3' sprite='meenah' command='talk' name='Be Rufioh.'>
+			<action class='rufiohTalk3' sprite='meenah' command='talk' name='Deviens Rufioh.'>
 			      <args>
-			      @rufioh_happytalk \nRUFIOH: oh sh*t... you want to be me? ok that's pretty dope 1 guess.
-			      @rufioh_surprisetalk \nRUFIOH: but can 1t wa1t? my lusus 1s m1ss1ng aga1n and 1 can't th1nk stra1ght w1thout h1m... he's my happy thought!!! haha...
-			      @rufioh_offendedtalk \nRUFIOH: 1 hope damara d1dn't do someth1ng w1th h1m... she l1kes to f*** w1th me somet1mes by stash1ng the l1ttle guy somewhere... she's bonkers!!!
+			      @rufioh_happytalk \nRUFIOH: oh p*ta1n... tu veux être mo1 ? ok c’est plutôt cool je suppose.
+			      @rufioh_surprisetalk \nRUFIOH: ma1s ça peut attendre ? mon lusus a encore d1sparu et je badepeux pas me concentrer sans lu1... c’est mon pet1t bonheur !!! haha...
+			      @rufioh_offendedtalk \nRUFIOH: j’espère que damara lu1 a r1en fa1t... des fo1s elle a1me b1en me fa1re ch*** en cachant le p’t1it gars quelque part... elle est tarée !!!
 			      <!--  -->
 			      </args>
 			</action>
