@@ -67,51 +67,51 @@
       </action>
     </character>
 
-    <sprite name='gamzee' x='422' y='624' width='40' height='24' collidable='true' depthing='1'>
+   <sprite name='gamzee' x='422' y='624' width='40' height='24' collidable='true' depthing='1'>
       <animation sheet='gamzeeSheet' x='-30' y='-90'/>
-      <action sprite='rose' command='talk' name='Talk to Gamzee.'>
+      <action sprite='rose' command='talk' name='Parle à Gamzee.'>
             <args>
-            @rose_talk ROSE: You better not let Kanaya find you in here.
-            @rose_talk ROSE: She still hates you, you know.
-            @rose_talk ROSE: And not in "that way." I think she still truly would like to kill you.
-            @gamzee_idle GAMZEE: yeah, i all up and motherfuckin know that already.
-            @rose_concern ROSE: I've wondered, doesn't it ever get confusing? Trying to differentiate between platonic, malicious intent, and gestures of black romance?
-            @gamzee_idle GAMZEE: NO.
-            @gamzee_idle GAMZEE: like i'd even give a dayglow chainsaw bitch like that on my time of day up in any quadrant.
-            @gamzee_idle GAMZEE: BESIDES, ALREADY GOT MY BLACK ROM ON WITH ANOTHER MOTHERFUCKER.
-            @gamzee_idle GAMZEE: been dating somebody in the motherfuckin shadows. getting pretty nasty between us. all experiencing the shit out of the dark miracle called hatebliss. 
-            @rose_concern ROSE: Wait, really?
-            @rose_annoyed ROSE: Who?
+            @rose_talk ROSE: Tu ferais mieux de ne pas laisser Kanaya te voir dans les alentours.
+            @rose_talk ROSE: Elle te déteste toujours, tu sais.
+            @rose_talk ROSE: Et pas dans “ce sens”. Je pense qu’elle voudrait vraiment te tuer.
+            @gamzee_idle GAMZEE: ouais, je sais deja toutes ces putain de choses.
+            @rose_concern ROSE: Je me demandais, cela ne rend pas les choses confuses ? D’essayer de faire la différence entre les sentiments platoniques, les malveillantes intentions et les signes d’une romance noire ?
+            @gamzee_idle GAMZEE: NON.
+            @gamzee_idle GAMZEE: comme si j’allais laisser a cette salope lumineuse et a sa tronconneuse ne serait-ce qu’une place dans ma vie et mes quadrants.
+            @gamzee_idle GAMZEE: EN PLUS J’AI DEJA UN AUTRE FILS DE PUTE DANS MON QUADRANT NOIR.
+            @gamzee_idle GAMZEE: j’ai flirte avec quelqu’un depuis la putain d’obscurite. c’est devenu plutot sale entre nous. on a fait la putain d'experience de ce putain de miracle appele l’amour-haine. 
+            @rose_concern ROSE: Attends, vraiment ?
+            @rose_annoyed ROSE: Qui ?
             @gamzee_idle GAMZEE: :o)
-            @rose_idle ROSE: Karkat?
-            @gamzee_idle GAMZEE: no.
-            @rose_laugh ROSE: Dave??
-            @gamzee_idle GAMZEE: NO.
-            @rose_sad ROSE: Not... the Mayor???
-            @gamzee_idle GAMZEE: no.
-            @rose_concern ROSE: Wait...
-            @rose_concern ROSE: Terezi?
+            @rose_idle ROSE: Karkat ?
+            @gamzee_idle GAMZEE: non.
+            @rose_laugh ROSE: Dave ??
+            @gamzee_idle GAMZEE: NON.
+            @rose_sad ROSE: Pas... le Maire ???
+            @gamzee_idle GAMZEE: non.
+            @rose_concern ROSE: Attends...
+            @rose_concern ROSE: Terezi ?
             @gamzee_idle GAMZEE: HONK.
-            @rose_talk ROSE: Are you serious?
-            @gamzee_idle GAMZEE: do i mother fucking look like i'd motherfuckin joke around with a mother fucker?
-            @rose_idle ROSE: I...
-            @rose_annoyedtalk ROSE: I can't even parse that relationship as something meaningful.
-            @rose_annoyed ROSE: What...
-            @gamzee_idle GAMZEE: IT'S SIMPLE. 
-            @gamzee_idle GAMZEE: mother fucker.
-            @gamzee_idle GAMZEE: SHE ALL GETS ON HER HATE OF ME QUITE UNDERSTANDABLY, SEEING AS TO WHAT A VILE PIECE OF CLOWN ASS TRASH I'M ALL IS.
-            @gamzee_idle GAMZEE: but doesn't quite hate me enough to want to kill me. :o)
-            @rose_talk ROSE: This is a really startling revelation, I must say.
-            @rose_talk ROSE: It's a game changer.
+            @rose_talk ROSE: Es-tu sérieux ?
+            @gamzee_idle GAMZEE: est-ce que j’ai l’air de putain de blaguer avec les fils de pute ?
+            @rose_idle ROSE: Je...
+            @rose_annoyedtalk ROSE: Je n’arrive même pas à analyser cette relation comme étant réellement existante.
+            @rose_annoyed ROSE: Comment...
+            @gamzee_idle GAMZEE: C’EST SIMPLE. 
+            @gamzee_idle GAMZEE: fils de pute.
+            @gamzee_idle GAMZEE: LA RAISON DE CETTE HAINE DANS LAQUELLE ELLE S’ENFONCE EST PLUTOT LOGIQUE, QUAND ON VOIT LE PUTAIN DE CONNARD DE CLOWN QUE JE SUIS.
+            @gamzee_idle GAMZEE: mais elle ne me hait pas au point de vouloir me tuer. :o)
+            @rose_talk ROSE: Je dois dire que c’est là une ahurissante révélation.
+            @rose_talk ROSE: Ça change la donne.
             @gamzee_idle GAMZEE: HEY.
-            @gamzee_idle GAMZEE: please don't all tell at this noise to anyone.
-            @gamzee_idle GAMZEE: IF KARKAT MOTHER FUCKIN KNEW ON THIS...
-            @gamzee_idle GAMZEE: he actually would want to kill me. :o(
-            @rose_talk ROSE: Yes, I can see the dilemma you're in.
-            @rose_talk ROSE: Your social dynamics really begin to get complicated once your quadrants start to fill up, don't they?
-            @gamzee_idle GAMZEE: MOTHER FUCK YEAH THEY MOTHER FUCKING DO.
-            @rose_talk ROSE: Don't worry. Your secret is safe with me.
-            @rose_talk ROSE: Now shoo. Back into the ventilation system with you, before you're spotted.
+            @gamzee_idle GAMZEE: s’il te plait va pas ébruiter tout ça.
+            @gamzee_idle GAMZEE: SI KARKAT L’APPRENAIT...
+            @gamzee_idle GAMZEE: il voudrait vraiment me tuer. :o(
+            @rose_talk ROSE: Oui, je comprends le dilemme dans lequel tu te trouves.
+            @rose_talk ROSE: Vos dynamiques sociales commencent à devenir réellement compliquées à partir du moment où vous remplissez vos quadrants, n’est-ce pas ?
+            @gamzee_idle GAMZEE: PUTAIN, OUAIS, C’EST PUTAIN DE CA.
+            @rose_talk ROSE: Ne t’en fais pas, ton secret est en sécurité avec moi.
+            @rose_talk ROSE: Allez, psss. Maintenant retourne dans le système de ventilation avant que quelqu’un ne te voit
             <!--  -->
             </args>
       </action>
