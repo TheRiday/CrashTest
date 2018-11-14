@@ -84,9 +84,9 @@
 </action>
 
 
-<action class='horussTalk3' sprite='meenah' command='talk' name='Be Horuss.'>
+<action class='horussTalk3' sprite='meenah' command='talk' name='Deviens Horuss.'>
       <args>
-      @horuss_idle2talk HORUSS: ᕦ(ò д óˇ)ᕤ &lt; Bring me a horse, and I am yours forever.
+      @horuss_idle2talk HORUSS: ᕦ(ò д óˇ)ᕤ &lt; Rapportez-moi un cheval et je serais à vous pour toujours.
       <!--  -->
       </args>
 </action>
