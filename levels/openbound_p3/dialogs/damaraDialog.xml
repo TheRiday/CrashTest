@@ -1,6 +1,6 @@
 <sburb>
     <classes>
-<action class='damaraTalk1' sprite='meenah' command='talk' name=Parle à Damara.'>
+<action class='damaraTalk1' sprite='meenah' command='talk' name='Parle à Damara.'>
       <args>
       @meenah_idle MEENAH: alooooors
       @meenah_idle MEENAH: megido
