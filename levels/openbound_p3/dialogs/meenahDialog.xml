@@ -54,21 +54,21 @@
       </args>
 </action>
 
-<action class='meenahTalk2' sprite='horuss' command='talk' name='Talk to Meenah.'>
+<action class='meenahTalk2' sprite='horuss' command='talk' name='Parle à Meenah.'>
       <args>
       @meenah_idle MEENAH: hozak
-      @meenah_talk MEENAH: serious question
-      @horuss_idle2talk HORUSS:  (ノಠ益ಠ)ノ &lt; Yes, my peerless, e%25alted Eminency?
-      @meenah_happytalk MEENAH: when did you decide you were a horse
-      @kankri_whistle KANKRI: *PHWEEEEEEEEEEEEEET!!!*
-      @kankri_talk2 KANKRI: H9ld up there, Meenah. The questi9n y9u just asked was in fact a severe micr9aggressi9n against th9se wh9 are stricken with deeply plightened feelings 9f species dysph9ria. Y9ur questi9n was inn9cent en9ugh, s9 I'm n9t a69ut t9 g9 d9wn the peril9us r9ad 9f trigger shaming, 6ut Meenah, my g99dness, what y9u just said was catastr9phically triggering. P99r H9russ here will likely feel triggered f9r weeks 6ecause 9f y9ur th9ughtless questi9n. Hell, even I'm feeling a little triggered 6y it, and I'm n9t even under the impressi9n I'm a h9rse. I think every9ne within earsh9t was triggered 6y that. Y9u feel triggered, right H9russ?
-      @horuss_laugh HORUSS: (ｏ皿ｏ;) &lt; Trigger sounds like a wonderful name for a hoofbeast.
-      @kankri_talk KANKRI: See? T9tally triggered. N9w let's let the healing 6egin.
-      @meenah_annoyed:#so-done MEENAH: 38(
-      @kankri_talk4 KANKRI: Meenah, his 6elief that he is actually a majestic h99f6east is n9t characterized 6y ch9ice. In fact, it is n9t even a 6elief. It is a FACT, which we must strive t9 respect as FACTUAL, in n9 small part due t9 his hyperimp9rtant feelings a69ut it. Tail9ring factual reality ar9und pe9ple's critical feelings is a c9rnerst9ne 9f Pr96lematics, and failure t9 d9 s9 can 9nly result in the release 9f devastating payl9ads 9f c9rrecti9nal w9rds depl9yed t9 educate, heal, and rhet9rically 9verwhelm. 
-      @kankri_talk3 KANKRI: When y9u asked "when did y9u decide y9u were a h9rse," y9u implied that he made a ch9ice t9 craft this feature 9f his identity, as 9pp9sed t9 listening carefully t9 the fauna within, heeding the call 9f the l9ng, gh9stly sn9ut his 69dy has tragically denied him, whilst feeling the su6tle tingling 9f his phant9m h9rsey p9steri9r.
-      @horuss_smiletalk HORUSS: 8=D &lt; So true, friend. Your wisdom truly transcends your degenerate, mildly nauseating mutant b100d.
-      @kankri_talk2 KANKRI: Thank y9u. N9w, y9u kn9w h9w I hate t9 derail c9nversati9ns, 6ut I think this 9ccasi9n calls f9r a th9r9ugh, unrelenting educati9n 9n the t9pic. And n9w I shall 6egin my crushing harangue 9n this delicate su6ject, as thusly:
+      @meenah_talk MEENAH: question serieuse
+      @horuss_idle2talk HORUSS:  (ノಠ益ಠ)ノ &lt; Oui, mon e%altante, incomparable Éminence ?
+      @meenah_happytalk MEENAH: tas decide quand que tetais un cheval
+      @kankri_whistle KANKRI: *TRIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII !!!*
+      @kankri_talk2 KANKRI: Un instant Meenah. La questi9n que tu viens de p9ser est en réalité une sévère micr9 agression envers les pers9nnes acca6lées d’un pr9f9nd sentiment de désesp9ir quant à leur dysph9rie d’espèce. Ta question était assez inn9cente d9nc je ne vais pas m’aventurer davantage sur le terrain glissant de l’humiliati9n des triggers, mais Meenah, 69nté divine, ce que tu viens de dire était catastr9phiquement triggerant. N9tre pauvre H9russ sera pr96a6lement triggeré des semaines durant p9ur cause de ton indélicate interr9gation. Diantre, même m9i je me sens triggeré par cette dernière, et je n’ai même pas l’impressi9n d’être un cheval. Je pense que t9utes les pers9nnes qui l’9nt entendu dans les envir9ns 9nt également été triggerées à s9n éc9ute. Tu te sens triggeré, n’est-ce pas H9russ ? 
+      @horuss_laugh HORUSS: (ｏ皿ｏ;) &lt; Trigger ferait un magnifique nom pour une bête à sabots.
+      @kankri_talk KANKRI: Tu vois ? totalement triggeré. À présent laissons-le s’en remettre.
+      @meenah_annoyed:#jen-ai-marre MEENAH: 38(
+      @kankri_talk4 KANKRI: Meenah, le fait qu’il cr9ie dur comme fer être en réalité une majestueuse 6ête à sa69ts n’est pas un ch9ix. En fait, ce n’est même pas une cr9yance. C’est un FAIT, lequel n9us devri9ns n9us eff9rcer de respecter c9mme étant FACTUEL, en grande partie due à s9n ressenti hyper imp9rtant sur le sujet. C9nf9rmer des faits réels aux ressentis des critiques est le f9ndement des Pr9blématiques, et éch9uer à cela ne peut résulter qu’en la li6érati9n de dévastatrices avalanches de m9ts c9rrecteurs vivants à éduquer, guérir, et s’imp9ser rhét9riquement 
+      @kankri_talk3 KANKRI: Quand tu as demandé "tu as décidé quand que tu étais un cheval," cela implique qu’il ait fait le ch9ix de créer cette partie de s9n identité, en 9pp9sé au fait d’expl9rer attentivement n9tre faune intérieure, éc9uter l’appel du l9ng museau fant9matique que son corps lui a tragiquement refusé, t9ut en sentant le léger pic9tement de s9n p9stérieur chevalin fant9me.
+      @horuss_smiletalk HORUSS: 8=D &lt; Tellement vrai, l’ami. Ta sagesse transcende réellement ton déficient et plutôt écoeurant sang mutant.
+      @kankri_talk2 KANKRI: Merci. À présent, tu sais à quel p9int je déteste dévier les c9nversations de leurs sujets principaux, mais je pense que l’9ccasion est pr9pice à un minutieux et implacable c9urs sur la questi9n. Je me permets d9nc d’entamer un percutant serm9n sur ce délicat sujet, que v9ici :
       @kankri_talk4~dialogimg_kankri
       @!~dialogimg_sneak
       <!--  -->
