@@ -477,8 +477,8 @@
                   <args>rufioh,Give Rufioh his lusus.,Be Rufioh.</args>
                   <action command='presentActions'>
                     <args>
-                      <action class='beRufioh' name='Yes.'/>
-                      <action command='cancel' name='No.'/>
+                      <action class='beRufioh' name='Oui.'/>
+                      <action command='cancel' name='Non.'/>
                     </args>
                   </action>
                 </action>
@@ -490,7 +490,7 @@
           </action>
         </action>
       </action>
-      <action sprite='!horuss' command='talk' name='Open.'>
+      <action sprite='!horuss' command='talk' name='Ouvre.'>
         <args>
           @! What's that sound? You listen closely to the chest. You hear something flapping around in there. This thing looks air tight. Whatever's in there might run out of ghost oxygen soon.
       @! Alas, this chest appears to have an extremely complicated lock. There's no way you can open it. You'll need to find someone who's handy with gadgets.
