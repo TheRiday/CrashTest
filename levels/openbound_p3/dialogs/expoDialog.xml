@@ -104,127 +104,127 @@
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk1' command='talk' name='SAY WHAAAAAAAAAAAAAAT?'>
+<action sprite='damara' class='expo2Talk1' command='talk' name='PARDOOOOOOOOOOOON ?!’>
       <args>
-      @! Damara!!! What the hell are you doing this deep into the game! Good grief, you are such a teen delinquent. I never should have let you out of Doc Scratch's pervert chamber in the alternate universe.
-      @damara_smilemeantalk DAMAR#000000 WHOOPS, nooooooooo no no no.##
-      @! I'm not gonna let you respond. You're just going say something totally filthy in Japanese again and make everyone uncomfortable.
-      @damara_lewd #000000 WHOA CUT THAT OUT!##
-      @! Sheesh. I guess this is what happens when you don't have a proper upbringing by a decent guardian. Or at least one who isn't a four foot tall asshole in suspenders, who's kind of like a creepy puppet uncle.
-      @! Look, let's all just chill out here. No more lewd Asian shenanigans, got it?? You may notice I bought a new franchise recently.
-      @! Cost me a fortune! I had to pawn a ring that used to belong to some dirtbag just to make the down payment.
-      @! But I should be able to recoup the losses, if I just tweak the business model a little. Hear me out. Instead of giving people money to listen to my shit? I think I might actually start CHARGING people for the service. Crazy, I know, right?
-      @! I've been thinking of dividing up my offers into a series of handsomely priced explanation bundles called EXPOSITION PAKS where I would...
+      @! Damara !!! Qu’est-ce que tu fais si loin dans le jeu ? Bon sang, tu es vraiment une adolescente indisciplinée. Je n’aurais jamais dû te laisser sortir de la chambre perverse de Doc Scratch dans l’univers alternatif.
+      @damara_smilemeantalk DAMAR#000000 OUPS, nooooooooon non non non.##
+      @! Je ne te laisserai pas répondre. Tu vas juste encore dire quelque chose de totalement grossier en japonais et mettre tout le monde mal à l’aise.
+      @damara_lewd #000000 WOW ÉCRASE !##
+      @! Et bien. Je suppose que c’est ce qui arrive quand on n’a pas reçu d’éducation de la part d’un gardien descent. Ou au moins un qui n’est pas un trou du cul d’un mètre vingt avec des bretelles, et qui est une sorte d’oncle poupesque flippant.
+      @! Écoute, posons nous tranquillement ici. Plus de shenanigans japonais obscènes, compris ?? Tu l’as peut-être remarqué, mais j’ai récemment fait l’acquisition d’une nouvelle franchise.
+      @! Ça m’a coûté une fortune ! J’ai dû mettre en gage un anneau ayant appartenu à un pauvre type juste pour faire l’acompte.
+      @! Mais je devrais être capable de récupérer les pertes, si j’ajuste un peu le modèle économique. Ecoute moi bien. À la place de donner de l’argent aux gens pour qu’ils écoutent ma merde, je pense que je devrais en fait commencer à les FAIRE PAYER pour le service. C’est fou, je sais, n’est-ce pas ?
+      @! Je pensais diviser mes offres en une série d’explications à un prix exorbitant appelées PACKS D’EXPOSITION, dans lesquels je pourrais...
       @damara_fu3 DAMARA:
-      @! Oh kaaay, guess you're not down with that? 
-      @! What would you pay for an explanation? Want to make an offer?
-      @! Yeah you're not gonna pay me a goddamn penny, are you.
+      @! D’aaaaaaccord, je suppose que ça ne te convient pas ? 
+      @! Qu’est-ce que tu serais prête à payer pour une explication ? Tu veux faire une offre ?
+      @! Ouais, tu ne me donneras pas un seul centime, n’est-ce pas ?
       @damara_smoke DAMARA:
-      @! Ok fine. I'll give you these explanations for free. Let's call it a loss leader. You'll tell your friends, maybe they'll tell their friends, then the dead presidents start rolling in.
-      @! Yes? Yes???
+      @! Bon d’accord. Je te donnerai ces explications gratuitement. On dira que c’est un investissement pour attirer les clients. Tu en parleras à tes amis, peut-être qu’ils en parleront aussi aux leurs, et puis les pièces commenceront à tinter.
+      @! Oui ? Oui ???
       @damara_huh DAMARA:
-      @! Aw fuck it. Just tell me what you wanna know.
-      @! But just a heads up, these stories are gonna be pretty shitty! I ain't no light player.
+      @! Oh et puis merde. Dis moi juste ce que tu veux savoir.
+      @! Par contre, ce seront des histoires plutôt merdiques ! J’suis pas un héro de la Lumière.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk2' command='talk' name='Hey, before we start...'>
+<action sprite='damara' class='expo2Talk2' command='talk' name='Hey, avant que nous ne commencions...'>
       <args>
-      @! Did you get here with Damara before you got here with Meenah? If you did I think I'm going to flip my shit. That is one cracked way of going through this game. Stop talking to me right now and go come back as Meenah.
+      @! Tu es arrivé ici avec Damara avant d’y arriver avec Meenah ? Si c’est le cas, je pense que je vais péter un cable. C’est une manière absurde d’avancer dans le jeu. Arrête tout de suite de me parler et reviens en tant que Meenah.
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk3' command='talk' name='Tell me about Damara Megido.'>
+<action sprite='damara' class='expo2Talk3' command='talk' name='Parle moi de Damara Megido.'>
       <args>
-      @! You want me to tell you about YOU??? Talk about self absorbed, but alright.
-      @! You say stuff in Japanese, and when people who actually speak Japanese read it they probably laugh because the Japanese is so shitty. Sorry to burst your bubble Damara but the things you say started out in English, went through the google translator, and then out again so that it vaguely makes sense when translated back to English. So you aren't really authentic troll Japanese, you're fake troll Japanese.
+      @! Tu veux que je te parle de TOI ??? Tu parles d’une personne imbue d’elle même... Mais d’accord.
+      @! Tu dis des trucs en japonais, et quand les gens qui parlent vraiment japonais les lisent, ils sont certainement morts de rire parce que c’est du très mauvais japonais. Désolé de briser tes rêves Damara, mais les choses que tu dis ont été écrites en anglais, puis sont passées par Google Traduction une fois, et une seconde fois pour vérifier que ça ait un minimum de sens lorsqu’on le re-traduit en anglais. Donc tu n’es pas vraiment une authentique troll japonaise, tu es une fausse troll japonaise.
       @damara_fu2 DAMARA:
-      @! Whoa don't kill the messenger! Relax. Everyone thinks you're great. In fact, there's probably someone out there RIGHT NOW drawing some weird porn of you.
+      @! Wow je fais que dire la vérité ! On se calme. Tout le monde pense que t’es géniale. En fait, il y a probablement quelqu’un qui réalise JUSTE À L’INSTANT un dessin pornographique bizarre de toi.
       @damara_huh DAMARA: ???
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk4' command='talk' name='Tell me about Mituna Captor.'>
+<action sprite='damara' class='expo2Talk4' command='talk' name='Parle moi de Mituna Captor.'>
       <args>
-      @! Mega Man Sollux has some problems. He falls down and stuff and talks on a 4chan background, because of 4chan. But in spite of that, he's brave and does his best and everyone loves him. Also no one can read a damn thing he says. His quirk is the least legible of all quirks, with Damara's coming in at a close second.
+      @! Sollux Mega Man a quelques problèmes. Il tombe et tout et parle sur un fond de 4chan, à cause de 4chan. Mais malgré ça, il est courageux et fait de son mieux et tout le monde l’aime. Aussi, personne ne peut lire un putain de mot de ce qu’il dit. Son quirk est le moins lisible de tous les quirks, juste derrière celui de Damara..
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk5' command='talk' name='Tell me about Rufioh Nitram.'>
+<action sprite='damara' class='expo2Talk5' command='talk' name='Parle moi de Rufioh Nitram.'>
       <args>
-      @! With apologies to Dante Basco. Dante, I'm sorry about this. All of this. I am so, so sorry. You were leading the regular, modest life of a Hollywood superstar, then this shit happened. Everything is broken forever. I liked your work in The Last Airbender. You know what's funny is how there are probably some people who are reading this right now who have no idea what the fuck I'm talking about. But you know what? What the FUCK else is even new.
-      @! Anyway. Bangarang, dude.
+      @! Avec toutes mes excuses à Dante Basco. Dante, je suis désolé à propos de ça. De tout ça. Je suis tellement, tellement désolé. Tu menais la vie normale et modeste d’une superstar d’Hollywood, et puis cette merde est arrivée. Tout est fini à jamais. J’ai aimé ton travail dans Le Dernier Maître de l’Air. Tu sais ce qui est drôle c’est qu’il y a probablement des gens qui lisent ceci à l’instant et qui n’ont aucune idée de ce dont je parle. Mais tu sais quoi ? Qu’est ce que ça a de PUTAIN de neuf ?
+      @! En tous cas, Bangarang, mec.
       @!:#rufiozuko.tumblr.com Bangarang.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk6' command='talk' name='Tell me about Kankri Vantas.'>
+<action sprite='damara' class='expo2Talk6' command='talk' name='Parle moi de Kankri Vantas.'>
       <args>
-      @! Did you know: it is a Homestuck fact that 99 percent of all readers didn't read or care about anything Kankri said. So in other words, he is exactly like all terrible social justice bloggers. Some social justice bloggers get angry at the joke that he is, but those are the terrible ones, and being terrible is why they get angry. They want to be terrible in peace without being mocked. That is what it is like to be a justified target of ridicule. You feel sad and angry all the time and you don't know why. 
-      @! Kankri wears a cute red sweater and is otherwise fairly adorable. Porrim acts like his mom which is also cute as hell.
+      @! Le saviez-vous : 99 pourcent des lecteurs d’Homestuck ne lisent pas ou se fichent de tout ce qu’a pu dire Kankri. Donc, en d’autres mots, il est exactement comme tous les mauvais blogueurs de la justice sociale. Certains blogueurs de la justice sociale se sont énervés face à la blague qu’il incarne, mais ce sont les mauvais, et être mauvais est justement la cause de leur énervement. Ils veulent être mauvais en paix, sans être moqués. C’est ça d’être une cible de ridicule justifiée. Tu te sens triste et énervé tout le temps et tu ne sais même pas pourquoi.
+      @! Kankri porte un adorable pull rouge et est par ailleurs sincèrement adorable. Porrim se comporte comme sa mère, ce qui est aussi terriblement adorable.
       <!--  -->
       </args>
 </action>
   
-<action sprite='damara' class='expo2Talk7' command='talk' name='Tell me about Meulin Leijon.'>
+<action sprite='damara' class='expo2Talk7' command='talk' name='Parle moi de Meulin Leijon.'>
       <args>
-      @! Meulin is the deaf Nepeta in this kickass smorgasbord of disabled characters. She speaks in ASL to say memes which are called mimes because it's one letter away and therefore a play on words. But you can't actually use ASL to say animated tumblr gifs, you can only say words. She otherwise reads lips, which is funny because her bff sewed his damn mouth shut so they just sign memes to each other all day while stoned. It is implied that they smoke catnip together, as if it were marijuana, which is an especially amusing notion to people who like drugs. Moving on??
+      @! Meulin est la Nepeta sourde de ce fracassant buffet de personnages infirmes. Elle parle en ASL pour dire des memes qui sont appelés mimes parce qu’il n’y a qu’une seule lettre de différence et que c’est un jeu de mots. Mais tu ne peux pas réellement utiliser l’ASL pour dire des GIFs animés en provenance de tumblr, tu peux seulement dire des mots. Autrement,, elle lit sur les lèvres, ce qui est amusant puisque son BFF a justement cousu ses satanées lèvres, et alors ils se miment des memes l’un à l’autre toute la journée tout en étant défoncés. Il est sous-entendu qu’ils fument de l’herbe à chat tous les deux, comme si c’était de la marijuana, ce qui est une référence particulièrement amusante pour les gens qui aiment la drogue. On passe à autre chose ??
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk8' command='talk' name='Tell me about Latula Pyrope.'>
+<action sprite='damara' class='expo2Talk8' command='talk' name='TParle moi de Latula Pyrope.'>
       <args>
-      @! Latula is the gamegrl to Mituna's gamebro. Gamebros and gamegrls aren't really "types of people" so much as they are hollow cliches which are patronizing to multiple groups of people on multiple levels. So in other words, perfect attributes for some 1.5 dimensional NPC-caliber characters stocking a fun jrpg style walkaround game. Wait what was I talking about? Oh yeah Latula.
-      @! Latula's so rad but she can't smell. I think I agree with Karkat, that's not a disability. That's just like having a cold all the time, but without any actual symptoms or problems. Who cares. Latula likes to high five people all the time, but doesn't like to be left hanging. That's a pun, because Redglare liked to hang people with nooses. Mindfang ultimately left Redglare hanging that way too. I'm explaining jokes here. What? I told you these stories would suck. You get what you pay for.
+      @! Latula est la gamegrl du gamebro de Mituna. Les gamebros et les gamegrls ne sont pas des types de personnes à proprement parler, dans le sens où ce sont des clichés creux se montrant condescendants à de nombreux groupes de personnes, sur plusieurs niveaux. Donc, en d’autres termes, les parfaits attributs des personnages de calibre PNJ et de dimension 1,5, qui jouent à un jeu de style jdr. Attends, je parlais de quoi ? Oh, ouais, Latula. 
+      @! Latula est super rad, mais elle ne sent rien. Je pense que je suis d’accord avec Karkat : c’est pas une infirmité. C’est juste comme avoir un rhume permanent, mais sans les symptômes et problèmes qui vont avec. Qui s’en soucie ? Latula aime en taper cinq aux gens à tout va, mais déteste qu’on laisse une main pendre. C’est un jeu de mots, parce que Redglare aimait pendre des gens avec des noeuds coulants. Mindfang a définitivement fait pendre Redglare de cette manière aussi. J’explique la blague là. Quoi ? Je t’avais prévenu que ces histoires craindraient. Tu as ce pour quoi tu as payé.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk9' command='talk' name='Tell me about Porrim Maryam.'>
+<action sprite='damara' class='expo2Talk9' command='talk' name='Parle moi de Porrim Maryam.'>
       <args>
-      @! Porrim is better at social justice than Kankri because she isn't a boring asshole. Some social justice people should try looking into that. Porrim wants there to be equality for ladies. Not everybody cares about that though, which makes it hard for people like Porrim. That's the way it is in the real world. CHALLENGES. But in any case, she is a vampire with cool tattoos. End of story.
+      @! Porrim est meilleure en justice sociale que Kankri, parce qu’elle n’est pas un ennuyeux connard. Certains défenseurs de la justice sociale devraient en prendre de la graine. Porrim veut plus d’égalité pour les femmes. Cependant, tout le monde ne s’en soucie pas, ce qui rend les choses difficiles pour les personnes comme Porrim. C’est comme ça que ça se passe dans la vraie vie. Des CHALLENGES. Mais à part ça, c’est un vampire avec des tatouages stylés. Fin de l’histoire.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk10' command='talk' name='Tell me about Aranea Serket.'>
+<action sprite='damara' class='expo2Talk10' command='talk' name='Parle moi d’Aranea Serket.'>
       <args>
-      @! Aranea is a blabbermouth, just like Mindfang. She says long things both as a teen and as a sexy pirate adult that make people ask what am I even reading? It's about time I took over this exposition stand. The way I describe shit is a million times better. She sure charged me enough for it. God I took a bath on this thing. Why was it so expensive??? IT'S MADE OF FUCKING CARDBOARD.
+      @! Aranea est une pipelette, tout comme Mindfang. Qu’elle soit une adolescente ou une pirate sexy adulte, elle fait de très longues tirades qui font que les gens se demandent “mais qu’est-ce ce que je suis train de lire ?”. Il était temps que je prenne en charge ce stand d’exposition. La façon dont je décris toute ces conneries est des millions de fois meilleure que la sienne. Elle m’a suffisamment fait payé pour ça. Bon dieu, ça m’a ruiné. Pourquoi était-ce si cher ??? CE STAND EST EN PUTAIN DE CARTON.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk11' command='talk' name='Tell me about Horrus Zahhak.'>
+<action sprite='damara' class='expo2Talk11' command='talk' name='Parle moi de Horrus Zahhak.'>
       <args>
-      @! This dude is just Equius on horse steroids. The end.
+      @! Ce mec est juste Equius sous stéroïdes équins. Point Final.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk12' command='talk' name='Tell me about Kurloz Makara.'>
+<action sprite='damara' class='expo2Talk12' command='talk' name='Parle moi de Kurloz Makara.'>
       <args>
-      @! He chewed off his tongue and sewed his mouth shut because he's a weirdo in cahoots with Gamzee and English. Who even knows what they're up to. It's probably just a lot of stupid bullshit. Meaningless, clownish nonsense. Want to know why they're assembling the wicked ensemble? They probably just think it's funny. Kurloz speaks in bones when he does his clown hypnosis shit but otherwise he mimes everything because get this: he's pretty much literally a mime. Also a juggalo. Because that's exactly what Homestuck needed. Another fucking juggalo. Homestuck needed another juggalo like it needed... 
-      @! Well, another twelve trolls I guess. 
+      @! Il a avalé sa langue et a cousu ses lèvres parce que c’est un timbré de mèche avec Gamzee et English. Qui sait ce qu’ils manigancent ? C’est probablement juste un tas d’âneries. Des clowneries absurdes et insensées. Tu veux savoir pourquoi ils forment une assemblée de vilains ? Ils pensent probablement que c’est drôle. Kurloz parle avec des os quand il pratique son hypnose clownesque merdique, mais autrement, il mime absolument tout vu que, tiens toi bien, c’est littéralement un mime. Et aussi un juggalo. Parce que c’est exactement ce dont avait besoin Homestuck : un autre enfoiré de juggalo. Homestuck avait autant besoin d’un autre juggalo que de...
+      @! Eh bien, douze autres trolls, je suppose.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk13' command='talk' name='Tell me about Cronus Ampora.'>
+<action sprite='damara' class='expo2Talk13' command='talk' name='Parle moi de Cronus Ampora.'>
       <args>
-      @! Cronus is the worst character in Homestuck by a nautical mile. Any questions?
+      @! Cronus est le pire personnage de Homestuck, à au moins un mile nautique. Des questions ?
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk14' command='talk' name='Tell me about Meenah Peixes.'>
+<action sprite='damara' class='expo2Talk14' command='talk' name='Parle moi de Meenah Peixes.'>
       <args>
-      @! Meenah is kind of throwing a bone to the pisces people who got stuck with Feferi. Feferi didn't really do anything and then she died. Meenah is a cool sassy punk who has more important stuff to do than Feferi ever did. You just spent like the last three hours playing through these games from her POV so obviously you know that. You're probably sick of fish puns by now. After a while you start running out of fish puns. You can overdo it with fish puns, much like you can overfish the ocean. You start literally running out of fucking fish. Be careful out there.
-      @! Meenah discovered that raising and army is hard. But you know what's really hard? What's really hard is making games. Games disguise the effort that go into them probably like few other crafts. In order to make a game that is even slightly better than mediocre, someone probably had to die in the process. Like building pyramids. Nobody actually died while making these games though, hence they were just ok. But still if you add up all the work done collectively on these last three games, it probably was comparable to the manhours that went into [S] Cascade. You know what that is? That's a silly ass fact.
+      @! Meenah est une sorte de compensation pour les personnes Poissons qui devaient se coltiner Feferi. Feferi n’a pas vraiment fait grand chose et puis elle est morte. Meenah est une punk cool et impertinente qui avait plus de choses importantes à faire que Feferi n’en a jamais eu. Tu viens juste de passer ces trois dernières heures à jouer à ce jeu depuis son point de vue, donc tu sais évidemment ça. À présent, tu es probablement fatigué par les jeux de mots impliquant la mer. Après un bon moment, tu commences à manquer de jeux de mots poissonneux. Tu peux épuiser les jeux de mots marins tout comme tu peux épuiser les océans. Tu commences à manquer littéralement de putain de poisson. Fais attention.
+      @! Meenah a découvert que lever une armée est une chose difficile. Mais tu sais ce qui est vraiment difficile ? Ce qui est vraiment difficile c’est de créer des jeux. Les jeux déguisent les efforts qu’ils demandent comme le font peu d’autres activités. Des gens ont probablement dû mourir pour faire en sorte que leurs jeux soient un peu plus que médiocres. Comme pour construire les pyramides. Mais personne n’est vraiment mort en faisant ces jeux-ci, c’est pourquoi ils sont seulement acceptables. Mais tout de même, si tu additionnes tout le travail effectué collectivement sur ces trois derniers jeux, c’était probablement comparable à la masse de travail effectuée seul sur [S] Cascade. Tu sais ce que c’était ? C’était un fait stupide.
       <!--  -->
       </args>
 </action>
