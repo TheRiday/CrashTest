@@ -9,48 +9,47 @@
       </sprite>
 
     <classes>
-<action class='meenahTalk1' sprite='rufioh' command='talk' name='Talk to Meenah.'>
+<action class='meenahTalk1' sprite='rufioh' command='talk' name='Parle à Meenah.'>
       <args>
-      @rufioh_happytalk \nRUFIOH: d*mn... thank god 1 got my lusus back... dunno what 1'd do w1thout the l1ttle guy!
-      @meenah_talk MEENAH: is he even uh
+      @rufioh_happytalk \nRUFIOH: p*ta1n... d1eu merc1 mon lusus est de retour… je ne sa1s pas ce que j’aura1s fa1t sans ce p’t1t gars !
+      @meenah_talk MEENAH: est il solement heu
       @meenah_idle MEENAH: "reel"
-      @meenah_idle MEENAH: ya know
-      @meenah_talk MEENAH: like the ghost of your actual lusus or
-      @rufioh_sheepish \nRUFIOH: er... know what? not sure, doll!
-      @rufioh_happytalk \nRUFIOH: he could just be a memory f1gment or someth1ng l1ke that. or maybe he's really h1s ghost...
-      @rufioh_happytalk \nRUFIOH: when damara acc1dentally dropped a hunger trunk on h1m way back... crushed h1s l1ttle body... 1 always dreamed 1 m1ght meet up w1th h1m aga1n 1n the afterl1fe.
-      @rufioh_sheepish \nRUFIOH: so when 1 found h1m here... guess 1 d1dn't th1nk about 1t much? 1 was just happy to see h1m.
-      @rufioh_talk:#you-know...-the-bas1cs? \nRUFIOH: he 1s my happy thought after all. 1 can't really br1ng myself to do much w1thout h1m... l1ke fly... f1ght... crow... 
-      @meenah_idle MEENAH: truth
-      @rufioh_surprisetalk \nRUFIOH: 1 remember when 1 was young... just a l1ttle runt out there try1ng to make 1t 1n the world... people would look at me funny cause my w1ngs were grow1ng 1n, and that really freaked people out yo!
-      @rufioh_sadtalk \nRUFIOH: so 1 got way self consc1ous and d1dn't feel at home out there... w1th everybody eye1ng me up l1ke that...
-      @rufioh_surprisetalk \nRUFIOH: so one n1ght my lusus led me 1nto the woods...
-      @rufioh_talk:#shouted-bangarang-SO-LOUD-you-don't-even-KNOW! \nRUFIOH: and 1 found th1s whole baller v1llage of f***ck1n tree houses and rope ladders and 1 was l1ke D*MN!
-      @rufioh_happytalk \nRUFIOH: that's when 1 became an off1c1al member of the lost weeaboos.
-      @meenah_annoyed MEENAH: hey ok so...
-      @meenah_annoyedtalk MEENAH: can we not actually talk about the lost weeaboos
-      @meenah_annoyedtalk MEENAH: can that just be not a conversation we have
-      @rufioh_offended \nRUFIOH: uh...
-      @meenah_annoyedtalk MEENAH: ruf listen your storys cool but theres some junk thats just so silly i cant even try to abide
-      @rufioh_sheepish \nRUFIOH: yeah 1 guess... heh.
-      @rufioh_happytalk \nRUFIOH: but anyway, they were my boys... a better posse you couldn't hope to ch1ll w1th, k1ck the sh*t on troll an1me... all that.
-      @meenah_wut2:#no MEENAH: aw fer glub sake
-      @rufioh_happytalk \nRUFIOH: f1rst bumped 1nto damara out there... crazy t1mes!
-      @rufioh_happytalk \nRUFIOH: 1 th1nk those were format1ve sweeps for me... learned to love a lotta th1ngs 1 st1ll do to th1s day.
-      @rufioh_surprisetalk \nRUFIOH: between you and me... 1 m1ss the days 1 could just jam w1th her about troll an1me... but now... you know how 1t 1s...
-      @meenah_annoyedtalk MEENAH: ok why do you stinkin nerds insist on calling it troll anime
-      @meenah_annoyed MEENAH: i gotta ask
-      @meenah_annoyedtalk MEENAH: dont you realize prefacing anything with 'troll' inside the context a troll culture is redundant as fuck
-      @meenah_annoyed MEENAH: why dont you just call them cartoons
-      @rufioh_surprise:#deep... \nRUFIOH: yeah... 1 d1g that. never thought about that... huh.
-      @rufioh_sheepish \nRUFIOH: 1t's ok, 1 get that the stuff 1 l1ke 1sn't for everyone.
-      @rufioh_sheepish \nRUFIOH: people say 1t's just for w1gglers... and 1 k1nd of assumed one day 1'd grow out of 1t, but guess 1 never d1d?
-      @rufioh_surprisetalk \nRUFIOH: then aga1n... we all d1ed... and now we really are all young forever... 
-      @rufioh_surprisetalk \nRUFIOH: just l1ke the prophecy of the lost weeaboos sa1d... 
-      @rufioh_notalk \nRUFIOH: whoa spooky... 1 always thought that was a load of bs!!!
-      @meenah_talk MEENAH: whoops you just said lost weeaboos again thus failing the conversation
-      @meenah_talk MEENAH: in the immortal hand gestured words of the late great meulin leijon:
-      @meenah_fish MEENAH: IM SO DON-E
+      @meenah_idle MEENAH: tu sais
+      @meenah_talk MEENAH: genre le fantôme de ton vraie lusus ou
+      @rufioh_sheepish \nRUFIOH: heu... tu sa1s quo1 ? je su1s pas sûr, poupée !
+      @rufioh_happytalk \nRUFIOH: 1l pourra1t très b1en n'être qu’un fragment de mémo1re ou un truc du genre. ou peut-être est-ce réellement son fantôme...
+      @rufioh_happytalk \nRUFIOH: depu1s que damara a acc1dentellement fa1t tomber un tronc d’arbre sur lu1 1l y a tout ce temps... et a br1sé son pet1t corps chét1f… j’a1 toujours rêvé de pouvo1r le retrouver dans l'au-delà.
+      @rufioh_sheepish \nRUFIOH: donc quand je l’a1 trouvé 1c1… j’1mag1ne que je n’a1 pas réflech1 tant que ça ? j’éta1s juste heureux de le vo1r.
+      @rufioh_talk:#tu-sa1s...-les-bases \nRUFIOH: 1l est l’un de mes pet1ts bonheurs apres tout. je ne peux me résoudre à fa1re grand chose sans lu1… comme voler… me battre… me pavaner... 
+      @meenah_idle MEENAH: en effet
+      @rufioh_surprisetalk \nRUFIOH: je me rappelle quand j’éta1s jeune... juste un gr1ngalet tentant de se fa1re une place dans le monde... les gens me devisagea1ent à cause de mes a1les qu1 cont1nua1ent de grand1r, et ça les fa1sa1t fl1pper yo !
+      @rufioh_sadtalk \nRUFIOH: et j’a1 commencé à manquer d’assurance, je ne me su1s plus sent1 chez mo1 nul part… avec tout ces regards posés sur ma personne...
+      @rufioh_surprisetalk \nRUFIOH: un so1r mon lusus m’a condu1t dans la forêt...
+      @rufioh_talk:#j’a1-cr1é-bangarang-SI-FORT-t’as-pas-1DÉE-! \nRUFIOH: et j’a1 trouvé ce p*ta1n de v1llage trop cool avec ses ma1sons dans les arbres et ses échelles de cordes et j’éta1s en mode P*TA1N !   @rufioh_happytalk \nRUFIOH: et c’est comme ça que je su1s devenu un membre off1ciel des weeaboos perdus.
+      @meenah_annoyed MEENAH: hey ok donc...
+      @meenah_annoyedtalk MEENAH: on pourrait eviter de parler des weeaboos perdus stp
+      @meenah_annoyedtalk MEENAH: on pourrait se mettre daccord sur le fait de ne pas avoir cette conversation
+      @rufioh_offended \nRUFIOH: heu...
+      @meenah_annoyedtalk MEENAH: ruf ecoute tes histoires sont cools mais ya certaines conneries que je peux pas supporter tant elles sont ridicules
+      @rufioh_sheepish \nRUFIOH: oua1s je vo1s... eh.
+      @rufioh_happytalk \nRUFIOH: bref, c’éta1t mes potes… on ne pouva1t pas espérer se poser avec me1lleure bande, à fond dans les an1mes trolls… tout ça.
+      @meenah_wut2:#no MEENAH: arf nom de lieu
+      @rufioh_happytalk \nRUFIOH: la prem1ère sur qu1 je su1s tombé c’est damara… c'éta1t le bon temps !
+      @rufioh_happytalk \nRUFIOH: je pense que ces sweeps se sont avérés très formateurs pour mo1… j’a1 appr1s à appréc1er beaucoup de choses qu1 me su1vent encore aujourd’hu1.
+      @rufioh_surprisetalk \nRUFIOH: entre to1 et mo1… je regrette le temps où je pouva1s juste d1scuter avec elle des an1mes trolls...ma1s ma1ntenant… tu sa1s comment c’est...
+      @meenah_annoyedtalk MEENAH: ok pourquoi vous les stupides nerds vous persistez a appeler ca des animes trolls
+      @meenah_annoyed MEENAH: non mais serieux
+      @meenah_annoyedtalk MEENAH: vous realisez pas que rajouter troll derriere les mots au sein meme dune culture troll cest putain dinutile
+      @meenah_annoyed MEENAH: pourquoi vous appelez pas ca des dessins animes
+      @rufioh_surprise:#c’est-profond... \nRUFIOH: oua1s... je vo1s ce que tu veux d1re. je n’y a1 jama1s vra1ment pensé… heu.
+      @rufioh_sheepish \nRUFIOH: c’est pas grave, je comprends que mes centres d'1ntérêt ne peuvent pas pla1re à tout le monde.
+      @rufioh_sheepish \nRUFIOH: les gens d1sent que c’est pour les larves… et je pensa1s qu’en grand1ssant ça me passera1t ma1s j’1mag1ne que ce ne fut f1nalement jama1s le cas ?
+      @rufioh_surprisetalk \nRUFIOH: ma1s bon… on est tous morts… et à présent nous serons vraiment tous jeunes pour toujours 
+      @rufioh_surprisetalk \nRUFIOH: tout comme l’1nd1qua1t la prophét1e des weeaboos perdus... 
+      @rufioh_notalk \nRUFIOH: woah fl1ppant... j’a1 toujours pensé que c’éta1t une grosse blague !!!
+      @meenah_talk MEENAH: oups tu viens juste de dire weeaboos et dainsi ruiner la conversation
+      @meenah_talk MEENAH: Tels les signes immortels de la grande défunte Meulin Leijon:
+      @meenah_fish MEENAH: J-EN AI MARR-E
       <!--  -->
       </args>
 </action>
