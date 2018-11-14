@@ -198,17 +198,17 @@
       <!--  -->
       </args>
 </action>   
-<action class='daveTalk3' sprite='damara' command='talk' name='Talk to Dave.'>
+<action class='daveTalk3' sprite='damara' command='talk' name='Parle à Dave.'>
       <args>
       @dave_idle DAVE: hey
-      @dave_talk DAVE: who the fuck are you
-      @dave_talk DAVE: dont think you belong in here 
-      @damara_smile DAMARA: I VERY HAPPY. 
-      @damara_smile DAMARA: MEET HUMAN.
-      @damara_smile DAMARA: SAY MUCH DELIGHT.
-      @dave_talk DAVE: meh you seem harmless enough
-      @dave_talk DAVE: what do i even care
-      @dave_talk DAVE: go fuck some shit up japanese schoolgirl troll
+      @dave_talk DAVE: putain tes qui
+      @dave_talk DAVE: te pense pas chez toi ici
+      @damara_smile DAMARA: JE VRAIMENT HEUREUSE. 
+      @damara_smile DAMARA: RENCONTRER HUMAIN.
+      @damara_smile DAMARA: PARLER BEAUCOUP PLAISIR.
+      @dave_talk DAVE: meh tu as lair assez inoffensive 
+      @dave_talk DAVE: et puis quest ce que je men fiche
+      @dave_talk DAVE: va faire des conneries la troll ecoliere japonaise
       <!--  -->
       </args>
 </action>
