@@ -92,27 +92,27 @@
       </args>
 </action>
 
-<action class='damaraTalk4' sprite='rufioh' command='talk' name='Talk to Damara.'>
+<action class='damaraTalk4' sprite='rufioh' command='talk' name='Parle à Damara.'>
       <args>
-      @rufioh_offendedtalk \nRUFIOH: hey doll... don't suppose you had anyth1ng to do w1th the recent d1sappearance of my lusus, d1d you?
+      @rufioh_offendedtalk \nRUFIOH: hey poupée... je suppose que tu n’as r1en à vo1r avec la d1spar1t1ion récente de mon lusus, n’est-ce pas ?
       @damara_talk DAMARA: もちろんそんなことはない。あなたの告発は言語道断。 
-      @rufioh_offended \nRUFIOH: yeah... sure... l1ke 1 bel1eve that!
-      @rufioh_talk \nRUFIOH: l1ke 1'm not so on to your tr1cks by now...
+      @rufioh_offended \nRUFIOH: oua1s… b1en sûr… comme s1 j’alla1s cro1re ça !
+      @rufioh_talk \nRUFIOH: comme s1 je n’éta1s pas hab1tué à tes man1gances...
       @damara_huhtalk DAMARA: 黙れ。そう。あなたはまだ彼と別れたのですか？
-      @rufioh_sadtalk \nRUFIOH: no... not yet...
-      @rufioh_sheepish \nRUFIOH: 1 tr1ed... but 1 just couldn't do 1t... 1t's hard, you know?
+      @rufioh_sadtalk \nRUFIOH: non... pas encore...
+      @rufioh_sheepish \nRUFIOH: j’a1 essayé… ma1s je n’a1 juste pas pu le fa1re… c’est dur, tu sa1s ?
       @damara_meantalk DAMARA: あなたは、どういう意味ですか。それは恋人があなたを裏切ったときに感じる？はい、私は知っている。
-      @rufioh_sadtalk \nRUFIOH: d*mn... so cold, g1rl. why can't you let the past go?
-      @rufioh_offended \nRUFIOH: anyway... once 1 actually do get up the nerve to break 1t to h1m... don't be th1nk1ng th1s 1s your b1g chance w1th me!
-      @rufioh_sheepish \nRUFIOH: 1t's over between us for good... k1nda for obv1ous reasons... so just fr1ends, you d1g?
+      @rufioh_sadtalk \nRUFIOH: p*tain... c’éta1t glac1al. pourquo1 ne peux tu pas oubl1er le passé ?
+      @rufioh_offended \nRUFIOH: quo1 qu’1l en so1t… une fo1s que j’aura1s enf1n réuss1 à trouver le courage de lu1 d1re… ne cro1s pas que ce sera une nouvelle chance pour to1 !
+      @rufioh_sheepish \nRUFIOH: c’est bel et b1en f1n1 entre nous… pour des ra1sons év1dentes… on reste seulement am1s, c’est compr1s ?
       @damara_fiendish DAMARA: 右。我々が表示されます。
-      @rufioh_happytalk \nRUFIOH: haha... yeah, 1 f1gured you'd be l1ke that. 
-      @rufioh_surprisetalk \nRUFIOH: anyway, meenah k1nd of needs to keep go1ng through th1s bubble... 1 know you l1ke to make sh*t d1ff1cult for everyone all the t1me, but...
-      @rufioh_surprisetalk \nRUFIOH: you th1nk you could get r1d of that b1g *ss 1ceberg th1ng you dropped there?
+      @rufioh_happytalk \nRUFIOH: haha... oua1s, je sava1s que tu réag1ra1s comme ça.
+      @rufioh_surprisetalk \nRUFIOH: d’a1lleurs, 1l semblera1t que meenah a1t beso1n de cont1nuer son chem1n à travers cette bulle… je sa1s que tu adores compl1quer la v1e de tout le monde tout le temps, ma1s...
+      @rufioh_surprisetalk \nRUFIOH: tu penses que tu pourra1s te débarasser de cette p*ta1n de sorte d’1ceberg que tu as lâché là ?
       @damara_idle DAMARA: いいえクソ方法。
-      @rufioh_sheepish \nRUFIOH: aw, come on... do 1t for me, damara?
+      @rufioh_sheepish \nRUFIOH: oh, allez... fa1s le pour mo1, damara.
       @damara_smilemeantalk DAMARA:罰金。しかし、あなたは私に借りがある。性的な接待。
-      @rufioh_laugh \nRUFIOH: hahahaha... wow... alr1ght uh... maybe? just go...
+      @rufioh_laugh \nRUFIOH: hahahaha... wow... d’accord euh... peut-être ? fais-le juste...
       <!--  -->
       </args>
 </action>
