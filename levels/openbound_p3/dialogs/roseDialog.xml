@@ -54,40 +54,40 @@
       <!--  -->
       </args>
 </action>
-<action class='roseTalk2' sprite='dave' command='talk' name='Talk to Rose.'>
+<action class='roseTalk2' sprite='dave' command='talk' name='Parle à Rose.'>
       <args>
-      @dave_madtalk DAVE: rose quit all the clanking around over here i cant concentrate on my raps
-      @dave_madtalk DAVE: what in the sweet religious name of jesus h dick are you doing with all these bottles
-      @rose_talk ROSE: Just a little alchemy.
-      @dave_huh DAVE: alchemy
-      @dave_huhtalk DAVE: what kind of shitty thing are you alchemizing with this crap
-      @dave_huhtalk DAVE: are you alchemizing bottles with other bottles to make like
-      @dave_huhtalk:#rose_ebottles DAVE: superbottles
-      @rose_annoyedtalk ROSE: No. Believe it or not, I'm actually focused the contents of the bottles.
-      @dave_talk DAVE: youre a pretty good hike from the alchemiters
-      @rose_talk ROSE: The alchemy I'm practicing is a little more old fashioned.
-      @rose_talk ROSE: You know, there was a time on Earth when alchemy didn't refer to a process whereby a large device used game constructs to materialize some idealized version of an object out of thin air.
-      @rose_talk ROSE: Alchemists used to experiment with various substances to transmute them into something more valuable.
-      @rose_talk ROSE: Its more pedestrian and scientifically credible cousin would be chemistry, which I guess is the technical term for mixing shit together.
-      @rose_talk ROSE: Which strictly speaking more accurately describes what I'm doing.
-      @dave_talk DAVE: so what your doing science now
-      @dave_talk DAVE: who do you think you are your mom
-      @dave_huhtalk DAVE: wait that sounded like lame burn again
-      @dave_huhtalk DAVE: every time i talk about your mom it sounds like a burn
-      @dave_smug DAVE: who do you think you are my mom
-      @dave_huh DAVE: wait scratch that
-      @dave_huhtalk DAVE: every time we start talking about her as my mom things just start snowballing down our dumb conversational ski slope and suddenly sigmund freud and king oedipus start banging each others hot moms at some kind of depraved sexy momswap party
-      @rose_annoyedtalk ROSE: Thanks for the imagery. It was almost as graphic as it made no sense.
-      @dave_talk DAVE: so what are you making
-      @rose_happy ROSE: Beverages.
-      @dave_talk DAVE: beverages what kind of beverages
-      @rose_happytalk ROSE: Tasty beverages, I hope.
-      @dave_concern DAVE: apple juice???
-      @dave_concern DAVE: please let it be aj please let it be aj please let it be aj 
-      @rose_talk ROSE: I'll see what I can do.
-      @dave_idle DAVE: omg
-      @dave_idle:#omg DAVE: omg
-      @dave_smug DAVE: fuuuuuuuuuuuuuuuuuuuuuuck yes
+      @dave_madtalk DAVE: rose arrete tes cliquetis la je ne peux pas me concentrer sur mes raps
+      @dave_madtalk DAVE: au nom religieux du doux jesus bite quest ce que tu fais avec toutes ces bouteilles
+      @rose_talk ROSE: Juste un petit peu d’alchimie.
+      @dave_huh DAVE: alchimie
+      @dave_huhtalk DAVE: quel genre de bouse tu alchimises avec cette merde
+      @dave_huhtalk DAVE: est ce que tu alchimises des bouteilles avec dautres bouteilles pour créer genre
+      @dave_huhtalk:#rose_ebouteilles DAVE: des superbouteilles
+      @rose_annoyedtalk ROSE: Non. Crois-le ou non, je suis en réalité concentrée sur le contenu des bouteilles.
+      @dave_talk DAVE: tu es vachement loin des alchimiseurs
+      @rose_talk ROSE: L’alchimie que je pratique est un petit peu plus vieux-jeu.
+      @rose_talk ROSE: Tu sais, il fut un temps sur Terre où le mot alchimie ne référait pas à un procédé selon lequel un grand appareil utilisait des concepts de jeu pour matérialiser quelque version idéalisée d’un objet sorti de nulle part.
+      @rose_talk ROSE: Les alchimistes avaient pour habitude d’expérimenter avec diverses substances pour les transmuer en quelque chose de plus précieux.
+      @rose_talk ROSE: Sa version plus prosaïque et scientifiquement crédible serait la chimie, qui est je pense le terme technique pour mélanger des conneries ensemble.
+      @rose_talk ROSE: Ce qui au sens strict décrit plus précisément ce que je suis en train de faire. 
+      @dave_talk DAVE: donc tu fais de la science maintenant
+      @dave_talk DAVE: tu crois que tes qui ta mere
+      @dave_huhtalk DAVE: attends ca sonnait de nouveau comme une insulte pourrie
+      @dave_huhtalk DAVE: a chaque fois que je parle de ta mere ca sonne comme une insulte
+      @dave_smug DAVE: tu crois que tes qui ma mere
+      @dave_huh DAVE: attend raye ca
+      @dave_huhtalk DAVE: a chaque fois quon commence a parler delle en tant que ma mere les choses font juste effet boule de neige sur la piste de ski de nos conversations stupides et soudainement sigmund freud et le roi oedipe se tapent chacun la mere sexy de lautre dans une genre de fete depravee dechange de mere sexy
+      @rose_annoyedtalk ROSE: Merci pour l’image. C’était presque aussi graphique que ça ne faisait de sens.
+      @dave_talk DAVE: donc quest ce que tu fais
+      @rose_happy ROSE: Des boissons.
+      @dave_talk DAVE: des boissons quels genres de boissons
+      @rose_happytalk ROSE: Des boissons délicieuses j’espère.
+      @dave_concern DAVE: jus de pomme???
+      @dave_concern DAVE: faites que ce soit du jdp faites que ce soit du jdp faites que ce soit du jdp
+      @rose_talk ROSE: Je vais voir ce que je peux faire.
+      @dave_idle DAVE: omd
+      @dave_idle:#omg DAVE: omd
+      @dave_smug DAVE: putaiiiiiiiiin ouais
       <!--  -->
       </args>
 </action>
