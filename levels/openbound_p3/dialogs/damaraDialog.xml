@@ -1,3 +1,5 @@
+<sburb>
+    <classes>
 <action class='damaraTalk1' sprite='meenah' command='talk' name=Parle à Damara.'>
       <args>
       @meenah_idle MEENAH: alooooors
@@ -29,8 +31,7 @@
       @damara_smoke DAMARA: 
       <!--  -->
       </args>
-</action>
-
+</action>                                                                
 
 <action class='damaraTalk2' sprite='meenah' command='talk' name='Demande à Damara de se joindre à toi.'>
       <args>
