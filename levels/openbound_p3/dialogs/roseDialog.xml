@@ -1,56 +1,56 @@
 <sburb>
     <classes>
-<action class='roseTalk1' sprite='kanaya' command='talk' name='Talk to Rose.'>
+<action class='roseTalk1' sprite='kanaya' command='talk' name='Parle à Rose.'>
       <args>
-      @rose_concern ROSE: What happened!
-      @kanaya2_idle KANAYA: What
-      @rose_concern ROSE: You're not glowing anymore!
-      @kanaya2_happy KANAYA: Oh Right
-      @kanaya2_smirktalk KANAYA: I Became So Absorbed In A Conversation With My Ancestor I Already Forgot She Taught Me How To
-      @kanaya2_happy KANAYA: Switch Off
-      @rose_talk ROSE: Oh, so you did go talk to her?
-      @kanaya2_happy KANAYA: Yes
-      @rose_happytalk ROSE: That's great! How did it go?
-      @kanaya2_happy KANAYA: Very Well
-      @kanaya2_happytalk KANAYA: She Is Very Nice And As A Person Is As Impressive As I Was Imagining Her To Be
-      @kanaya2_happytalk KANAYA: But Not Nearly As Intimidating Really
-      @rose_happytalk ROSE: I knew you wouldn't regret it if you got up the nerve to talk to her.
-      @rose_concern ROSE: What did she say, besides a few vampire-to-vampire skin-dimming pointers?
-      @kanaya2_happy KANAYA: Many Things
-      @kanaya2_happytalk KANAYA: Primarily Encouraging Me To Pursue My Prior Obligation To My People
-      @rose_idle ROSE: Oh?
-      @kanaya2_happytalk KANAYA: She Said She Used To Eschew Her Role Rather Vehemently
-      @kanaya2_happytalk KANAYA: The Duties Of Our Caste Were Quite Limiting In Both Worlds It Seems
-      @kanaya2_happytalk KANAYA: So She Renounced Them Completely And Wanted A Different Life
-      @kanaya2_happytalk KANAYA: But She Also Said Something To The Effect That
-      @kanaya2_happytalk KANAYA: She Found That It Wasnt Really Necessary To Reject That Role Completely
-      @kanaya2_happytalk KANAYA: And The Same Is True For Me
-      @kanaya2_happytalk KANAYA: As Long As I Know Within That I Am Free
-      @kanaya2_happytalk KANAYA: And If My Decision Is To Embrace My Path Then It Can Be A Source Of Strength
-      @rose_concern ROSE: Then you want to try to restore your race again?
-      @rose_concern ROSE: I had begun to think you'd lost hope in that possibility.
-      @kanaya2_talk KANAYA: Its True Theres No Orb Anymore
-      @kanaya2_talk KANAYA: She Said It May Be Very Difficult
-      @kanaya2_smirktalk KANAYA: But Theres No Hope If I Dont Try
-      @rose_idle ROSE: That's true.
-      @kanaya2_talk KANAYA: I Dont Know How Im Going To Do It Yet
-      @kanaya2_talk KANAYA: But Such Is The Nature Of Adventures
-      @kanaya2_talk KANAYA: You Cant Be Scared Of Adventures
-      @kanaya2_happytalk KANAYA: I Think Im Excited About It Now
-      @rose_happy ROSE: I can tell.
-      @rose_happytalk ROSE: We can work on it together when we arrive. Maybe the session we're about to explore will offer some answers.
-      @kanaya2_happy KANAYA: I Hope So
-      @rose_concern ROSE: Hey,
-      @rose_sad ROSE: You aren't permanently de-glowed now, are you?
-      @kanaya2_talk KANAYA: Oh No I Can Flip It Back On
-      @kanaya_idle KANAYA: See
-      @kanaya2_talk KANAYA: Turns Out Its Just
-      @kanaya_happytalk KANAYA: A Silly Biological Parlor Trick
-      @rose_talk ROSE: Oh, good. You had me worried there for a moment.
-      @kanaya2_idle KANAYA: Sorry
-      @kanaya2_talk KANAYA: I Know How You Enjoy A Good Source Of Light
-      @rose_happytalk ROSE: Light is one of my favorite things.
-      @rose_coytalk ROSE: Please don't take these as fighting words, but my aspect is simply the best there is.
+      @rose_concern ROSE: Qu’est-ce qui s’est passé !
+      @kanaya2_idle KANAYA: Quoi
+      @rose_concern ROSE: Tu ne brilles plus !
+      @kanaya2_happy KANAYA: Oh Ça
+      @kanaya2_smirktalk KANAYA: Jétais Si Absorbée Dans Une Conversation Avec Mon Ancêtre Que Jai Déjà Oublié Quelle Ma Appris Comment
+      @kanaya2_happy KANAYA: Léteindre
+      @rose_talk ROSE: Oh, alors tu es vraiment allée lui parler ?
+      @kanaya2_happy KANAYA: Oui
+      @rose_happytalk ROSE: C’est génial ! Comment ça s’est passé ?
+      @kanaya2_happy KANAYA: Très Bien
+      @kanaya2_happytalk KANAYA: Elle Est Très Gentille Et En Tant Que Personne Aussi Impressionnante Que Je Limaginais
+      @kanaya2_happytalk KANAYA: Mais Pas Aussi Intimidante En Vérité
+  @rose_happytalk ROSE: Je savais que tu ne regretterais pas de trouver le courage de lui parler.
+      @rose_concern ROSE: Que t’a-t-elle dit, à part quelques conseils pour assombrir la peau de vampire-à-vampire ?
+      @kanaya2_happy KANAYA: Beaucoup De Choses
+      @kanaya2_happytalk KANAYA: Principalement Des Encouragements À Poursuivre Mon Précédent Devoir Envers Mon Peuple
+      @rose_idle ROSE: Oh ?
+      @kanaya2_happytalk KANAYA: Elle A Dit Quelle Rejetait Autrefois Son Rôle Avec Véhémence
+      @kanaya2_happytalk KANAYA: Les Devoirs De Notre Caste Étaient Assez Restrictifs Dans Nos Deux Mondes Il Semblerait
+      @kanaya2_happytalk KANAYA: Alors Elle Les Abandonnait Complètement Et Désirait Une Vie Differente
+      @kanaya2_happytalk KANAYA: Mais Elle A Aussi Dit Quelque Chose Comme Quoi
+      @kanaya2_happytalk KANAYA: Elle A Réalisé Quil Netait Pas Vraiment Nécessaire De Rejeter Ce Role Complètement
+      @kanaya2_happytalk KANAYA: Et Cest Vrai Aussi Pour Moi
+      @kanaya2_happytalk KANAYA: Tant Que Je Sais Au Fond De Moi Que Je Suis Libre
+      @kanaya2_happytalk KANAYA: Et Si Ma Décision Est Dembrasser Mon Chemin Alors Il Peut Être Une Source De Force
+      @rose_concern ROSE: Alors tu veux à nouveau essayer de restaurer ta race ?
+      @rose_concern ROSE: J’avais commencé à penser que tu avais perdu espoir en cette possibilité.
+      @kanaya2_talk KANAYA: Il Est Vrai Quil Ny A Plus Dorbe
+      @kanaya2_talk KANAYA: Elle A Dit Que Cela Pourrait Être Très Difficile
+      @kanaya2_smirktalk KANAYA: Mais Il Ny A Pas Despoir Si Je Nessaie Pas
+      @rose_idle ROSE: C’est vrai.
+      @kanaya2_talk KANAYA: Je Ne Sais Pas Encore Comment Je Vais Faire
+      @kanaya2_talk KANAYA: Mais Telle Est La Nature Des Aventures
+      @kanaya2_talk KANAYA: On Ne Peut Pas Avoir Peur Des Aventures
+      @kanaya2_happytalk KANAYA: Je Pense Que Ca Mexcite À Lheure Actuelle
+      @rose_happy ROSE: Je vois ça.
+      @rose_happytalk ROSE: Nous pourrons travailler là-dessus quand nous arriverons. Peut-être que la session que nous sommes sur le point d’explorer nous offrira quelques réponses.
+     @kanaya2_happy KANAYA: Je Lespère
+      @rose_concern ROSE: Hé,
+      @rose_sad ROSE: Tu n’es pas dé-brillée de manière permanente désormais, si ?
+      @kanaya2_talk KANAYA: Oh Non Je Peux Le Rallumer
+      @kanaya_idle KANAYA: Tu Vois
+      @kanaya2_talk KANAYA: Il Savère Que Cest Juste
+      @kanaya_happytalk KANAYA: Un Tour De Magie Biologique Loufoque
+      @rose_talk ROSE: Oh, bien. Tu m’as inquiétée pendant un moment.
+      @kanaya2_idle KANAYA: Désolée
+      @kanaya2_talk KANAYA: Je Sais Comme Tu Apprécies Une Bonne Source De Lumière
+      @rose_happytalk ROSE: La lumière est une de mes choses favorites.
+      @rose_coytalk ROSE: Ne prends pas ça comme une offense, mais mon aspect est simplement le meilleur qui soit.
       <!--  -->
       </args>
 </action>
