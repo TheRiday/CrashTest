@@ -91,44 +91,44 @@
       </args>
 </action>
 
-<action class='horussTalk4' sprite='rufioh' command='talk' name='Talk to Horuss.'>
+<action class='horussTalk4' sprite='rufioh' command='talk' name='Parle à Horuss.'>
       <args>
-      @rufioh_happytalk \nRUFIOH: yo yo, horuss my gangsta, how you feel?
-      @rufioh_talk:#actually-that-st1ll-k1nda-hurt... \nRUFIOH: can 1 get a way gentle f1st bump from my boy? heh, yeah... just l1ke that... f*ck yes.
-      @rufioh_sheepish \nRUFIOH: anyway 1've been mean1ng to talk to you about someth1ng... someth1ng uh... pretty 1mportant.
-      @rufioh_surprisetalk \nRUFIOH: about us and the future and all that... you got a m1nute?
-      @rufioh_sheepish \nRUFIOH: ok, cool. so... d*mn... where do 1 even start...
-      @rufioh_sheepish \nRUFIOH: you know we've had noth1ng but good t1mes together... 1t's been the bomb.
-      @rufioh_sadtalk \nRUFIOH: well, maybe not everyth1ng... sh*t got d1cey at the start... w1th my crazy ex and... yeah. that's not the po1nt.
-      @rufioh_happytalk \nRUFIOH: remember the way you used to be... before you all started be1ng 1nterested 1n me... man you thought 1 sucked! haha, just another lowblood not worth your t1me.
-      @rufioh_happytalk \nRUFIOH: you were so p1ssed at people l1ke me and damara... so angry, damn. sh*t was scary... and damara... she used to be n1ce as can be... dunno what happened there. talk about a personal1ty sw1tch... for both of ya...
-      @rufioh_sheepish \nRUFIOH: but then for whatever reason... 1 guess you wanted to reach out to me? 1 mean... 1n secret, 1 know. you d1dn't want to be all shamed out of your h1ghbrow CIP club, 1 could always d1g that. 1 understood, you know?
-      @rufioh_sheepish \nRUFIOH: so you came to my woods... never told anybody... we hung out. that meant a lot to me. 1 want you to know that.
-      @rufioh_surprisetalk \nRUFIOH: people always had crazy 1deas about me. l1ke 1 was th1s brave adventure guy all up 1n th1s forest be1ng a bad*ss and sh*t. people l1ke... they always wanted to be w1th me, or... maybe even wanted to BE me? 1t was all k1nd of whack... even damara when we were go1ng out d1dn't really get me, 1 th1nk... she put me on th1s pedestal, 1 mean, back before she snapped.
-      @rufioh_happytalk \nRUFIOH: but you saw me for who 1 was. wh1ch was... not a perfect guy.
-      @rufioh_sheepish \nRUFIOH: l1ke, 1 wasn't really sure about myself, and you saw that... so you actually helped me.
-      @rufioh_happytalk \nRUFIOH: when we were 1n the woods together, you taught me to f1ght... taught me to fly... taught me to crow!
-      @rufioh_laugh \nRUFIOH: well, not l1terally. 1 mean... 1 knew how to do those th1ngs. 1 knew techn1cally how to flap my w1ngs and fly through the a1r. 1 knew how to say "bangarang" all loud 1f 1 really wanted to... but that was the th1ng. 1 was scared! 1 was scared of fly1ng and fall1ng... 1 was scared of f1ght1ng and fa1l1ng... and 1 was scared of crow1ng and... sound1ng l1ke a f***1ng 1d1ot 1 guess! lol...
-      @rufioh_sadtalk \nRUFIOH: but you helped me not be so scared, or self consc1ous maybe... you just helped me be myself. l1ke... to just be ok w1th not be1ng perfect, or l1v1ng up to whatever people th1nk 1 should be.
-      @rufioh_surprisetalk \nRUFIOH: maybe 1t's just nostalg1a... there was someth1ng better about those t1mes... just you and me ch1ll1ng 1n the woods. but then we entered the game.
-      @rufioh_sadtalk \nRUFIOH: and for some reason... st1ll don't know why... damara just started go1ng a l1ttle more nuts every day... gett1ng more and more jealous when she knew we were hang1ng out...
-      @rufioh_sadtalk \nRUFIOH: then she found out 1t was more than just hang1ng out... and 1 guess the rest was h1story.
-      @rufioh_sheepish \nRUFIOH: and yada yada... then we all d1ed... and we been together ever s1nce. all th1s t1me as ghosts...
-      @rufioh_sheepish \nRUFIOH: wh1ch 1s... a long t1me, you know?
-      @rufioh_surprisetalk \nRUFIOH: and 1'll always be grateful for what we had together... but... 1 guess people change.
-      @rufioh_surprisetalk \nRUFIOH: even as ghosts, they change, 1f you g1ve em long enough... they start want1ng d1fferent th1ngs...
-      @rufioh_sheepish \nRUFIOH: aw man! 1'm go1ng about th1s all wrong... say1ng way too much, but not what 1 want to say... sh*t, haha.
-      @rufioh_happytalk \nRUFIOH: 1 should just use the bravery you helped me understand 1 always had, and just say 1t...
-      @rufioh_sadtalk \nRUFIOH: 1 th1nk we should break up.
+      @rufioh_happytalk \nRUFIOH: yo yo, horuss mon gangster, ça gaze ?
+      @rufioh_talk:#en-vra1-ça-fa1t-plutôt-mal \nRUFIOH: est-ce que je peux avo1r un noble check de la part de mon pote ? hé, oua1s… comme ça… p*ta1n oua1s
+      @rufioh_sheepish \nRUFIOH: bref, j’ava1s prévu de te parler de quelque chose... quelque chose… euh d’assez 1mportant.
+      @rufioh_surprisetalk \nRUFIOH: à propos de nous et du futur tout ça tout ça… tu as une m1nute ?
+      @rufioh_sheepish \nRUFIOH: ok, cool. donc… b*rdel… par où je commence...
+      @rufioh_sheepish \nRUFIOH: tu sa1s qu’on a eu que des bons moments ensemble… c’éta1t gén1al.
+      @rufioh_sadtalk \nRUFIOH: bon, y’a peut-être pas eu que des bons moments… toutes ces conner1es éta1ent r1squées au début… avec mon ex tarée… oua1s. là n’est pas la quest1on.
+      @rufioh_happytalk \nRUFIOH: souv1ens-to1 de comment tu éta1s… avant que tu ne t’1ntéresses à mo1 de cette façon… mec tu croya1s que je cra1gna1s ! haha, juste un autre serfsang pas d1gne de ton temps.
+      @rufioh_happytalk \nRUFIOH: t’éta1s tellement énervé contre les gens comme mo1 et damara… tellement en colère, bordel. c’éta1t fl1ppant… et damara… avant elle éta1t gent1lle au poss1ble… je sa1s pas ce qu1 s’est passé. tu parles d’un changement de personnal1té… pour vous deux...
+      @rufioh_sheepish \nRUFIOH: ma1s après pour je ne sa1s quelle ra1son… je suppose que tu voula1s commun1quer avec mo1 ? je veux d1re… en secret, je sa1s. tu ne voula1s pas être réprouvé de ton club noblesang CIP, j’a1 toujours p1gé ça. je comprena1s, tu vo1s ?
+      @rufioh_sheepish \nRUFIOH: tu es donc venu dans ma forêt… sans jama1s r1en d1re à personne… on a tra1né ensemble. ça compta1t beaucoup pour mo1. je veux que tu le saches.
+      @rufioh_surprisetalk \nRUFIOH: les gens ont toujours eu des 1dées complètement folles à mon propos. comme quo1 j’éta1s ce brave aventur1er occupé à être badass et tout dans sa forêt. les gens ont genre … 1ls ont toujours voulu être avec mo1, ou… peut-être voula1ent-1ls ÊTRE mo1 ? c’éta1t complètement taré… même damara quand on sorta1t ensemble ne me comprena1t pas vra1ment, je pense… elle me metta1t sur ce p1édestal, genre, avant qu’elle pète un câble.
+      @rufioh_happytalk \nRUFIOH: ma1s tu m’as vu pour ce que j’éta1s. ce qu1 veut d1re… un gars 1mparfa1t.
+      @rufioh_sheepish \nRUFIOH: genre, je n’éta1s pas sûr de mo1, et tu as vu ça… du coup tu m’as réellement a1dé.
+      @rufioh_happytalk \nRUFIOH: quand on éta1t dans les bo1s ensemble, tu m’as appr1s à me battre… appr1s à voler… appr1s à me vanter !
+      @rufioh_laugh \nRUFIOH: Bon, pas l1ttéralement. je veux d1re… je sava1s comment fa1re ces choses-là. je sava1s théoriquement comment battre des a1les et voler dans le c1el. je sava1s comment d1re “bangarang” a vo1x haute s1 je le voula1s vra1ment… ma1s le truc est là. j’ava1s peur ! j’ava1s peur de voler et de tomber… j’ava1s peur de me battre et d’échouer… et j’ava1s peur de me vanter et… de ressembler à un p*ta1n d’1d1ot je suppose ! mdr...
+      @rufioh_sadtalk \nRUFIOH: tu m’as a1dé à ne pas avo1r peur, ou être embarrassé par mo1-même peut-être… tu m’as juste a1dé à être mo1-même. du genre… juste être ok avec le fa1t de ne pas être parfa1t, de ne pas devenir ce que les gens pensent que je devra1s être.
+      @rufioh_surprisetalk \nRUFIOH: peut-être que ce n’est que de la nostalg1e… 1l y ava1t quelque chose de me1lleur autrefo1s… juste to1 et mo1 se relaxant dans la forêt. mais après on est entré dans le jeu.
+      @rufioh_sadtalk \nRUFIOH: et pour je ne sa1s quelle ra1son... je ne sa1s toujours pas pourquo1… damara a commencé à deven1r un peu plus folle chaque jour… devenant de plus en plus jalouse quand elle sava1t qu’on tra1na1t ensemble...
+      @rufioh_sadtalk \nRUFIOH: et ensu1te elle a découvert que c’éta1t plus que juste tra1ner ensemble… et je suppose que le reste c’est de l’h1sto1re anc1enne.
+      @rufioh_sheepish \nRUFIOH: et bla bla bla… ensu1te on est tous morts… et on a été ensemble depu1s. tout ce temps en fantômes...
+      @rufioh_sheepish \nRUFIOH: ce qui fa1t… beaucoup de temps, tu sa1s ?
+      @rufioh_surprisetalk \nRUFIOH: et je sera1s toujours reconna1ssant pour ce que nous avons vécu ensemble… ma1s… je suppose que les gens changent.
+      @rufioh_surprisetalk \nRUFIOH: même en tant que fantômes, 1ls changent, s1 tu leur la1sses suf1samment de temps… 1ls commencent à voulo1r d’autres choses
+      @rufioh_sheepish \nRUFIOH: oh mec ! je m’y prends mal… je parle beaucoup trop ma1s pas de ce que je veux d1re… m*rde, haha.
+      @rufioh_happytalk \nRUFIOH: je devra1s ut1l1ser la bravoure que tu m’as fa1s comprendre que j’ava1s depu1s toujours, et juste le d1re...
+      @rufioh_sadtalk \nRUFIOH: je cro1s qu’on devra1t se séparer
       @rufioh_sad:#... \nRUFIOH: ...
-      @rufioh_sad \nRUFIOH: uh...
-      @rufioh_sad \nRUFIOH: you ok, bro?
-      @horuss_sweat_talk HORUSS: 8=D &lt; Oh! I'm sorry, what did you say?
-      @horuss_sweat_talk HORUSS: 8=D &lt; My ear valves filled up with sweat, and I didn't catch most of that.
+      @rufioh_sad \nRUFIOH: euh...
+      @rufioh_sad \nRUFIOH:  ça va, poto ?
+      @horuss_sweat_talk HORUSS: 8=D &lt; Oh ! Je suis désolé, qu’est-ce que tu disais ?
+      @horuss_sweat_talk HORUSS: 8=D &lt; Mes valves auditives étaient remplies de sueur, je n’ai pas compris le trois-quart de ce que tu as dis.
       @rufioh_sad \nRUFIOH: ...
-      @horuss_sweat_talk HORUSS: 8=D &lt; Hey, why don't we participate in an enjoyable activity together later, as romantic afterlife partners? We could play one of those foreign card games you seem to like. What's that one called again? Fiddlespoon?
-      @rufioh_sadtalk \nRUFIOH: um. yeah... we can do that... 1 guess. that sounds... uh... dope.
-      @horuss_sweat_talk HORUSS: 8=D &lt; I know I'm not the best partner to share your e%25otic and somewhat childish interests with, but I do my best to try to understand them and enjoy them with you. The most important thing is that we spend time together, and maintain a STRONG relationship.
+      @horuss_sweat_talk HORUSS: 8=D &lt; Hey, pourquoi ne participerait-on pas plus tard à une activité conviviale ensemble, en tant que partenaires romantiques de l’au-delà ? Nous pourrions jouer à un de ces jeux de carte étrangers que tu 100bles apprécier. Comment ça s’appelait déjà ? Fiddlespoon ?
+      @rufioh_sadtalk \nRUFIOH: euh. oua1s… on peut fa1re ça...je suppose. ça a l’a1r… euh. génial.
+      @horuss_sweat_talk HORUSS: 8=D &lt; Je sais que je ne suis pas le meilleur partenaire pour partager tes intérêts e%otiques et quelque peu enfantins, mais je vais faire de mon mieux pour les comprendre et les apprécier avec toi. La chose la plus importante c’est que l’on passe du temps ensemble et que l’on maintienne une relation FORTE.
       @rufioh_sad \nRUFIOH: ...
       @rufioh_sad \nRUFIOH: bangarang.
       <!--  -->
