@@ -63,7 +63,6 @@
 	      </args>
 		</action>
 
-
 			<action class='rufiohTalk2' sprite='meenah' command='talk' name='Demande à Rufioh de se joindre à toi.'>
 			      <args>
 			      @meenah_talk MEENAH: je ne devrais peut etre pas te demander ca vu que tu nes pas si brave et tu pourrais bien finir par membrasseraussi brave que ce que les autre sembrassent a dire
