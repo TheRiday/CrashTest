@@ -117,42 +117,42 @@
       </args>
 </action>
 
-<action class='damaraTalk5' sprite='horuss' command='talk' name='Talk to Damara.'>
+<action class='damaraTalk5' sprite='horuss' command='talk' name='Parle à Damara.'>
       <args>
-      @horuss_smiletalk HORUSS: 8=D &lt; Oh, hello Damara. I heard you were having a mechanical issue with your chest over here. Mind if I take a 100k?
+      @horuss_smiletalk HORUSS: 8=D &lt; Oh, salut Damara. J'ai entendu dire que tu avais des problèmes mécaniques avec ta poitrine. Est-ce que ça te dérange si je jette un coup d'oeil ?
       @damara_talk DAMARA: あなたは私の胸をいつでも表示することができます。
-      @horuss_smiletalk HORUSS: 8=D &lt; I... think you said yes? Sorry, I really struggle with your coarse lowb100d accent.
+      @horuss_smiletalk HORUSS: 8=D &lt; Je... crois que tu as dit oui ? Désolé, j'ai vraiment du mal avec ton grossier accent serfsang.
       @damara_talk DAMARA: 私のおっぱいの上にミルクを注いでください。
-      @horuss_smiletalk HORUSS: 8=D &lt; I didn't quite understand that either. Something about milk? Served to you in a particular way?
-      @horuss_hmmtalk HORUSS: 8=D &lt; Yes, if you would like some milk, I can bring you some later. I'll just need to equip my steam powered deSTRENGTHening gloves so that I may hand you the glass without shattering it.
+      @horuss_smiletalk HORUSS: 8=D &lt; Je n'ai pas tout à fait compris ça non plus. Quelque chose à propos de lait ? Servi de manière particulière ?
+      @horuss_hmmtalk HORUSS: 8=D &lt; Oui, si tu veux du lait, je peux t'en apporter plus tard. J'aurai juste besoin de m'équiper de mes désenFORCEant gants à vapeur pour pouvoir te donner le verre 100 le briser.
       @damara_talk DAMARA: ない。手袋を着用しないでください。私はそれがラフ好きです。私の体を押しつぶす。馬男。
-      @horuss_hmmtalk HORUSS: 8=D &lt; I really need to finish my universal translation device so we can have a more coherent conversation. It's just so difficult to get the circuitry to function correctly when one insists on relying on steam power.
+      @horuss_hmmtalk HORUSS: 8=D &lt; J'ai vraiment besoin de finir cet appareil de traduction universelle pour que l'on puisse avoir une conversation cohérente. C'est juste si compliqué d'avoir des circuits qui fonctionnent correctement lorsque l'on s'obstine à compter sur la pui100ce thermique.
       @damara_squinttalk DAMARA: あなたは、幽霊のような私の性器が性的クライマックスを持っていることを確認してください。あなたの幻の馬のペニスでそれを行う必要があります。
-      @horuss_smiletalk HORUSS: 8=D &lt; You want me to bring your what to what e%25actly with my what?
+      @horuss_smiletalk HORUSS: 8=D &lt; Tu veux que je t'apporte quoi à quoi e%actement avec mon quoi ?
       @damara_smiletalk DAMARA: 私の裸の底にあなたの汗まみれの顔をこする。
-      @horuss_idle HORUSS: 8=D &lt; Hmm. I...
-      @horuss_sweat_bashful HORUSS: 8=D &lt; Sure?
+      @horuss_idle HORUSS: 8=D &lt; Hum. Je...
+      @horuss_sweat_bashful HORUSS: 8=D &lt; D'accord ?
       @damara_smilemeantalk DAMARA: 私はあなたのアジアの女子高生です。ズタズタに私の服を減らすことができます。あなたは私を喜ばせる必要があります。あなたのホーンを使用してください。
-      @horuss_sweat_grin HORUSS: 8=D &lt; Do what with your schoolgirl uniform?
-      @horuss_sweat_talk HORUSS: 8=D &lt; I wouldn't want to do anything to ruin it. It's quite nice. 
-      @horuss_hmmtalk HORUSS: 8=D &lt; But perhaps I could craft a robotic avatar for you, emulating your fashion choices. Actually, if I did that, I could install more sensible speech algorithms, so that I could understand you for a change.
+      @horuss_sweat_grin HORUSS: 8=D &lt; Faire quoi avec ton uniforme d'écolière ?
+      @horuss_sweat_talk HORUSS: 8=D &lt; Je ne voudrais rien faire qui pourrait le ruiner. Il est plutôt joli.
+      @horuss_hmmtalk HORUSS: 8=D &lt; Mais je pourrais peut-être créer un avatar robotique pour toi imitant tes goûts vestimentaires. En fait, si je faisais ça, je pourrais installer un algorithme de parole plus raisonnable, comme ça je pourrais te comprendre pour changer.
       @damara_mean DAMARA: 静かにしています。黙って私をファック。
-      @horuss_sweat_idle HORUSS: 8=D &lt; Um. *Cough.*
+      @horuss_sweat_idle HORUSS: 8=D &lt; Ahem. *Tousse*
       @damara_meantalk DAMARA: 私の体内に入る。または。私はあなたを破壊するだろう。
-      @horuss_sweat_bashful HORUSS: 8=D &lt; Damara, forgive me if I'm leaping to conclusions, but has the nature of your cryptic remarks been leaning... well...
-      @horuss_oops HORUSS: 8=D &lt; A little b100?
+      @horuss_sweat_bashful HORUSS: 8=D &lt; Damara, pardonne-moi si je saute aux conclusions, mais la nature de tes remarques énigmatiques semble un peu... et bien...
+      @horuss_oops HORUSS: 8=D &lt; Un peu dépressive sur les bords ?
       @damara_lewd DAMARA: 
       <!--  -->
       </args>
 </action>
 
-<action class='damaraTalk6' sprite='horuss' command='talk' name='Be Damara.'>
+<action class='damaraTalk6' sprite='horuss' command='talk' name='Deviens Damara.'>
       <args>
       @damara_talk DAMARA: あなたは私になりたいですか？
       @damara_talk DAMARA: あなたは私にはできません。あなたは私を理解できない場合。
       @damara_talk DAMARA: さらに。あなたは私にはできません。あなたは私を性交することができない場合。
-      @horuss_sweat_grin HORUSS: 8=D &lt; Come again?
-      @horuss_sweat_grin HORUSS: 8=D &lt; I suppose Rufioh should ask. He's always been the only one who can parse your vulgar, peasant tongue.
+      @horuss_sweat_grin HORUSS: 8=D &lt; Pardon ?
+      @horuss_sweat_grin HORUSS: 8=D &lt; Je suppose que Rufioh devrait demander. Il a toujours été le seul à pouvoir décrypter ta langue vulgaire et paysanne.
       <!--  -->
       </args>
 </action>
