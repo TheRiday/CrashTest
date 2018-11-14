@@ -1,93 +1,92 @@
-<sburb>
-    <classes>
-<action class='damaraTalk1' sprite='meenah' command='talk' name='Talk to Damara.'>
+<action class='damaraTalk1' sprite='meenah' command='talk' name=Parle à Damara.'>
       <args>
-      @meenah_idle MEENAH: sooooo
+      @meenah_idle MEENAH: alooooors
       @meenah_idle MEENAH: megido
-      @meenah_idle MEENAH: here we are again
-      @meenah_annoyed MEENAH: i guess
+      @meenah_idle MEENAH: nous y revoila   
+      @meenah_annoyed MEENAH: je suppose  
       @damara_squint DAMARA: 
-      @meenah_annoyedtalk MEENAH: please tell me this reunion is as awkward for you as it is for me
+      @meenah_annoyedtalk MEENAH: sil te plait dis moi que cette reunion est aussi genante pour toi quelle lest pour moi   
       @damara_squint DAMARA: 
-      @meenah_talk MEENAH: not gonna say nofin huh
-      @meenah_talk MEENAH: just going to stand there and leave me wrigglin on the hook during this frosty silence
-      @meenah_angrytalk MEENAH: come on you nutty bitch at least do SOM-EFIN to break the ice
+      @meenah_talk MEENAH: tu ne vas rien dire hein
+      @meenah_talk MEENAH: solement rester la et me laisser fretiller sur l’hamecon pendant ce silence glaciale 
+      @meenah_angrytalk MEENAH: aller sole pute cinglee fais au moins QU-ELQU-E C)(OS-E pour briser la glace   
       @damara_fu3 DAMARA: 
-      @meenah_happier MEENAH: T)(ANK you
-      @meenah_talk MEENAH: hey you didnt by any chance kidnap nitrams lusus did you
-      @meenah_talk MEENAH: or steal all his dorky fiduspawn loot
-      @meenah_talk MEENAH: i thought we were past this
-      @meenah_annoyedtalk MEENAH: dont tell me youre still tormenting the guy even after eternity
+      @meenah_happier MEENAH: merci B-EAUCOUP
+      @meenah_talk MEENAH: hey tu nauraie pas par hasard kidnappe le lusus de nitram 
+      @meenah_talk MEENAH: ou vendu tout son stupide maggot de fiduspawn 
+      @meenah_talk MEENAH: je pensais que cetait fini 
+      @meenah_annoyedtalk MEENAH: ne me dis pas que tu continues de le tourmenter meme après leternite
       @damara_talk DAMARA: あなたのデュアルフォークを取る。二回自分自身をファック。
-      @meenah_wut MEENAH: do what to myself twice with my double W)(AT exactly??
-      @meenah_annoyedtalk MEENAH: cod damn your weird accent is thick as ever
+      @meenah_wut MEENAH: me faire deux fois quoi avec ma double QUOI ??
+      @meenah_annoyedtalk MEENAH: mon lieu ton accent bizarre est toujours aussi incomprehensible
       @damara_talk DAMARA: あなたに性的快感を与えるために十分な厚さではない。
       @damara_squinttalk DAMARA: あなたはあなたの言葉で私を退屈続けるのだろうか？または。あなたは私の服を脱ぐのだろうか？
       @damara_smilemeantalk DAMARA: 私はあなたの歯の間に私の乳首を感じるようにしたい。
-      @meenah_wut2 MEENAH: wha
-      @meenah_annoyedtalk MEENAH: did you just tell me to bite something or
-      @meenah_annoyed MEENAH: screw it i give up
-      @meenah_annoyedtalk MEENAH: language barrier be a fuckin motherglubber
+      @meenah_wut2 MEENAH: que
+      @meenah_annoyedtalk MEENAH: est ce que tu viens de me dire de mordre quelque chose ou
+      @meenah_annoyed MEENAH:et puis merde jabandonne
+      @meenah_annoyedtalk MEENAH: la barriere de la langue est une putain de grosse pute des mers
       @damara_smoke DAMARA: 
       <!--  -->
       </args>
 </action>
 
-<action class='damaraTalk2' sprite='meenah' command='talk' name='Ask Damara to join.'>
+
+<action class='damaraTalk2' sprite='meenah' command='talk' name='Demande à Damara de se joindre à toi.'>
       <args>
-      @meenah_happier MEENAH: hey so guess what! im building an army to kill lord ahahahaha
-      @meenah_creepylaugh:#aka#sea-lol MEENAH: S)(-ELL O)( S)(-ELL
-      @meenah_talk MEENAH: like you could give a fuck about saving reality and or wouldnt just be a huge backstabbin liability out there
+      @meenah_happier MEENAH: hey devine quoi ! je construis une armee pour tuer lord ahahahaha
+      @meenah_creepylaugh:#genre#de-bateaux-ptdr MEENAH: DES BARR-ES
+      @meenah_talk MEENAH: comme si ten avais quelque chose a foutre de sauver la realite et ou ne pas etre quune grosse traitresse vicieuse en liberte
       @damara_idle DAMARA: 十分に公平。
-      @meenah_talk MEENAH: but just for shits an cuttles uh
-      @meenah_talk MEENAH: been sorta wondering
-      @meenah_talk MEENAH: back when we like
-      @meenah_talk MEENAH: kind of ruined each others shit
-      @meenah_talk MEENAH: because of that whole cycle of revenge deal
-      @meenah_talk MEENAH: and i ended up dyin and god tiering and all
-      @meenah_idle MEENAH: remember that
+      @meenah_talk MEENAH: mais solement pour deconner heu
+      @meenah_talk MEENAH: je me demandais
+      @meenah_talk MEENAH: a lepoque quand 
+      @meenah_talk MEENAH: on se mettait sur la gueule
+      @meenah_talk MEENAH: a cause de toute cette histoire de revanche 
+      @meenah_talk MEENAH: et que jai fini par mourir et atteindre le tier divin et tout
+      @meenah_idle MEENAH: tu te souviens
       @damara_smilemean DAMARA: 私が覚えている。
       @damara_smiletalk DAMARA: 時々私は、そのメモリに自慰行為。
-      @meenah_annoyedtalk MEENAH: aight not sure i followed that but ill assume it was more weird skanky sass
-      @meenah_talk MEENAH: but what i want to know is
-      @meenah_talk MEENAH: after the fight
-      @meenah_talk MEENAH: did i hurt you bad enough that you maybe
-      @meenah_talk MEENAH: crawled off and died somewhere
-      @meenah_wink MEENAH: like in a quest cocoon
+      @meenah_annoyedtalk MEENAH: ok je ne suis pas sure d’avoir tout suivie mais je vais faire genre que cetait encore un truc bizarre et degueulasse 
+      @meenah_talk MEENAH: mais je voulais sarvoir
+      @meenah_talk MEENAH: apres le combat
+      @meenah_talk MEENAH: est ce que je tai fais assez mal pour que peut etre
+      @meenah_talk MEENAH: tu ai rampe et soit morte ailleurs 
+      @meenah_wink MEENAH: genre dans un cocon de quete
       @damara_idle DAMARA: ...
-      @meenah_happytalk MEENAH: were you maybe all bloodied up from all those forkins
-      @meenah_happytalk MEENAH: and then maybe along comes a friend with a maddening inability to hold a grudge against you for the ways you fucked him over
-      @meenah_happytalk MEENAH: maybe trotting along in his new robo horse body and swooped your bloody torso up on his back
-      @meenah_creepytalk MEENAH: galloped off to your cocoon and draped you on the slab while probly not havin the nerve to finish you off
-      @meenah_creepylaugh:#like-the-ones-in-your-batty-as-fuck-goddamn-belfry? MEENAH: this ringin any bells
+      @meenah_happytalk MEENAH: peut etre etais tu toute sanguinolente apres tout ces coups de fourche  
+      @meenah_happytalk MEENAH: et peut etre qu’apres un ami avec une enervante incapacite a etre rancunier contre toi malgres que tu l’ai completement nique a surgi   
+      @meenah_happytalk MEENAH: peut etre qu’il a trotte jusque la avec son nouveau corps de cheval robot et qu’il a mis ton torse ensanglanté sur son dos 
+      @meenah_creepytalk MEENAH: et a galope jusqua ton cocon et ta mise sur la dalle tout en n’ayant probablement pas ose tachever
+      @meenah_creepylaugh:#rien-du-tout-? MEENAH: sar ne te rappelle rien 
       @damara_huhtalk DAMARA: 性交あなたは何を話している？白痴雌犬。
-      @meenah_angrytalk MEENAH: IM AXING IF YOU AR-E A GOD TI-ER YOU INSCRUTABL-E FIS)(WIF-E
-      @meenah_annoyedtalk MEENAH: holy mackerel gettin info outta yous like prying a pearl from a slutty murderous clam
+      @meenah_angrytalk MEENAH: J-E T-E D-EMAND-E SI TU AS TON TI-ER DIVIN -ESP-EC-E DINSONDABL-E POISSONI-ER-E
+      @meenah_annoyedtalk MEENAH: mon lieu te soutirer des informations cest comme chercher une perle dans une palourde qui veut te bouffer 
       @damara_squinttalk DAMARA: ハマグリは、真珠を生成しません。あなたは海の何も知らない。
-      @meenah_angrytalk MEENAH: yeah i know clams dont make pearls!!! look i just misspoke it was a hasty burn ok
-      @meenah_angrytalk MEENAH: dont be calling out my authority on the ocean dmeg you know i got all watery junk on LOCK 
-      @meenah_fishtalk MEENAH: who you think you tryin to rile up with that amateur noise
+      @meenah_angrytalk MEENAH: oui je sais les palourdes ne font pas de perles !!! ecoute je me suis mal exprimee cetait une insulte dans le feu de laction ok   
+      @meenah_angrytalk MEENAH: ne te phoque pas de mon autorite sur l’ocean dmeg tu sais que je CONTROL-E toutes les merdes aquatiques 
+      @meenah_fishtalk MEENAH: qui crois tu essayer denerver avec ce bruit damateur
       @damara_smoke DAMARA: あなたは非常に怒っているように見える。性交をチルアウト。のはお互いに触れてみましょう。私と一緒に投石入手してください。
-      @meenah_wut2 MEENAH: omg i cant understand you
-      @meenah_wut MEENAH: chill out and do W)(AT with you...
-      @meenah_annoyedtalk MEENAH: going to ask again as simple as i can
-      @meenah_angrytalk MEENAH: M-EGIDO AR-E YOU A MAGIC IMMORTAL TIM-E FAIRYWITC)( WIT)( S-ECR-ET BUTT-ERFLY WINGS: Y-ES OR NO
+      @meenah_wut2 MEENAH: oh mon lieu je navire pas a te comprendre
+      @meenah_wut MEENAH: me calmer et faire QUOI avec toi…
+      @meenah_annoyedtalk MEENAH: je vais te le redemander de la maniere la plus simple que je puisse
+      @meenah_angrytalk MEENAH: M-EGIDO -ES TU UN-E F-E-E DU T-EMPS MAGIQU-E -ET IMMORT-ELL-E AVEC D-ES AIL-ES S-ECR-ET-ES D-E PAPILLONS : OUI OU NON
       @damara_talk DAMARA: 正確にどのくらいの。あなたは知りたいですか？水のビッチ。
       @meenah_idle MEENAH: damara
-      @meenah_talk MEENAH: if horrible conversations was a video game you would truly be last boss
-      @meenah_talk MEENAH: now where the fucks aranea and her lil windbag stand lets just get this jam over with already
+      @meenah_talk MEENAH: si les conversations horribles etaient un jeu video, tu serais surement le boss final   
+      @meenah_talk MEENAH: maintenant ou sont aranea et son petit stand de moulin a parole quon puisse en finir avec cette merde
       <!--  -->
       </args>
 </action>
 
 
-<action class='damaraTalk3' sprite='meenah' command='talk' name='Be Damara.'>
+<action class='damaraTalk3' sprite='meenah' command='talk' name='Deviens Damara.'>
       <args>
       @damara_talk DAMARA: あなたは私になりたいですか？
       @damara_talk DAMARA: あなたは私にはできません。あなたは私を理解できない場合。
       @damara_talk DAMARA: さらに。あなたは私にはできません。あなたは私を性交することができない場合。
-      @meenah_talk MEENAH: ummm yeah no idea what you said
-      @meenah_talk MEENAH: guess someone who speaks your gibberish needs to ask
+      @meenah_talk MEENAH: euuuh ouais je nai pas la moindre idee de ce que tu racontes     
+      @meenah_talk MEENAH: jimagine que quelquun qui parle ton charabia doit te le demander
       <!--  -->
       </args>
 </action>
