@@ -42,68 +42,69 @@
       @meenah_annoyed MEENAH: (oh mon lieu il y a des hotels pour ca)
       <!--  -->
       </args>
-<action class='kanayaTalk2' sprite='dave' command='talk' name='Talk to Kanaya.'>
+<action class='kanayaTalk2' sprite='dave' command='talk' name='Parle à Kanaya.'>
       <args>
-      @dave_talk DAVE: (you shattered the ring but theres more cracks in your rap)
-      @dave_talk DAVE: (ima top off your glass cause devastations on tap)
-      @dave_huh DAVE: (wait no)
-      @dave_talk DAVE: (your act couldnt suck more dick with a puppet in your lap)
-      @dave_huh DAVE: (what)
-      @dave_huhtalk DAVE: (puppet... man where that come from)
-      @dave_talk DAVE: (you shattered the ring but theres more cracks in your rap)
-      @dave_talk DAVE: (your flows like warm milk that goes good with a nap)
-      @dave_smug DAVE: (haha yes)
-      @dave_talk DAVE: (shit lets be rails ill be the shoosh to your pap)
-      @dave_huhtalk DAVE: (wait that makes no fuckin sense)
-      @dave_huhtalk DAVE: (naw ill stick with the milk one)
-      @dave_talk DAVE: (yall claimin to be the lord of time)
-      @dave_talk DAVE: (all ya makin me feel is bored with your rhymes)
-      @dave_huhtalk DAVE: (thats ok i guess)
-      @dave_huhtalk DAVE: (still feel like i should work puppets into this)
-      @dave_huhtalk DAVE: (no idea why)
-      @dave_madtalk DAVE: (what rhymes with puppets)
-      @dave_idle DAVE: (uh)
+      @dave_talk DAVE: (tu as brisé lanneau mais ton rap vaut encore moins que rien)
+      @dave_talk DAVE: (jvais remplir ton verre de devastation il sera plein)
+      @dave_huh DAVE: (attends non)
+      @dave_talk DAVE: (cque tas fait serait pas plus gay avec une marionnette entre les mains)
+      @dave_huh DAVE: (quoi)
+      @dave_huhtalk DAVE: (marionnette… dou est ce que ca vient ca)
+      @dave_talk DAVE: (tu as brisé lanneau mais ton rap vaut encore moins que rien)
+      @dave_talk DAVE: (ton flow endort comme du lait chaud et un bon coussin)
+      @dave_smug DAVE: (haha oui)
+      @dave_talk DAVE: (je serais le shoosh de ton pap alors soyons copain)
+      @dave_huhtalk DAVE: (attend ca fait aucun sens)
+      @dave_huhtalk DAVE: (nan je vais rester sur le lait)
+      @dave_talk DAVE: (Tu dis que tes le seigneur du temps)
+      @dave_talk DAVE: (mais toutes tes rimes cest que du flan)
+      @dave_huhtalk DAVE: (ca passe je suppose)
+      @dave_huhtalk DAVE: (mais jai toujours limpression que je devrais rajouter des marionnettes la dedans)
+      @dave_huhtalk DAVE: (je sais pas pourquoi)
+      @dave_madtalk DAVE: (quest ce qui rime avec marionette)
+      @dave_idle DAVE: (heu)
       @dave_huh DAVE: (smuppets)
-      @dave_madtalk DAVE: (dave no thats the same fuckin thing)
+      @dave_madtalk DAVE: (dave non putain cest la meme chose)
       @dave_idle DAVE: (muppets)
-      @dave_huh DAVE: (what the fuck)
-      @dave_huh DAVE: (the only thing that rhymes with puppets is different kinds of puppets!!!)
+      @dave_huh DAVE: (cest quoi ces conneries)
+      @dave_huh DAVE: (le seul truc qui rime avec marionnette cest un autre type de marionnette !!!)
       @kanaya2_idle KANAYA: ...
-      @dave_huh DAVE: whoa
-      @dave_huh DAVE: hey uh
-      @dave_huhtalk DAVE: how much of that did you hear
-      @kanaya2_talk KANAYA: By The Tenor Of The Question Ill Assume More Than You Would Prefer
-      @dave_madtalk DAVE: all that shit was a work in progress
-      @dave_madtalk DAVE: aint fit for hype yet
-      @dave_madtalk DAVE: why you gotta be eavesdroppin
-      @kanaya2_idle KANAYA: I Wasnt
-      @kanaya2_talk KANAYA: I Was Just Standing Here And You Slowly Wandered Over In A Totally Oblivious Stupor
-      @kanaya2_talk KANAYA: You Were Mumbling Your Rhymes And Walked Right Up To Me And Did Not Notice Me Until Now
-      @dave_huh DAVE: shit
-      @dave_huh DAVE: was i
-      @dave_huhtalk DAVE: sorry i guess i just got caught up in my raps
-      @meenah_ohyes MEENAH: do more!
-      @dave_huh DAVE: what
-      @dave_huh DAVE: no
-      @dave_huhtalk DAVE: i cant those rhymes are still too rough around the edges
-      @meenah_creepy MEENAH: come on
-      @dave_madtalk DAVE: no itll suck
-      @dave_idle DAVE: i mean
-      @dave_talk DAVE: i could freestyle a bit i guess
-      @dave_talk DAVE: i dont know if i got a live performance in me now
-      @dave_talk DAVE: maybe it could work if someone dropped a beat
-      @dave_smug DAVE: need a good beat i could probably kill it with a fly beat
-      @meenah_talk MEENAH: aheh hem...
-      @meenah_fishtalk:#no-wait-wait... MEENAH: dum dum PS)( ba dum dum PS)(
-      @meenah_fishtalk MEENAH: chum chum FIS)( ba chum chum FIS)(
-      @dave_smug DAVE: awwwww yeah
-      @dave_smug DAVE: that fish beat is the shizzle
-      @dave_concern DAVE: thats what i am TALKING about
-      @dave_madtalk DAVE: alright settle down motherfuckers here we go 
-      @kanaya2_talk KANAYA: They Then Proceeded To Have One Of The Most Ambiguously Rated Rap Offs In The History Of Paradox Space While I Stood By And Regarded It Neutrally
+      @dave_huh DAVE: woh
+      @dave_huh DAVE: hey heu
+      @dave_huhtalk DAVE: ten as entendu beaucoup ?
+      @kanaya2_talk KANAYA: Vu La Question, Je Dirais Plus Que Tu Ne Laurais Voulu
+      @dave_madtalk DAVE: ce truc est encore en cours decriture
+      @dave_madtalk DAVE: ca repond pas encore aux attentes du public
+      @dave_madtalk DAVE: pourquoi faut il que tu espionnes
+      @kanaya2_idle KANAYA: Je Nespionnais Pas
+      @kanaya2_talk KANAYA: Je Me Tenais Ici Et Tu Tes Doucement Approché Dans Un État Dinconscience Totale
+      @kanaya2_talk KANAYA: Tu Marmonnais Ta Poésie Et Tu Tes Dirigé Droit Vers Moi Sans Même Le Remarquer Jusquà Maintenant
+      @dave_huh DAVE: merde
+      @dave_huh DAVE: vraiment
+      @dave_huhtalk DAVE: desole je crois que je me suis laisse emporter dans mon rap
+      @meenah_ohyes MEENAH: continue !
+      @dave_huh DAVE: quoi
+      @dave_huh DAVE: non
+      @dave_huhtalk DAVE: je peux pas ces vers sont encore trop peu perfectionnes
+      @meenah_creepy MEENAH: allez
+      @dave_madtalk DAVE: non ca va etre nul
+      @dave_idle DAVE: enfin
+      @dave_talk DAVE: je pourrais faire un petit freestyle jimagine
+      @dave_talk DAVE: je sais pas si jai lenergie pour une performance en live actuellement
+      @dave_talk DAVE: ca pourrait peut etre marcher si quelquun lachait un beat
+      @dave_smug DAVE: faut un bon beat je pourrais surement tout niquer avec un beat cool 
+      @meenah_talk MEENAH: ahem hem...
+      @meenah_fishtalk:#non-attends-attends... MEENAH: tin tin PS)( ba tin tin PS)(
+      @meenah_fishtalk MEENAH: thon thon PS)( ba thon thon PS)(
+      @dave_smug DAVE: haaaaaaaan ouais
+      @dave_smug DAVE: cet aquabeat est genial
+      @dave_concern DAVE:  cest CA que je veux
+      @dave_madtalk DAVE: ok preparez vous bande dencules on y va
+      @kanaya2_talk KANAYA: Puis Ils Effectuèrent Lun Des Raps Les Plus Controversés De Lhistoire De Lespace Paradoxal Pendant Que Je Les Regardais De Manière Neutre
       <!--  -->
       </args>
 </action>
+
 
 </classes>
 </sburb>
