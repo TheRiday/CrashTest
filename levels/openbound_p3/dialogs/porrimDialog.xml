@@ -70,14 +70,14 @@
       </args>
 </action>
 
-<action class='porrimTalk4' sprite='damara' command='talk' name='Eavesdrop.'>
+<action class='porrimTalk4' sprite='damara' command='talk' name='Ecoute attentivement.'>
       <args>
-      @porrim_angrytalk PORRIM: Damara, do+ yo+u mind? We're having a private co+nversatio+n here.
+      @porrim_angrytalk PORRIM: Damara, ça te dérangerai de partir ? No+us teno+ns une discussio+n  privée là.
       @damara_idle DAMARA: 
-      @porrim_angrytalk PORRIM: Please. Leave us alo+ne. We'll talk later, o+k?
+      @porrim_angrytalk PORRIM: S’il te plait. Laisse no+us seules. Nous parlero+ns plus tard, d’acco+rd ?
       @kanaya2_idle KANAYA: ...
-      @kanaya2_talk KANAYA: (shes making me slightly uncomfortable)
-      @porrim_talk PORRIM: (that's her specialty. just igno+re her until she go+es away.)
+      @kanaya2_talk KANAYA: (elle me rend légèrement mal à laise.)
+      @porrim_talk PORRIM: (c’est sa spécialité.. ignore la juste jusqu’à qu’elle aille ailleurs.)
       <!--  -->
       </args>
 </action>
