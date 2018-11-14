@@ -1,67 +1,68 @@
 <sburb>
     <classes>
-  		<action class='rufiohTalk1' sprite='meenah' command='talk' name='Talk to Rufioh.'>
+  		<action class='rufiohTalk1' sprite='meenah' command='talk' name='Parle à Rufioh.'>
 	      <args>
-	      @meenah_idle MEENAH: sup nitram
-	      @rufioh_happytalk \nRUFIOH: oh, hey doll... you were gone a crazy long t1me... 
-	      @rufioh_happytalk:thought-you-were-hatch1ng-a-sweet-f1duspawn-w1th-that-th1ng-tbh... \nRUFIOH: good to have you back, though... yo, that bomb stunt you pulled was some crazy sh*t.
-	      @meenah_happy MEENAH: wasnt no thang
-	      @rufioh_sheepish \nRUFIOH: don't sell yourself short... 1 don't th1nk 1 could have done that. you're pretty gangsta, pe1xes.
-	      @meenah_idle MEENAH: yeah i know
-	      @meenah_talk:#wanna-axe-you-things MEENAH: hey lets stop talking about how badbass i am a minute and talk about you
-	      @rufioh_idle \nRUFIOH: shoot, doll...
-	      @meenah_idle MEENAH: those wings
-	      @meenah_talk MEENAH: you was hatched with em right
-	      @meenah_idle:#when-you-hit-puperty?? MEENAH: or i guess pupated them
-	      @rufioh_laugh:#lingo-like...#you-know...#regular-words \nRUFIOH: ha, yeah that's r1ght... 1'm a "m*tant"... don't tell kankr1 1 sa1d that! he's my boy, but you know how he's not down w1th l1ngo l1ke that...
-	      @meenah_annoyedtalk MEENAH: ug dont even say it he will like teleport into our conversation with ghost magic just to shoosh you
-	      @rufioh_sheepish \nRUFIOH: yeah... he does that to you too, huh... that's some crazy sh*t!
-	      @meenah_talk MEENAH: ok so you always had wings then
-	      @meenah_talk MEENAH: then i guess you arent secretly a god tier or
-	      @rufioh_talk \nRUFIOH: nah... m1ght have been cool to go full on rogue... hey, maybe you coulda g1ven me l1ke, steal1ng po1nters... what as a th1ef and all! 
-	      @rufioh_happytalk \nRUFIOH: but naw, 1 don't th1nk 1 could have gone through w1th that... not 1ntent1onally 1 mean...
-	      @meenah_idle MEENAH: what why not
-	      @rufioh_sadtalk \nRUFIOH: 1 don't know... k1ll1ng yourself, that's... a heavy th1ng to do. 1'm not l1ke you, meenah... 1 don't th1nk anyone 1s... well maybe damara 1s k1nda... but maybe we shouldn't go 1nto that, hahaha. let unhatched f1duspawn l1e, you know...
+	      @meenah_idle MEENAH: yo nitram
+	      @rufioh_happytalk \nRUFIOH: oh, salut poupée... t’éta1s part1e pendant vachement longtemps... 
+	      @rufioh_happytalk: je-croya1s-que-tu-alla1s-faire-éclore-un-f1duspawn-avec-ce-truc-pour-être-honnête…  \nRUFIOH: cool de te revoir, cependant... yo, cette combine avec la bombe que tu nous as sort1e c’était de la fol1e p*ta1n.
+	      @meenah_happy MEENAH: ctai pas ghareng chose
+	      @rufioh_sheepish \nRUFIOH: te sous-est1mes pas... je pense pas que j’aurais pu fa1re ça. t’es plutot gangsta, pe1xes.
+	      @meenah_idle MEENAH: oui je sais
+	      @meenah_talk:#jai-des-questions MEENAH: hey et si on arretait  de parler da quel point je suis badass une minute et quon parlait de toi
+	      @rufioh_idle \nRUFIOH: vas-y, poupée...
+	      @meenah_idle MEENAH: ces ailes
+	      @meenah_talk MEENAH: tu as eclot avec hein
+	      @meenah_idle:#quand-tu-as-atteint-ta-puperte?? MEENAH: ou tu les as pupatees
+	      @rufioh_laugh:#un-vocabulaire-genre...#tu-sais...#de-mots-normaux \nRUFIOH: ha, oua1s c’est ça… je su1s un “m*tant”... ne dis pas a kankr1 que j’a1 d1t ça ! c’est mon pote, ma1s tu sa1s comment 1l n’a1me pas ce vocabula1re...
+	      @meenah_annoyedtalk MEENAH: ug dis pas ca il va genre se teleporter dans notre conversation avec de la magie fantome juste pour te faire taire
+	      @rufioh_sheepish \nRUFIOH: oua1s... il te le fais à to1 auss1, hein... c’est complètement fou p*ta1n !
+	      @meenah_talk MEENAH: ok donc tu as toujours eu des ailes
+	      @meenah_talk MEENAH: donc je suppose que tes pas secretement tier divin ou quoi
+	      @rufioh_talk \nRUFIOH: nan... c’aura1t été cool de part1r à fond sur la roublard1se... hé, peut-être que tu aura1s pu me donner genre, des conse1ls de chapardage... genre en tant que voleuse et tout ! 
+	      @rufioh_happytalk \nRUFIOH: mais nah, je ne pense pas que j'aura1s pu fa1re ça... pas 1ntent1onnellement je veux d1re...
+	      @meenah_idle MEENAH: hein pourquoi pas
+	      @rufioh_sadtalk \nRUFIOH: je sa1s pas... se su1c1der, c’est... un truc dur à fa1re. je su1s pas comme to1, meenah... je pense pas que tout le monde so1t... enf1n damara est plutôt... mais peut-être que l’on ne devra1t pas entrer dans ce sujet, hahaha. 1l ne faut pas réve1ller le f1duspawn qu1 dort, tu comprends...
 	      @meenah_annoyed MEENAH: ...
-	      @rufioh_sheepish \nRUFIOH: what 1'm say1ng 1s, you got game... and 1 can d1g that... but 1 was never as brave as people always thought... 1 don't know why they always thought that about me. maybe 1t's my w1ngs or my mohawk... or when 1 shout bangarang somet1mes real loud? makes 1t seem l1ke 1'm the sh1t, w1th b1g self esteem... but my self esteem 1s noth1ng really to crow about... 1 dunno...
-	      @meenah_talk MEENAH: alright so you never god tiered but i still dont get somefin
-	      @meenah_wut MEENAH: didnt you have a totally fuckin stupid robot body at some point or did i just imagine that
-	      @meenah_annoyedtalk:#maybe-i-got-the-ghost-madness#could-SWEAR-you-was-a-metal-horse-tho MEENAH: that whole period of time in our session was reel foggy to me i guess because i was dead for a while there
-	      @rufioh_sad \nRUFIOH: yeaaah...
-	      @rufioh_sheepish \nRUFIOH: no, the robot body was def1n1tely a th1ng... 1 k1nd of blocked that out of my memory too, haha... that was... that sh*t was someth1ng else, yo! crazy...
-	      @rufioh_surprisetalk \nRUFIOH: 1'm sure you remember how all that started... back when damara and 1 were st1ll dat1ng... r1ng any bells?
-	      @meenah_annoyed MEENAH: yeah
-	      @meenah_annoyed MEENAH: fuckin megido
-	      @meenah_annoyedtalk:#bull#lol#wait...#why-dont-you-ever-do-bull-puns?#FAIL MEENAH: do we really need to rehash that ancient bullshit drama
-	      @rufioh_no \nRUFIOH: no, no... heh, just say1ng 1s all... 1t was that whole th1ng... anyway, that's when horuss was k1nd of mack1ng on me, remember... and 1 wasn't all about to vac1llate w1th h1m and her cause 1 knew how she was... d*mn, so jealous... so f***1ng crazy...
-	      @rufioh_offendedtalk \nRUFIOH: so she made me a cr*pple, remember?
-	      @meenah_idle:#abaloneism MEENAH: tag that shit homie
-	      @rufioh_sheepish \nRUFIOH: d*mn, yeah... 1 mean, she busted me up... couldn't move a muscle... well, could st1ll flap my w1ngs well enough, haha...
-	      @rufioh_happytalk \nRUFIOH: really, 1 thought 1t would be alr1ght, just flapp1ng w1ngs around... 1 could st1ll fly and just hang there l1mp... m1ght have been a dope look!
-	      @rufioh_happytalk:#l1ke-l1terally...#screwed-that-sh*t-together-T1GHT!#dude-1s-good \nRUFIOH: but nah... horuss thought better of 1t. bu1lt me the robo-bod, wh1ch was pretty t1ght...
-	      @rufioh_sadtalk:#espec1ally-on-sta1rs...#}:( \nRUFIOH: lost my w1ngs though wh1ch sucked... and k1nd of awkward just hav1ng a real guy's head on top of a b1g metal body and mak1ng all those d*mn legs move the r1ght way, you know... trott1ng 1s hard work yo.
-	      @rufioh_sheepish \nRUFIOH: better than be1ng a cr*pple though. 1 mean a quadr1pleg1c, oops, haha... but 1 guess you d1dn't know what happened after that, s1nce you and damara were k1ll1ng each other and all...
-	      @meenah_idle MEENAH: no what
-	      @rufioh_sad \nRUFIOH: well... 1 d1ed. yeah... but...
-	      @rufioh_sheepish \nRUFIOH: that's l1ke... wow, long story... guess you never heard... 1'll tell you some other t1me, 1t's th1s whole crazy th1ng. but...
-	      @rufioh_talk:#hope-someone-pa1nted-that-sh*t...#1nstant-masterp1ece \nRUFIOH: 1 was dead, r1ght? and horuss k1ssed me back to l1fe... but just my head 1 th1nk... he was probably stand1ng on some mounta1n str1k1ng a pose l1ke a f***1ng gangsta, probably f1ght1ng a hoofbeast w1th a flam1ng mane and all... 
-	      @rufioh_happytalk \nRUFIOH: so yeah, next you saw me 1 had my normal body aga1n... 1t was cool of h1m to help me all the ways he has.
-	      @rufioh_happytalk \nRUFIOH: and yeah, we went out, me and h1m... for a long t1me after that, k1nda off and on, even after we d1ed... 1n case you were gonna ask...
-	      @meenah_annoyed MEENAH: i wasnt
-	      @rufioh_laugh \nRUFIOH: r1ght... haha... too much 1nformat1on 1 guess? sorry doll.
-	      @rufioh_talk \nRUFIOH: 1 always wanted to thank you for stand1ng up for me... you know, when she cr*ppled me... even though 1t cost ya... that was pure class, pe1xes, 1'll never forget 1t.
-	      @meenah_talk MEENAH: man i wouldnt have had to if you could just stand up for yourself sometimes
-	      @meenah_talk MEENAH: i mean being paralyzed notfishstanding
-	      @rufioh_sad \nRUFIOH: heh... yeah... 1 guess...
-	      @meenah_talk MEENAH: you are the only guy in our group who was ever even close to being pretty cool
-	      @meenah_talk MEENAH: everyone else sucks but you were almost alright
-	      @meenah_talk MEENAH: you were always such a pushover though
-	      @meenah_annoyed:#TW#CRIPPLE-ENTENDRE#suck-it MEENAH: pretty lame bro
-	      @kankri_talk4:#Als9,-when-walking,-6e-careful-n9t-t9-flaunt-the-health-9f-y9ur-legs. KANKRI: Excuse me. Meenah, "lame" is an a6leist slur, which in this c9ntext is REALLY inappr9priate. Tagging y9ur j9kes with "ir9nic" trigger warnings really d9es n9t excuse the 6ehavi9r. I'll thank y9u t9 refrain fr9m using such terms in the future.
+	      @rufioh_sheepish \nRUFIOH: ce que je veux d1re c’est que, tu t’es pr1se au jeu... et je peux le comprendre... ma1s je n’a1 jama1s été auss1 courageux que les gens l’ont toujours pensé... je ne sa1s pas pourquo1 1ls pensa1ent toujours ça de mo1. peut-être que ce sont mes a1les ou ma coupe à crète... ou quand je sors des bangarang des fo1s très fort ? ça me fa1t passer pour le type avec beaucoup d’est1me de so1... ma1s mon est1me de mo1 est pas à tomber par terre… j’sa1s pas...
+	      @meenah_talk MEENAH: daccord tu as pas passe le tier mais je carpe toujours pas un truc
+	      @meenah_wut MEENAH: tu avais pas une connerie du genre un putain de corps robot a un moment ou je lai juste imagine
+	      @meenah_annoyedtalk:#peut-etre-que-jai-attrape-la-folie-fantome#je-pourrais-JURER-que-tu-etais-un-cheval-de-metal-quand-meme MEENAH: toute cette periode de notre session etait tres embrouillee pour moi probablement parce que jetais morte pendant un bon moment
+	      @rufioh_sad \nRUFIOH: oua1111s...
+	      @rufioh_sheepish \nRUFIOH: non, le  corps robot est vra1ment arr1vé... j’a1 un peu répr1mé ce souven1r auss1, haha... c’éta1t... c’éta1t p*ta1n de quelque chose, yo ! fou...
+	      @rufioh_surprisetalk \nRUFIOH: je su1s sûr que tu te souv1ens comment tout ça a commencé... quand damara et mo1 sort1ons encore ensemble... ça te d1t quelque chose ?
+	      @meenah_annoyed MEENAH: ouais
+	      @meenah_annoyed MEENAH: putain de megido
+	      @meenah_annoyedtalk:#taureau#lol#attend...#pourquoi-tu-fais-jamais-de-blague-taurine?#NUL MEENAH: est ce que lon a vraiment besoin dagiter le chiffon rouge
+              @rufioh_no \nRUFIOH: non,  non… eh, juste pour d1re c’est tout... c’est toute l’h1sto1re… en tout cas, c’éta1t quand horuss comença1t à fl1rter avec mo1, tu te souv1ens... et je ne voula1s pas vra1ment vac1ller avec lu1 et elle car je sava1s comment elle éta1t… m*rde, s1 jalouse… tellement folle p*ta1n...
+	      @rufioh_offendedtalk \nRUFIOH: donc elle a fa1t de mo1 un estrop1é tu te souv1ens ?
+	      @meenah_idle:#validisme MEENAH: tagge cette merde mon pote
+	      @rufioh_sheepish \nRUFIOH: p*ta1n, oua1s... je veux d1re, elle m’a tabassé... je pouva1s pas bouger un muscle... enf1n, je pouva1s toujours assez b1en me serv1r de mes a1les, hehe...
+	      @rufioh_happytalk \nRUFIOH: vra1ment, je pensa1s que ça aura1t fa1t l’affa1re, de juste battre mes a1les... je pouva1s toujours voler et juste flotter comme ça, complètement flasque… ça aura1t pu être cool !
+	      @rufioh_happytalk:#genre-l1ttéralement...#cette-m*rde-éta1t-tellement-tendue-!#le-mec-est-fort \nRUFIOH: ma1s nan... horuss a pensé à m1eux que ça. 1l a constru1t un corps-robot, c’éta1t tendu...
+	      @rufioh_sadtalk:#surtout-sur-les-escal1ers...#}:( \nRUFIOH: ma1s j’a1 perdu mes a1les, ce qu1 cra1nt... et c’éta1t b1zzare d’avo1r juste une vra1e tête sur un grand corps métall1que et de fa1re bouger ces p*ta1n de jambes de la bonne façon, tu sa1s... trotter c’est du trava1l yo.
+	      @rufioh_sheepish \nRUFIOH: c’est déjà m1eux que d’être un estrop1é. je veux d1re un tétraplég1que, oops, haha... ma1s je suppose que tu ne sa1s pas ce qu1 s’est passé après, vu que to1 et damara vous vous entretu1ez et tout...
+	      @meenah_idle MEENAH: non quoi
+	      @rufioh_sad \nRUFIOH: et b1en... je su1s mort. oua1s... ma1s...
+	      @rufioh_sheepish \nRUFIOH: c’est genre... wow, une longue h1sto1re... que je suppose tu n’as jama1s entendue... je t’en parlera1 à un autre moment, c’est tout un truc de d1ngue. ma1s...
+	      @rufioh_talk:#j'espère-que-quelqu’un-a-pe1nt-cette-m*rde...#chef-d’oeuvre-1nstantané \nRUFIOH: j’éta1s mort, ok ? et horuss m’a embrassé pour me ressusc1ter... ma1s que ma tête je pense... 1l se tena1t probablement sur une quelconque montagne, posant comme un p*ta1n de gangster, probablement en tra1n de se battre contre une bête à sabots avec une cr1n1ère ardente et tout... 
+	      @rufioh_happytalk \nRUFIOH: donc oua1s, après tu m’as vu j’ava1s de nouveau un corps normal... c’éta1t cool de sa part de m’a1der comme 1l l’a fa1t.
+	      @rufioh_happytalk \nRUFIOH: et oua1s, on est sort1t ensemble lu1 et mo1... pendant très longtemps après ça, un peu de temps en temps, même après qu’on so1t morts... au cas où tu alla1s poser la quest1on...
+	      @meenah_annoyed MEENAH: ca letait pas
+	      @rufioh_laugh \nRUFIOH: d’accord... haha... trop d’1nformat1on je suppose ? désolé poupée.
+	      @rufioh_talk \nRUFIOH: j’a1 toujours voulu te remerc1er pour m’avo1r toujours défendu... tu sa1s, quand elle m’a estr*p1é... même s1 ça t’a coûté cher… c’éta1t de la pure classe, pe1xes, je l’oubl1era1s jama1s.
+	      @meenah_talk MEENAH: mec ce serait pas necessaire si tu pouvais juste te defendre toi meme des fois
+	      @meenah_talk MEENAH: je veux dire malgre etre paralyse
+	      @rufioh_sad \nRUFIOH: hé… oua1s... je suppose...
+	      @meenah_talk MEENAH: tu es le seul mec du groupe qui soit pas loin detre a peu pres cool
+	      @meenah_talk MEENAH: tout le monde craignait mais tu etais presque bien
+	      @meenah_talk MEENAH: sauf que tu as toujours ete une mauviette
+	      @meenah_annoyed:#AT#SOUS-ENTENDU-DE-HANDICAP# MEENAH: sans vouloir tinvalider mec
+	      @kankri_talk4:#Aussi,-pendant-que-tu-marches,-fais-attenti9n-à-ne-pas-exhi6er-la-santé-de-tes-jam6es. KANKRI: Excuse-m9i. Meenah, "Invalide" est une injure validiste, qui dans ce c9ntexte est VRAIMENT inappr9priée. Tagger tes 6lagues avec des alertes trigger “ir9niques” n’excuse pas cette attitude. Je te remercierais de te réfréner d’utiliser de tels termes dans le futur.
 	      @meenah_angry MEENAH: AAAAAUG)(A
 	      <!--  -->
 	      </args>
 		</action>
+
 
 			<action class='rufiohTalk2' sprite='meenah' command='talk' name='Ask Rufioh to join.'>
 			      <args>
