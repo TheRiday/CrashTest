@@ -1,83 +1,84 @@
 <sburb>
     <classes>
-    	<action class='horussTalk1' sprite='meenah' command='talk' name='Talk to Horuss.'>
+    	<action class='horussTalk1' sprite='meenah' command='talk' name='Parle à Horuss.'>
       <args>
-      @horuss_smiletalk HORUSS: 8=D &lt; Your Harness... I mean Hayness. Highness I mean.
-      @horuss_bashful:#Sh*ot!#I-mean-Hayness!#Whew. HORUSS: 8=D &lt; F*DDLEST*%25. Please pardon my utterly e%25ecrable language, and unforgivable stammering, your Horseness.
-      @horuss_sweat_talk HORUSS: 8=D &lt; I am a bale of nerves in your royal presence, and it has been so long. 
-      @horuss_sweat_grin HORUSS: 8=D &lt; And when I am so spooked, you must know how that causes me to even more firmly identify with the majestic hoofbeast.
-      @meenah_idle MEENAH: hey uh
-      @meenah_idle MEENAH: horuss what...
-      @meenah_wut2 MEENAH: what the fuck is that thing youre prefixing all your talkin with
-      @horuss_idle HORUSS: 8=D &lt; Oh, this? What, you don't recognize it?
-      @meenah_wut MEENAH: no and its weirding me out
-      @horuss_smiletalk HORUSS: 8=D &lt; Why, it is my smiling face, you s*lly, utterly superior person, you. Goggles and all. Can't you see?
-      @meenah_wut MEENAH: i
-      @meenah_wut MEENAH: guess??
-      @meenah_annoyedtalk MEENAH: its disturbin as heck to me for whatever reason
-      @horuss_smiletalk HORUSS: 8=D &lt; The last thing I desire is to disconcert our prodigal empress.
-      @horuss_smiletalk:#I've-been-cutting-back-on-the-horse-puns-too,-as-you-can-see. HORUSS: 8=D &lt; I just thought I would try smiling permanently and uncompromisingly, rather than resnorting to all those disgruntled e%25pressions I usually trot out.
-      @meenah_annoyedtalk MEENAH: why the eff would you want to do that
-      @horuss_idle:#8=3 HORUSS: 8=D &lt; It was on Meulin's suggestion, actually.
-      @meenah_idle MEENAH: huh??
-      @horuss_smiletalk HORUSS: 8=D &lt; Oh, I guess you must not have herd. She and I have developed quite a STRONG and stable moirallegiance recently.
-      @meenah_idle:#disclamer:#less-impressed-than-i-sound MEENAH: daaaang
-      @meenah_talk:#cats+horse#ftw MEENAH: that matchup makes no glubbin sense dude
-      @horuss_laugh:#If-you're-going-to-go#Go-out-with-a-smile#8=D HORUSS: 8=D &lt; E%25actly. Whoof would have thought? If you a%25ed me before we all died whether I would consider romantically pairing with a r*d*culous midb100d, let alone Ms. Leijon of all people, I'd probably have died regardless, due to laughter-induced asphy%25iation.
-      @horuss_smiletalk:#Dancestors#Or-shall-I-say#Dressagecestors? HORUSS: 8=D &lt; But do you know what it was that finally cleared the sweat steam-induced fog from my goggles? It was meeting our post-scratch counterparts. 
-      @horuss_smiletalk:#Which-naturally-I-would-drain-right-away-through-the-custom-sweat-valves HORUSS: 8=D &lt; Seeing our corresponding young Alternians, why it threatened to produce a tear-induced f100d on the inside of my goggles.
-      @horuss_smiletalk HORUSS: 8=D &lt; Their relationship in spite of the STRONG class disparity I found to be so moving, so pure. It made me reconsider my perspective on Meulin entirely, who horsenestly I'd hardly ever given a second thought.
-      @horuss_smiletalk HORUSS: 8=D &lt; It's funny, don't you think? How our young ancestors took to a completely different social configuration, making for some rather odd pairings, both platonic and otherwise. A whole host of counterintuitive minglings, up and down the hemospectrum with no regard for class compatibility. And yet it all seems to make a strange amount of sense. Neigh, I might go as far as saying it's all oddly rather...
-      @horuss_sweat_bashful2 HORUSS: 8=D &lt; T*tillating? Or no, perhaps what I mean is some of their Alternian indiscretions feel a bit, I don't know...
-      @horuss_oops HORUSS: 8=D &lt; Naughty?
-      @horuss_crossed:#My-mouth-is-quite-the-l*ad-g*per-today. HORUSS: 8=D &lt; Oh ph**ey, that's not what I mean either. (Pardon my p*ttymouth.) Now you'll probably mistake me for some kind of r*scally deviant.
-      @meenah_talk MEENAH: man why yall still act like you give a heap of manure about dating down on the spectrum
-      @meenah_talk MEENAH: you and nitram been a thing for how long now
-      @horuss_idle HORUSS: 8=D &lt; Yes, but no one was supposed to know about that!
-      @horuss_sweat_bashful2:#Though-I-have-literally-smithed-such-items-before,-pun-notwithstanding. HORUSS: 8=D &lt; That was always to be my own private, um, e%25ploration. I had no intention of creating such a stirrup. 
-      @horuss_sweat_talk:#A-spur-of-the-moment-affair,-really. HORUSS: 8=D &lt; It was only to be a very private, fleeting dalliance with a BUOY, but the whole thing became so quickly scandalized. 
-      @horuss_crossed HORUSS: 8=D &lt; And soon others were whisked into it such as you and the vengeful rust b100d, and... well, imagine my embarrassment. Trust me, the last thing I wanted was for royalty such as yourself to know I was pursuing forbidden b100d. To be caught with my hoof in the chocolate jar, so to nicker.
-      @meenah_wut MEENAH: ill
-      @horuss_idle2talk HORUSS: 8=D &lt; And I suppose I would have clopped my hands of the matter after the big k*rfuffle, but...
-      @horuss_idle HORUSS: 8=D &lt; I guess I didn't e%25pect to fall in love.
+      @horuss_smiletalk HORUSS: 8=D &lt; Votre Harnaisse... Je veux dire Attelesse. Altesse je veux dire.
+      @horuss_bashful:#Cr*ttin!#Je-veux-dire-Attelesse!#Pfiou HORUSS: 8=D &lt; BAL*VARNA*S. Veuillez pardonner mon langage tout à fait e%écrable, et mes bégaiements impardonnables, votre Chevalesse.
+      @horuss_sweat_talk HORUSS: 8=D &lt; Je suis une botte de nerfs en votre royale présence, et ça fait si longtemps.
+      @horuss_sweat_grin HORUSS: 8=D &lt; Et quand je suis effrayé, vous devez savoir à quel point ça me fait m’identifier encore plus fermement avec la majestueuse bête à sabots.
+      @meenah_idle MEENAH: he euh
+      @meenah_idle MEENAH: horuss cest quoi...
+      @meenah_wut2 MEENAH: cest quoi ce bordel qui prefixe tout ce que tu dis
+      @horuss_idle HORUSS: 8=D &lt; Oh, ça ? Quoi, vous ne le reconnaissez pas ?
+      @meenah_wut MEENAH: non et ca me perturbot
+      @horuss_smiletalk HORUSS: 8=D &lt; Mais voyons, c’est mon visage souriant très chère, absolument supérieure personne. Les lunettes et tout ça. Ne voyez-vous pas ? 
+      @meenah_wut MEENAH: je
+      @meenah_wut MEENAH: suppose ??
+      @meenah_annoyedtalk MEENAH: cest vraiment derangeant pour moi pour je ne sais quelles raiesons
+      @horuss_smiletalk HORUSS: 8=D &lt; La dernière chose que je désire est de déconcerter notre impératrice prodigue.
+      @horuss_smiletalk:#Je-me-suis-également-calmé-sur-les-calembours-chevalins,-comme-vous-pouvez-le-voir. HORUSS: 8=D &lt; Je pensais juste que je pourrais essayer de sourire de manière permanente et 100 compromis, plutôt que de relicourir à toutes ces fâcheuses e%pressions qui me trottent dans la tête.
+      @meenah_annoyedtalk MEENAH: pourquoi tu voudrais faire ca
+      @horuss_idle:#8=3 HORUSS: 8=D &lt; En fait, c’était sous la suggestion de Meulin.
+      @meenah_idle MEENAH: hein ??
+      @horuss_smiletalk HORUSS: 8=D &lt; oh, je suppose que vous n’êtes pas au courant. Elle et moi avons développé une FORTE moirallegeance récemment.
+      @meenah_idle:#caviartissement:#moins-impressionee-que-je-semble MEENAH: oh mon lieuuu
+      @meenah_talk:#chats+cheval#plv MEENAH: cette assoleciation nae fait aucun sens mec
+      @horuss_laugh:#Si-tu-t’en-vas#Sors-avec-un-sourire#8=D HORUSS: 8=D &lt; Exactement. Qui l'eut cru? Si vous m’aviez demandé avant que l’on soit tous morts si j’envisageais de me jumenler romantiquement avec une r*d*cule moyen100sang, 100 parler de Mme Leijon, je serais probablement mort par asphy%ie provoquée par le rire.
+      @horuss_smiletalk:#Dancêtres#ou-devrais-je-dire#Destriercêtres? HORUSS: 8=D &lt; Mais savez-vous ce qui a éliminé le brouillard provoqué par la vapeur sudorale de mes lunettes ? C’était de rencontrer nos homologues post-scratch.
+      @horuss_smiletalk:#Que-j’aurais-naturellement-drainée-via-les-valves-de-drainage-de-sueur-personnalisées HORUSS: 8=D &lt; Voir ainsi nos jeunes équivalents alterniens, juste ciel, la raison pour laquelle cela menaçait de produire unedes larmes provoquées par inondation de larmes à l’intérieur de mes lunettes.
+      @horuss_smiletalk HORUSS: 8=D &lt; Leurs relations, malgré leur FORTE disparité de classes,  que je l’ai trouvée tellement émouvante, tellement pure. Cela m’a fait totalement reconsidérer mon point de vue sur Meulin à pour qui, en toute honnêteté, je n’avais jamais porté aucune attention.
+      @horuss_smiletalk HORUSS: 8=D &lt; C’est drôle, vous ne trouvez pas ? La manière dont nos jeunes ancêtres sont partis dans une configuration sociale complètement différente, en faisant pour certains de curieuses associations, platoniques et autres. Tout un éventail de mélanges parado%aux, de haut en bas de l’hémospectre 100 sans aucune considération pour les compatibilités de classes. Et pourtant, tout semble faire étrangement 100s. Noan, je pourrais aller jusqu’à dire que c’est plutôt étrangement...
+      @horuss_sweat_bashful2 HORUSS: 8=D &lt; T*tillant ? Ou non, ce que je veux peut-être dire c’est que certaines de leurs indiscrétions alterniennes semblent un peu, je sais pas...
+      @horuss_oops HORUSS: 8=D &lt; Coquines ?
+      @horuss_crossed:#J’ai-la-bouche-b*en-r*mplie-aujourd’hui HORUSS: 8=D &lt; Oh fl*tepfff, ce n’est pas non plus ce que je veux dire. (Veuillez excuser mes gr*voiseries.) Vous devez désormais me prendre pour une sorte de gr*din déviant.
+      @meenah_talk MEENAH: mec pourquoi vous en faites tous tout un tas de fumier d’avoir un rencard en bas du spectre.
+      @meenah_talk MEENAH: toi et nitram  cest un truc depuis combien de temps deja
+      @horuss_idle HORUSS: 8=D &lt; Oui, mais personne n’était 100censé l’apprendrele savoir à propos de ça !
+      @horuss_sweat_bashful2:#Même-si-j’ai-toujours-rêvé-de-participer-à-de-littérales-jouteslittéralement-forgé-ce-genre-d’éléments-auparavant,-100sans-résister-au-calembour HORUSS: 8=D &lt; C’était toujours 100censé être mon, ahem, e%ploration privée. Je n’avais pas l’intention de créer une telle joute.
+      @horuss_sweat_talk:#Une-histoire-sur-un-coup-de-tête. HORUSS: 8=D &lt; C’était seulement 100censé être un badinage très privé avec un BLOC, mais la situation s’est transformée en un tel scandale si vite.
+      @horuss_crossed HORUSS: 8=D &lt; Et rapidement, d’autres ont été mêlés mélangés à cette histoire comme vous et la 100 de sang rouille rancunière, et… et bien, imaginez mon embarras. Croyez-moi, la dernière chose que je voulais c’était que la royauté, telle que vous, soit au courant que je poursuivais du 100sang interdit. Être pris les sabots dans la mangeoirele plat, pour ainsi hennir.
+      @meenah_wut MEENAH: cool
+      @horuss_idle2talk HORUSS: 8=D &lt; Et je pense que je me serais lavé les ferssabots de cette histoire après toute cette *gitation, mais...
+      @horuss_idle HORUSS: 8=D &lt; Je crois que je ne m’attendais pas à tomber amoureux.
       @meenah_wut MEENAH: 
-      @horuss_smiletalk HORUSS: 8=D &lt; It's true. I am not ashamed to say it. I fell mane over hooves. Phantom snout over phantom hind quarters. He...
-      @horuss_bashful:#With-but-a-roguish-glance. HORUSS: 8=D &lt; He stole my breath away.
-      @meenah_idle MEENAH: wow life story alert do not care
-      @horuss_idle HORUSS: 8=D &lt; My apologies, your E%25cellency.
-      @meenah_annoyedtalk MEENAH: just tell me why paling up with meu means you have to make that terrible face now
-      @horuss_smiletalk:#Such-as#All-times. HORUSS: 8=D &lt; She's taught me to get in touch with my anger. Through a moderately discernible series of enthusiastic mimes, she has made it clear that it is much healthier to crush all negative emotions beneath a stampede of positivity, and to always be cheerful and upbeat no matter what, even if projecting that facade is at times physically painful.
-      @meenah_talk MEENAH: that is some shitsauce advice and you should give it up homes
-      @horuss_idle HORUSS: 8=D &lt; Um, yes. Very well.
-      @horuss_mad HORUSS: (;≧Д≦) &lt; Is this better?
-      @meenah_happy MEENAH: much
+      @horuss_smiletalk HORUSS: 8=D &lt; C’est vrai. Je n’ai pas honte de le dire. Je suis tombé à ses sabots. Le museau fantôme en plein dans la paille. Il...
+      @horuss_bashful:#Avec-seulement-un-roublardeux-regard HORUSS: 8=D &lt; Il m’a coupé le souffle.
+      @meenah_idle MEENAH: wow alerte racontage de vie rien a foutre
+      @horuss_idle HORUSS: 8=D &lt; Toutes mes e%cuses, votre E%cellence.
+      @meenah_annoyedtalk MEENAH: dis moi juste pourquoi te palifier avec meu signifie que tu dois faire cette tronche maintenant
+      @horuss_smiletalk:#Du-genre#Tout-le-temps. HORUSS: 8=D &lt; Elle m’a appris à me familiariser avec ma colère. À travers une série de mimes relativement reconnaissables, elle m’a fait comprendre qu’il était plus sain d’écraser toute émotion négative sous une ruade de positivité, et de toujours être joyeux et optimiste peut importe la situation, même si e%poser cette façade est parfois physiquement douloureux.
+      @meenah_talk MEENAH: cest un conseil merdique et tu devrais abandonner poto
+      @horuss_idle HORUSS: 8=D &lt; Hem, oui. Très bien.
+      @horuss_mad HORUSS: (;≧Д≦) &lt; C’est mieux ?
+      @meenah_happy MEENAH: beaucoup
       <!--  -->
       </args>
 </action>
 
-<action class='horussTalk2' sprite='meenah' command='talk' name='Ask Horuss to join.'>
+
+<action class='horussTalk2' sprite='meenah' command='talk' name='Demande à Horuss de se joindre à toi.'>
       <args>
-      @horuss_smiletalk HORUSS: 8=D &lt; Respectfully, your Superlative Magnificency, I do not think that would be advisable.
-      @meenah_creepy:#HORSE-PUN#DIS-GIRL#ON-FIYA MEENAH: whoa shocker of the centaury
-      @horuss_smiletalk HORUSS: 8=D &lt; Of course, I will if you order me to without hesitation. But lately I've been attempting to canter down a trail of nonviolence.
-      @horuss_smiletalk:#Soon-I-may-even-be-able-to-say-STRENGTH-without-shouting. HORUSS: 8=D &lt; I've been saddled for so long with anger and hostility, and now my focus is on solving problems in ways that do not involve confrontation or physical STRENGTH.
-      @horuss_sweat_talk HORUSS: 8=D &lt; Technology can solve so many problems, for instance. Do you have any idea how much energy is stored in sweat which may be released through its steam?
-      @horuss_sweat_grin HORUSS: 8=D &lt; Have you any clue as to the MIGHT of a quadrupedal automaton powered by raging currents of steam coursing through its e%25quisite horizontal torso, and finally jetting through a perfect pair of metal nostrils? I could build as many as you like, my Empress.
-      @meenah_talk:#unless-you-build-those-suckas-out-of-gold MEENAH: um no think i will pass on taking an army of snorting horsebots with me
-      @meenah_talk MEENAH: so thats all you do is build stupid shit that runs on your sweat now?
-      @meenah_talk MEENAH: cause i could really use a guy with muscle
-      @meenah_creepytalk:#kinda-hot-actually MEENAH: i dunno if you seen this skull dude but he is RIPP-ED
-      @horuss_smiletalk HORUSS: 8=D &lt; Oh no, that's far from my only preoccupation. I have also taken some time to perfect the art of humor.
-      @horuss_idle HORUSS: 8=D &lt; Would you like to hear a joke?
-      @meenah_annoyed:#fine MEENAH: oh noes...
-      @horuss_smiletalk HORUSS: 8=D &lt; A horse trots into a thirst shanty. His muscular shoulders slouched, his noble head hanging low.
-      @horuss_smiletalk HORUSS: 8=D &lt; The dairyjerk observes that the great beast is clearly despondent, and asks:
-      @horuss_idle HORUSS: 8=========D &lt; Why the long face?
-      @meenah_wut MEENAH: euurergh
-      @meenah_angrytalk MEENAH: zahhak god damn it i am royally orderin you to stop doing that face forever
-      @horuss_idle2 HORUSS: 8=o &lt; At once, my lady.
-      @horuss_sadtalk HORUSS: 8o &lt; My formerly perky visage withdraws, while my fully erect posture shrivels at your regal disapproval.
-      @horuss_idle2talk HORUSS: (ಠ益ಠ;) &lt; I shall henceforth emote in my customary manner, as such.
+      @horuss_smiletalk HORUSS: 8=D &lt; Respectueusement, vôtre Superlative Magnifi100cence, je ne crois pas que ce soit conseillé.
+      @meenah_creepy:#JEU-DE-MOT-CHEVALIN#CETTE-NANA#PETE-LE-FEU MEENAH: ouh choc du sellcle
+      @horuss_smiletalk HORUSS: 8=D &lt; Évidemment, je le ferré 100sans hésitation si vous me l’ordonnez. Mais j’ai récemment tenté de me re100trer sur un 100sentier de non-violence.
+      @horuss_smiletalk:#Je-pourrais-même-être-bientôt-capable-de-dire-FORCE-100sans-crier. HORUSS: 8=D &lt; J’ai été sellé pendant si longtemps à ma colère et mon hostilité, maintenant je me con100tre sur la résolution de problèmes n’impliquant pas de confrontations ou de FORCE physique.
+      @horuss_sweat_talk HORUSS: 8=D &lt; Par e%emple, la technologie peut résoudre beaucoup de problèmes. Savez-vous combien d’énergie est stockée dans la sueur, qui peut être libérée grâce à sa vapeur ?
+      @horuss_sweat_grin HORUSS: 8=D &lt; Avez-vous une idée de la PUI100CE d’un automate quadrupède alimenté par de rapides courants de vapeur galopant à travers son e%quis torse droit, et jailli100ssant enfin d’une parfaite paire de naseaux métalliques ? Je pourrais en construire autant que vous voudrez, mon Impératrice.
+      @meenah_talk:#a-moins-que-tu-fabriques-ces-trucs-flippants-en-or MEENAH: hem non je crois que je vais me passer dune armee de robots chevaux reniflants
+      @meenah_talk MEENAH: donc tout ce que tu fais cest construite cestte merdes stupides qui fonctionnent avec ta sueur?
+      @meenah_talk MEENAH: parce quun gars avec des muscles pourrait vraiment metre utile
+      @meenah_creepytalk:#plutot-sexy-en-fait MEENAH: je sais pas si tas vu ce mec squelette mais il est DOP-E
+      @horuss_smiletalk HORUSS: 8=D &lt; Oh non, c’est loin d’être ma seule préoccupation. J’ai aussi pris le temps de perfectionner l’art de l’humour.
+      @horuss_idle HORUSS: 8=D &lt; Voudriez-vous entendre une blague?
+      @meenah_annoyed:#fine MEENAH: oh non...
+      @horuss_smiletalk HORUSS: 8=D &lt; Un cheval trotte dans une cabane de la soif. Ses épaules musclées avachies, sa noble tête basse.
+      @horuss_smiletalk HORUSS: 8=D &lt; Le pourvoyeur laitiermasturblaitier remarque que la grande bête est clairement déprimée, et demande : 
+      @horuss_idle HORUSS: 8==========D &lt; Pourquoi cette tête de dix pieds de long jusqu’à par terre?
+      @meenah_wut MEENAH: euuherk
+      @meenah_angrytalk MEENAH: zahhak bordel je tordonne royalement darreter pour toujours de faire cette tete
+      @horuss_idle2 HORUSS: 8=o &lt; De ce pas, ma dame.
+      @horuss_sadtalk HORUSS: 8o &lt; My formerly perky visage withdraws, while my fully erect posture shrivels at your regal disapproval. / Mon anciennement guilleret visage se retire, pendant que ma posture entièrement dure et tendue frissonne devant votre royale désapprobation.
+      @horuss_idle2talk HORUSS: (ಠ益ಠ;) &lt; Je dois désormais exprimer mes 100sentiments selon mes moeurs habituelles, comme tel.
       @meenah_idle MEENAH: respect
       <!--  -->
       </args>
