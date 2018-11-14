@@ -104,49 +104,49 @@
 			      </args>
 			</action>
 
-<action class='rufiohTalk4' sprite='horuss' command='talk' name='Talk to Rufioh.'>
+<action class='rufiohTalk4' sprite='horuss' command='talk' name='Parle à Rufioh.'>
       <args>
-      @rufioh_surprisetalk \nRUFIOH: hey man. oh, heh... st1ll mak1ng that face 1 see... 
-      @horuss_smiletalk HORUSS: 8=D &lt; Yes, I really enjoy making this face. It really helps remind me through persistent facial discomfort that appearing to be happy should always be one's top priority.
-      @horuss_oops HORUSS: 8=O &lt; Why? You don't find it displeasing, do you?
-      @rufioh_offendedtalk \nRUFIOH: um... no... 1t's uh... yeah, 1t's alr1ght horuss. the look 1s really, uh... someth1ng else. wow.
-      @horuss_smiletalk HORUSS: 8=D &lt; Really, I could stop making the face. Meenah recently ordered me to stop making it in her presence, and I of course instantly complied. I would just as readily do the same for someone as important to me as you.
-      @rufioh_sheepish:#except-for-maybe#po1nt1ng-1t-at-me-so-much... \nRUFIOH: err... haha. that's cool... but yeah, that's f1ne. really 1 can d1g the look, 1 guess. just do whatever you're feel1ng w1th 1t...
-      @horuss_smiletalk HORUSS: 8=D &lt; Rufioh, your affable malleability continues to be your finest quality. It is the jewel in your mohawk. A true diamond in the Ruf. You always were the ideal embodiment of your aspect, as pleasantly wayward and fickle as The Breeze itself.
-      @rufioh_sheepish \nRUFIOH: yeah... uh... thanks. 1 should probably try to work on that though...
-      @horuss_smiletalk HORUSS: 8=D &lt; Of course. We always strive to hone our craft, ever pounding at the iron to make the shoe a perfect shape. I know well how much work it takes.
-      @rufioh_surprisetalk \nRUFIOH: no, 1 d1dn't mean, l1ke... be MORE l1ke that... 1 mean... uh, sorry to 1nterrupt... go ahead?
-      @horuss_smiletalk HORUSS: 8=D &lt; My path was similarly governed by my aspect. For the longest time, I felt as if I was a blank sheet of paper. Like I had to make myself out of nothing.
-      @horuss_smiletalk HORUSS: 8=D &lt; And so I began to listen closely to the void within myself and corral the various personal attributes I herd calling to me. 
-      @horuss_smiletalk HORUSS: 8=D &lt; Much like assembling a comple%25 machine, I began to piece together a STRONG identity, which of course included discovering a passion for mechani%25 itself.
-      @horuss_smiletalk HORUSS: 8=D &lt; And needless to say, what also galloped out of the void in my soul was the realization that I am obviously a noble hoofbeast, though my physical appearance cruelly betrays this fact.
-      @rufioh_surprisetalk \nRUFIOH: hey, uh... horuss... 1 th1nk...
-      @rufioh_sadtalk \nRUFIOH: we need to talk.
-      @rufioh_sad \nRUFIOH: 1 mean, when you get a m1nute...
-      @horuss_smiletalk HORUSS: 8=D &lt; And in following sweeps I would keep turning my mechanically augmented, acute equine ear back to the abyss within, and continue to discover more about myself. I would learn that I was more complicated than I ever imagined. More complicated than any mortal mind could understand a person to be.
-      @horuss_hmmtalk HORUSS: 8=D &lt; Knowing myself to be hoofbeastkin was only grazing the surface of the pasture. Merely skimming the cream from the top of the milk. I was so much more.
-      @rufioh_sad \nRUFIOH: 1 th1nk maybe we should l1ke...
-      @rufioh_sheepish \nRUFIOH: uh... see other...
-      @horuss_hmmtalk HORUSS: 8=D &lt; It turns out my body was merely the host to a highly intricate system of entities of any sort you could name, biological or mechanical, sentient or nonsentient, physical or metaphysical. My inner field of e%25perience is shared by the souls of ancient legendary musclebeasts, a range of devices such as hivehold appliances, a number of cosmological features such as planets, star systems, even several universes, and a variety of abstract concepts which sentient beings have not yet formed the language to e%25press.
-      @rufioh_sheepish \nRUFIOH: l1ke... don't get me wrong... we had some good t1mes together... 1t's been great really...
-      @rufioh_sad \nRUFIOH: but maybe 1t's t1me to uh... 1 dunno.
-      @horuss_crossed HORUSS: 8=D &lt; But as much as I learned about myself, I could never find a way to become whole.
-      @horuss_idle HORUSS: 8=D &lt; The void was never filled until you came along, Rufioh. 
-      @rufioh_surprise \nRUFIOH: wow man. that's...
+      @rufioh_surprisetalk \nRUFIOH: hé mec. oh, heh… tu fa1s toujours cette tête à ce que je vo1s...
+      @horuss_smiletalk HORUSS: 8=D &lt; Oui, j’apprécie vraiment de faire cette tête. Ça m’aide vraiment, à travers un inconfort facial persistant, à me rappeler qu’avoir l’air heureux devrait toujours être la priorité numéro un de quelqu’un.
+      @horuss_oops HORUSS: 8=O &lt; Pourquoi ? Tu ne trouves pas ça déplaisant, n’est-ce pas ?
+      @rufioh_offendedtalk \nRUFIOH: euh… non… c’est juste euh… oua1s, c’est b1en horuss. le style est vra1ment, euh… 1mpress1onnant. wow.
+      @horuss_smiletalk HORUSS: 8=D &lt; Sérieusement, je pourrais arrêter de faire cette tête. Meenah m’a récemment ordonné d’arrêter de la faire en sa présence, et j’ai bien sûr instantanément obtempéré. Je serais tout aussi prêt à faire la même chose pour quelqu’un d’aussi important pour moi que toi.
+      @rufioh_sheepish:#sauf-peut-être#de-tant-la-po1nter-vers-mo1... \nRUFIOH: hé… haha. c’est cool… ma1s ouais, ça va. vraiment, j’appréc1e le style, je suppose. fa1s tout ce que tu te sens de fa1re avec...
+      @horuss_smiletalk HORUSS: 8=D &lt; Rufioh, ton affable plasticité continue à être ta plus grande qualité. C’est le bijou de ton mohawk. Un vrai diamant bRuf. Tu as toujours été l’incarnation idéale de ton aspect, aussi plaisamment errant et volage que La Brise elle-même.
+    @rufioh_sheepish \nRUFIOH: oua1s… euh… merc1. je devra1s probablement essayer de trava1ller sur ça par contre...
+      @horuss_smiletalk HORUSS: 8=D &lt; Bien sûr. Nous faisons toujours tout notre possible pour perfectionner notre art, martelant toujours le fer pour donner une parfaite forme à la chaussure. Je sais très bien le travail que c’est.
+      @rufioh_surprisetalk \nRUFIOH: non, je voula1s pas d1re, genre… être PLUS comme ça… je veux d1re… euh, désolé de t’1nterrompre… vas-y ?
+      @horuss_smiletalk HORUSS: 8=D &lt; Mon chemin fut similairement gouverné par mon aspect. Pendant tellement de temps, je me suis senti comme une feuille de papier blanche. Comme si je devais me créer à partir de rien.
+      @horuss_smiletalk HORUSS: 8=D &lt; Et cela étant je commençai à écouter attentivement le néant au fond de moi et à rassembler les attributs de personnalités divers que j’entendais m’appeler.
+      @horuss_smiletalk HORUSS: 8=D &lt; Comme assemblant une machine comple%e, je commençai à assembler une FORTE identité, ce qui bien sûr impliquait de découvrir une passion pour la mécanique elle-même.
+      @horuss_smiletalk HORUSS: 8=D &lt; Et, cela va sans dire, ce qui galopa aussi hors du vide dans mon âme fut la réalisation que je suis évidemment une noble bête à sabots, même si mon apparence physique trahit cruellement ce fait.
+      @rufioh_surprisetalk \nRUFIOH: hé, heu… horuss… je pense...
+      @rufioh_sadtalk \nRUFIOH: 1l faut qu’on parle.
+      @rufioh_sad \nRUFIOH: je veux d1re, quand tu auras une m1nute…
+  @horuss_smiletalk HORUSS: 8=D &lt; Et pour les révolutions solaires qui suivirent je continuai à tourner mes précises oreilles équines, mécaniquement augmentées, vers l’abysse à l’intérieur de moi, et à en découvrir plus sur moi-même. J'apprendrai que j’étais plus compliqué que j’aurais pu l’imaginer. Plus compliqué qu’aucun esprit mortel ne pourrait comprendre.
+      @horuss_hmmtalk HORUSS: 8=D &lt; Savoir que j’étais bête à sabots-kin n’était qu’effleurer la surface du pâturage. A peine écrémer le dessus du lait. J’étais tellement plus que ça.
+      @rufioh_sad \nRUFIOH: je pense que peut-être on devra1t genre...
+      @rufioh_sheepish \nRUFIOH: euh… vo1r d’autres...
+      @horuss_hmmtalk HORUSS: 8=D &lt; Il s’avère que mon corps était simplement l’hôte d’un système d’entités hautement complexe d’autant de sortes que tu pourrais nommer, biologiques ou mécaniques, sentientes ou non sentientes, physiques ou métaphysiques. Mon champ interne d’e%périence est partagé par les âmes d’anciennes et légendaires bêtes à muscles, un panel d’appareils tels que des électroménagers, une quantité de caractéristiques cosmologiques tel que des planètes, des systèmes d’étoiles, même plusieurs univers, et une variété de concept abstraits pour lesquels les êtres sentients n’ont pas encore formé un langage capable de les e%primer.
+      @rufioh_sheepish \nRUFIOH: genre… le prends pas mal… on a passé de bons moments ensemble… ça a été b1en, vra1ment...
+      @rufioh_sad \nRUFIOH: mais peut-être qu’1l est temps de euh… j’sa1s pas.
+      @horuss_crossed HORUSS: 8=D &lt; Mais peu importe tout ce que j’apprenais sur moi-même, je ne trouvais jamais de moyen de devenir entier.
+      @horuss_idle HORUSS: 8=D &lt; Le néant n’a jamais été rempli jusqu’à ce que tu arrives dans ma vie, Rufioh.
+      @rufioh_surprise \nRUFIOH: wow mec. c’est...
       @rufioh_sadtalk \nRUFIOH: wow.
-      @horuss_smiletalk HORUSS: 8=D &lt; If there is any lesson I would like people to take from my story, it is a lesson that is a multiple system consisting of two distinct lessons.
-      @horuss_smiletalk HORUSS: 8=D &lt; The first is how love heals all wounds, even ones consisting of the infinite essence of void permeating your entire e%25istence and role as a legendary hero.
-      @horuss_smiletalk HORUSS: 8=D &lt; The second is how if you are faced with any crisis of identity whatsoever, it's really important to do your best to manufacture esoteric features of your personality and believe in them very STRONGLY and tell people about those things as frequently as possible.
-      @horuss_bashful HORUSS: 8=D &lt; I can assure you right now, the labor involved in smithing my personality into one that is interesting and complicated was rather intensive.
-      @horuss_sweat_bashful2 HORUSS: 8=D~~ &lt; I really worked up a good sweat in the process.
-      @horuss_sweat_bashful HORUSS: 8=D~~~~ &lt; (That is the sweat dripping from my face.)
-      @rufioh_no \nRUFIOH: hey... yo... that...
-      @rufioh_no \nRUFIOH: that's some freaky sh*t dog!
-      @horuss_smiletalk HORUSS: 8=D &lt; Anyway, I apologize for talking so much. You know how you have a way of drawing the breath out of people.
-      @horuss_idle HORUSS: 8=D &lt; What were you trying to tell me?
-      @rufioh_sheepish \nRUFIOH: oh... yeah.
-      @rufioh_sheepish \nRUFIOH: uh...
-      @rufioh_sad \nRUFIOH: never m1nd.
+   @horuss_smiletalk HORUSS: 8=D &lt; S’il y a une seule leçon que je voudrais que les autres retiennent de mon histoire, ce serait une leçon qui est un système multiple se composant de deux leçons distinctes.
+      @horuss_smiletalk HORUSS: 8=D &lt; La première est que l’amour guérit toutes les blessures, mêmes celles constituées de l’infinie essence de néant qui imprègne ton entière e%istence et rôle en temps que héros légendaire.
+      @horuss_smiletalk HORUSS: 8=D &lt; La deuxième est que, si tu fais face à une quelconque crise d’identité, il est très important de faire de ton mieux pour manufacturer des traits ésotériques de ta personnalité et croire en eux très FORTEMENT et en parler aux autres aussi fréquemment que possible.
+      @horuss_bashful HORUSS: 8=D &lt; Je peux t’assurer à l’heure actuelle, le labeur qui constitua le fait de forger ma personnalité en une chose intéressante et compliqué fut plutôt intensif.
+      @horuss_sweat_bashful2 HORUSS: 8=D~~ &lt; J’ai vraiment beaucoup sué dans le procédé.
+      @horuss_sweat_bashful HORUSS: 8=D~~~~ &lt; (Ça c’est la sueur qui coule de mon visage.)
+      @rufioh_no \nRUFIOH: hé yo… c’est...
+      @rufioh_no \nRUFIOH: c’est p*ta1n d’1ntense mec !
+      @horuss_smiletalk HORUSS: 8=D &lt; Enfin bon, mes excuses pour avoir parlé autant. Tu sais que tu as ce quelque chose qui donne un second souffle aux gens.
+      @horuss_idle HORUSS: 8=D &lt; Qu’est-ce que tu essayais de me dire ?
+      @rufioh_sheepish \nRUFIOH: oh... oua1s.
+      @rufioh_sheepish \nRUFIOH: euh...
+      @rufioh_sad \nRUFIOH: c’est pas grave.
       <!--  -->
       </args>
 </action>
