@@ -83,118 +83,118 @@
       <!--  -->
       </args>
 </action>   
-<action class='daveTalk2' sprite='rose' command='talk' name='Talk to Dave.'>
+<action class='daveTalk2' sprite='rose' command='talk' name='Parle à Dave.'>
       <args>
-      @dave_huhtalk DAVE: whats up with the fish punk troll following kanaya around
-      @rose_talk ROSE: Seems she's passing through. Kanaya doesn't want her to cause trouble.
-      @dave_huh DAVE: cause trouble
-      @dave_madtalk DAVE: what the fuck could she even do here
-      @dave_madtalk DAVE: like kick over an old pile of garbage and cause the property value to fall even lower than jack shit
-      @dave_smug DAVE: i say let her go nuts
-      @rose_talk ROSE: Feel free to take it up with Kanaya.
-      @rose_annoyedtalk ROSE: But if you authorize her to flip a bitch, just make sure she's nowhere near my chemistry table. 
-      @dave_idle DAVE: yeah
-      @dave_talk DAVE: cant be droppin your vials and shit all over the floor
-      @dave_talk DAVE: the only one whos got clearance to drop science is me
-      @rose_annoyed ROSE: Dork.
-      @dave_mad DAVE: dont even hate
-      @dave_madtalk DAVE: been shoring up my muthafuckin CRAFT over here
-      @rose_annoyedtalk ROSE: I know. I've been in the same room, right over there, listening to you mumble lyrics to yourself for the last couple hours.
-      @dave_huhtalk DAVE: rose you know what sucks
-      @rose_idle ROSE: Yes.
-      @rose_talk ROSE: To which sucky thing are you referring?
-      @dave_talk DAVE: it kinda just occurred to me
-      @dave_talk DAVE: while i was spitting ill verse to no end
-      @dave_talk DAVE: i got this weird feeling that i might be getting like
-      @dave_huh DAVE: a little dated?
-      @rose_coy ROSE: Is this about Terezi?
-      @dave_huh DAVE: what
-      @dave_mad DAVE: no no
-      @dave_madtalk DAVE: dont be disingenuous word girl you know what im saying
-      @dave_huhtalk DAVE: i mean sorta passe
-      @dave_talk DAVE: like a lumbering pop reference dinosaur
-      @dave_talk DAVE: remember we are both kind of stuck in 2009
-      @dave_talk DAVE: so im like popculturally frozen in that period
-      @dave_talk DAVE: all my references feel like they might be getting a little stale
-      @dave_talk DAVE: even though the earth ended and all and there was no culture after that point anyway
-      @dave_talk DAVE: but still
-      @dave_talk DAVE: i can feel it
-      @dave_talk DAVE: like in my bones
-      @dave_talk DAVE: i just know on some hypothetical earth that kept going my shit is starting to get so lame
-      @dave_talk DAVE: and i know it doesnt matter because its just us here so who cares
-      @dave_talk DAVE: but i care
-      @dave_madtalk DAVE: its a matter of integrity i am a fucking artist
-      @dave_madtalk DAVE: like i think if i make one more rap about like some fucking dane cook movie from 2008 to piss karkat off or some tired bullshit like that im going to 
-      @dave_huhtalk DAVE: i dont know
-      @dave_huhtalk DAVE: ill just start feeling like a fraud
-      @dave_huhtalk DAVE: my game might be drying up rose
-      @dave_madtalk DAVE: but its not my fault like im totally hostage to this freezedried backlog of cultural garbage that can never move forward again
-      @dave_madtalk DAVE: so i have to pick through it like im looting a fucking tomb while still all tryin to act RAP SASSY
-      @dave_smug DAVE: like YEAH take THAT motherfuckers
-      @dave_concern DAVE: OF THE PAST
-      @dave_huhtalk DAVE: all in your mass graves somewhere in a dead frogiverse
-      @dave_madtalk DAVE: i be representing some god damn STANDARDS about your media do you feel me
-      @dave_huhtalk DAVE: im depressing myself here
-      @dave_talk DAVE: all im saying is it would be cool to have some fresh shit to work with
-      @dave_talk DAVE: like just to know
-      @dave_talk DAVE: to know what the world would be like in the year it would be for us now
-      @dave_talk DAVE: which would be 2011 i guess
-      @dave_huhtalk DAVE: wow 2011 really
-      @dave_huh DAVE: damn
-      @dave_talk DAVE: i just want to know what would have happened
-      @dave_talk DAVE: theres so much shit we were primed for
-      @dave_talk DAVE: it was gonna be exciting
-      @dave_talk DAVE: like barack obama just turned president remember that
-      @dave_talk DAVE: we never got to see if he fixed the economy
-      @dave_talk DAVE: remember how you were dying to see if he would fix the economy you were asking me about it every damn day
-      @dave_talk DAVE: just joking nobody gave a shit about that
-      @dave_huh DAVE: but like
-      @dave_huhtalk DAVE: i never got to check out the next batch of stiller jams and see how bad i could mock them
-      @dave_huhtalk DAVE: we never got to find out how the midnight crew adventure ended
-      @dave_mad DAVE: if ever
+      @dave_huhtalk DAVE: il se passe quoi avec la troll poisson punk qui suit kanaya de partout
+      @rose_talk ROSE: Il semblerait qu’elle ne fasse que passer. Kanaya ne veut pas qu’elle cause de problèmes.
+      @dave_huh DAVE: causer des problemes
+      @dave_madtalk DAVE: quest ce quelle pourrait foutre ici
+      @dave_madtalk DAVE: genre shooter dans une vieille pile d’ordures et faire chuter la valeur de la propriete encore plus bas que rien
+      @dave_smug DAVE: moi je dis quon devrait la laisser faire sa folle
+      @rose_talk ROSE: N’hésite pas à voir ça avec Kanaya.
+      @rose_annoyedtalk ROSE: Mais si tu l’autorises à passer en mode furie, fais juste attention à ce que ce soit loin de ma table de chimie. 
+      @dave_idle DAVE: ouais
+      @dave_talk DAVE: quelle fasse pas tomber tes fioles et tout partout
+      @dave_talk DAVE: le seul qui a lautorisation d’étaler la science cest moi
+      @rose_annoyed ROSE: Crétin.
+      @dave_mad DAVE: soit pas comme ca
+      @dave_madtalk DAVE: jetayais mon putain dART par ici
+      @rose_annoyedtalk ROSE: Je sais. J’étais dans la même pièce, juste là, à t’écouter te marmonner des paroles à toi-même pendant ces deux dernières heures.
+      @dave_huhtalk DAVE: rose tu sais ce qui craint
+      @rose_idle ROSE: Oui.
+      @rose_talk ROSE: A quelle chose minable fais-tu référence ?
+      @dave_talk DAVE: ca vient juste de marriver
+      @dave_talk DAVE: quand je crachais sans fin mes vers malsains
+      @dave_talk DAVE: jai eu limpression que je devenais peut etre genre
+      @dave_huh DAVE: un peu a la ramasse ?
+      @rose_coy ROSE: C’est à propos de Terezi ?
+      @dave_huh DAVE: quoi
+      @dave_mad DAVE: non non
+      @dave_madtalk DAVE: fais pas la fille qui joue avec les mots tu sais de quoi je parle
+      @dave_huhtalk DAVE: jveux dire genre a la ramasse
+      @dave_talk DAVE: comme une reference pop prehistorique bien lourde
+      @dave_talk DAVE: rappelle toi quon est genre bloques en 2009
+      @dave_talk DAVE: donc je suis genre gele dans la popculture de lepoque
+      @dave_talk DAVE: toutes mes references ont lair de setre un peu dessechees
+      @dave_talk DAVE: meme si la terre est morte et tout et quil y a plus de culture apres ca de toutes facons
+      @dave_talk DAVE: mais quand meme
+      @dave_talk DAVE: je peux le sentir
+      @dave_talk DAVE: genre dans mes tripes
+      @dave_talk DAVE: je sais juste que sur une sorte de terre hypothetique qui aurait continue de vivre mes conneries sont en train de devenir pathetiques
+      @dave_talk DAVE: et je sais que ca na pas dimportance parce quil y a que nous ici donc quest ce quon en a a foutre
+      @dave_talk DAVE: mais je men fout pas
+      @dave_madtalk DAVE: cest une question dintegrite je suis un putain dartiste
+      @dave_madtalk DAVE: genre je pense que si je fais encore un rap sur genre un des putain de films de dane cook de 2008 pour faire chier karkat ou quoi je vais
+      @dave_huhtalk DAVE: je sais pas
+      @dave_huhtalk DAVE: je vais juste commencer a avoir limpression detre un imposteur
+      @dave_huhtalk DAVE: mon jeu pourrait se faner rose
+      @dave_madtalk DAVE: mais cest pas ma faute genre je suis totalement lhotage de ces dechets culturels cryogenises qui ne pourront plus jamais aller de lavant
+      @dave_madtalk DAVE: donc je dois creuser dedans comme si je pillais une putain de tombe pendant que jessaye de RAPER IMPERTINAMENT
+      @dave_smug DAVE: genre OUAIS prenez CA bande d’encules
+      @dave_concern DAVE: DU PASSE
+      @dave_huhtalk DAVE: vous tous dans une fosse commune quelque part dans un grenouillivers creve
+      @dave_madtalk DAVE: je represente certains putain de STANDARDS de vos media est ce que vous mentendez 
+      @dave_huhtalk DAVE: je me deprime tout seul la
+      @dave_talk DAVE: tout ce que je dis cest que ca serait sympa davoir un peu de chair fraiche avec laquelle bosser
+      @dave_talk DAVE: genre juste pour savoir
+      @dave_talk DAVE: pour savoir a quoi ressemblerait le monde lannee ou on devrait etre maintenant
+      @dave_talk DAVE: qui devrait etre 2011 je suppose
+      @dave_huhtalk DAVE: wow 2011 serieusement
+      @dave_huh DAVE: merde
+      @dave_talk DAVE: je voudrais juste savoir quest ce qui serait arrive
+      @dave_talk DAVE: il y a tellement de trucs auxquels on se preparait
+      @dave_talk DAVE: ca allait etre excitant
+      @dave_talk DAVE: genre barack obama venait juste de devenir president tu ten souviens
+      @dave_talk DAVE: on saura jamais si il a reussi a retablir leconomie
+      @dave_talk DAVE: souviens toi comme tu mourrais denvie de savoir si il retablirait leconomie tu me le demandais tous les putain de jours
+      @dave_talk DAVE: je deconne personne en avait rien a foutre
+      @dave_huh DAVE: mais genre
+      @dave_huhtalk DAVE: je pourrai jamais jeter un coup doeil aux prochains sons de stiller et voir a quel point je pourrais men moquer
+      @dave_huhtalk DAVE: on saura jamais comment laventure de la midnight crew se finit
+      @dave_mad DAVE: si elle se finit
       @dave_huh DAVE: rose
-      @dave_concern DAVE: ROSE??
-      @dave_concern DAVE: what the fuck man
-      @dave_concern DAVE: whyd you go back to your bottles and shit i was right in the thick of hella elocution
-      @dave_concern DAVE: dont give me that
-      @dave_concern DAVE: yes
-      @dave_concern DAVE: uh yeah
-      @dave_concern DAVE: yes i do ACTUALLY want you to come back over here
-      @dave_madtalk DAVE: im waiting
-      @rose_annoyed ROSE: Fine. Here I am.
-      @dave_madtalk DAVE: wow was that so hard
-      @dave_madtalk DAVE: this is what civilized people do rose they fucking talk to each other like actually in each others fucking vicinities
-      @rose_annoyedtalk ROSE: You just have a tendency to go on for a while. I assumed we progressed to the traditional mumbling monologue stage of Striderian discourse.
-      @dave_madtalk DAVE: no thats not even a thing
-      @dave_madtalk DAVE: i was actually like
-      @dave_huhtalk DAVE: trying to get your take
-      @rose_idle ROSE: Take on what.
-      @dave_huhtalk DAVE: i dont even know
-      @dave_huhtalk DAVE: i bet john would have stuff to say
-      @dave_huhtalk DAVE: hes probably going through the same frozen fucking caveman from 2009 syndrome as me
-      @dave_smug DAVE: actually what am i saying the dude is a caveman from 1997 
-      @dave_smug DAVE: hahaha like he could give a shit as long as hes got his cage dvds
-      @rose_happytalk ROSE: Oh! I saw him the other night.
-      @dave_concern DAVE: what
-      @rose_happytalk ROSE: In a dream. It was very brief, only a few minutes. I waved to him and then woke up.
-      @dave_huhtalk DAVE: whoa what was he doing
-      @rose_happytalk ROSE: He was fighting Jack. Actually, he was doing quite well!
-      @dave_huh DAVE: oh man
-      @dave_smug DAVE: you have to tell me all about this
-      @rose_talk ROSE: I will. Later, though. I'd like to get back to work.
-      @dave_idle DAVE: ok when
-      @dave_idle DAVE: tonight?
-      @rose_talk ROSE: I have plans tonight. How about tomorrow.
-      @dave_huh DAVE: plans 
-      @dave_huh DAVE: what plans
-      @rose_idle ROSE: Just some plans.
-      @dave_huh DAVE: can i come
-      @rose_annoyed ROSE: No!
-      @dave_mad DAVE: fuck fine
-      @dave_mad DAVE: tomorrow then
-      @dave_smug DAVE: maybe ill just dream up my own john tonight and well have an awesome time without you what do you think about that
+      @dave_concern DAVE: ROSE ??
+      @dave_concern DAVE: quest ce que tu fous meuf
+      @dave_concern DAVE: pourquoi tu retournes a tes bouteilles et tout alors que jetais en plein milieu de mon putain de discours
+      @dave_concern DAVE: me fais pas ca
+      @dave_concern DAVE: oui
+      @dave_concern DAVE: euh ouais
+      @dave_concern DAVE: oui je veux VRAIMENT que tu reviennes ici
+      @dave_madtalk DAVE: jattends
+      @rose_annoyed ROSE: Bien. Je suis là.
+      @dave_madtalk DAVE: wow cetait si dur que ca
+      @dave_madtalk DAVE: cest ce que font les gens civilises rose ils se causent face a face
+      @rose_annoyedtalk ROSE: Tu as juste tendance à déblatérer pendant un long moment. J’ai supposé que nous en étions arrivé au traditionnel stade du monologue marmonnant du discours striderien.
+      @dave_madtalk DAVE: non ca na aucun sens
+      @dave_madtalk DAVE: jetais reellement genre
+      @dave_huhtalk DAVE: en train dessayer davoir ton avis
+      @rose_idle ROSE: Mon avis sur quoi.
+      @dave_huhtalk DAVE: je sais meme pas
+      @dave_huhtalk DAVE: je parie que john aurait des trucs a dire
+      @dave_huhtalk DAVE: il est probablement en train de subir le meme putain de syndrome de lhomme des cavernes congele en 2009 que moi
+      @dave_smug DAVE: quest ce que je raconte ce mec est un homme des cavernes de 1997
+      @dave_smug DAVE: hahaha comme sil en avait quelque chose en foutre tant quil a ses dvds de cage
+      @rose_happytalk ROSE: Oh ! Je l’ai vu l’autre nuit.
+      @dave_concern DAVE: quoi
+      @rose_happytalk ROSE: Dans un rêve. C’était bref, juste quelques minutes. Je lui ai fait signe puis je me suis réveillée.
+      @dave_huhtalk DAVE: wow quest ce quil faisait
+      @rose_happytalk ROSE: Il combattait Jack. Pour dire vrai, il s’en sortait plutôt bien !
+      @dave_huh DAVE: oh meuf
+      @dave_smug DAVE: tu dois tout me raconter la dessus
+      @rose_talk ROSE: Je le ferais. Plus tard, cependant. J’aimerais me remettre au travail.
+      @dave_idle DAVE: ok quand
+      @dave_idle DAVE: ce soir ?
+      @rose_talk ROSE: J’ai quelque chose de prévu ce soir. Pourquoi pas demain ?
+      @dave_huh DAVE: quelque chose de prevu 
+      @dave_huh DAVE: quest ce que tu as prevu
+      @rose_idle ROSE: Quelque chose.
+      @dave_huh DAVE: je peux venir
+      @rose_annoyed ROSE: Non !
+      @dave_mad DAVE: putain daccord
+      @dave_mad DAVE: demain alors
+      @dave_smug DAVE: peut etre que je vais juste rever de mon propre john cette nuit et quon passera du putain de bon temps sans toi quest ce que tu penses de ca
       @rose_laugh ROSE: ...
-      @dave_mad DAVE: fu
+      @dave_mad DAVE: humpf
       <!--  -->
       </args>
 </action>   
