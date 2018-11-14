@@ -1,71 +1,71 @@
 <sburb>
     <classes>
-  		<action class='porrimTalk1' sprite='meenah' command='talk' name='Listen in on conversation.'>
+  		<action class='porrimTalk1' sprite='meenah' command='talk' name='Écoute la conversation.'>
 		      <args>
-		      @porrim_talk PORRIM: Ah, seems we have co+mpany. Guess we sho+uld wrap this up!
-		      @porrim_happytalk PORRIM: I'm very happy yo+u came to+ see me. I ho+pe yo+u'll bear in mind what I said.
-		      @kanaya2_happytalk KANAYA: Yes I Surely Will
-		      @kanaya2_happytalk KANAYA: And Im Happy Too
-		      @kanaya2_happy KANAYA: About
-		      @kanaya2_smirktalk KANAYA: Yes
-		      @porrim_happytalk PORRIM: Yo+u have impo+rtant wo+rk ahead o+f yo+u. The legacy o+f o+ur race is in yo+ur hands.
-		      @porrim_happytalk PORRIM: I kno+w yo+u will make me pro+ud.
-		      @kanaya2_smirklaugh KANAYA: Okay Thank You
+		      @porrim_talk PORRIM: Ah, o+n dirait que l’o+n a de la co+mpagnie. Je suppose que l’o+n devrait co+nclure !
+		      @porrim_happytalk PORRIM: Je suis vraiment heureuse que tu so+is venue me vo+ir. J'espère que tu prendras en co+mpte ce que je t’ai dis.
+		      @kanaya2_happytalk KANAYA: Oui Je Le Ferais
+		      @kanaya2_happytalk KANAYA: Et Je Suis Aussi Heureuse
+		      @kanaya2_happy KANAYA: À Propos De
+		      @kanaya2_smirktalk KANAYA: Oui
+		      @porrim_happytalk PORRIM: Tu as beauco+up de travail devant to+i. L’héritage de no+tre race est entre tes mains.
+		      @porrim_happytalk PORRIM: Je sais que tu me rendras fière.
+		      @kanaya2_smirklaugh KANAYA: Ok Merci
 		      <!--  -->
 		      </args>
 		</action>
-		<action class='porrimTalk2' sprite='meenah' command='talk' name='Ask Kanaya for password.'>
+		<action class='porrimTalk2' sprite='meenah' command='talk' name='Demande le mot de passe a Kanaya.'>
       <args>
-      @meenah_talk MEENAH: aw snapperfish its popo merrygams and maryam lookalike kid
-      @meenah_happytalk MEENAH: water you ladies glubbin about over here
-      @kanaya2_bored KANAYA: Nothing I Was Just Leaving
-      @meenah_talk MEENAH: oh yeah where to
-      @meenah_talk MEENAH: back into your meteor right cause thats where im headed
-      @meenah_talk MEENAH: cant get through the door tho
-      @meenah_happytalk MEENAH: can i get your password
-      @kanaya2_idle KANAYA: Pardon Me
-      @kanaya2_idle KANAYA: No
-      @meenah_happy MEENAH: come on
-      @porrim_annoyed2 PORRIM: Meenah, what are yo+u do+ing? Do+n't hassle her fo+r private info+rmatio+n. It's rude.
-      @meenah_creepy MEENAH: COM-E OOOOON
-      @meenah_happier MEENAH: im being nice about it
-      @kanaya2_bored KANAYA: Are You Actually
-      @meenah_angrytalk MEENAH: im fuckin smiling aint i???
-      @kanaya2_talk KANAYA: Well I Was Going In There Anyway
-      @kanaya2_talk KANAYA: I Wont Give You My Password But You Can Follow Me I Guess
-      @kanaya2_talk KANAYA: But You Can Only Remain As Long As Im Escorting You
-      @meenah_wut MEENAH: da fuck
-      @meenah_wut MEENAH: why
-      @kanaya2_talk KANAYA: Because I Dont Trust You
-      @meenah_wut2 MEENAH: aw man
-      @meenah_annoyed MEENAH: but im cool
-      @meenah_fish MEENAH: you should wise the fuck up and start thinking im cool
-      @kanaya2_bored:#Human-Sarcasm KANAYA: Youre Right With A Sales Pitch Like That I Would Have To Be An Imbecile Not To Crave Your Company
-      @meenah_annoyedtalk MEENAH: what you got against me maryam clone
-      @kanaya2_idle KANAYA: I Think Youre Probably A Sociopath
-      @kanaya2_bored KANAYA: Ive Given Enough Of My Time To Such Characters In The Past
-      @meenah_fish MEENAH: you got me all wrong girl
-      @meenah_talk MEENAH: what i gotta do to make you my frond maryam the sequel
-      @kanaya2_facepalm KANAYA: My Name Is Kanaya!
-      @meenah_talk MEENAH: aight aight kanaya it is
-      @meenah_talk MEENAH: some day ill come up with a good fish pun way of saying that
-      @meenah_happytalk MEENAH: thats how you know our shit will be TIG)(T
+      @meenah_talk MEENAH: aw si cest pas popo voltecuisse et mini clone maryam
+      @meenah_happytalk MEENAH: vous glubbez quoi les filles ?
+      @kanaya2_bored KANAYA: Rien J’allais Partir
+      @meenah_talk MEENAH: ah et ou ca
+      @meenah_talk MEENAH: dans ton meteore pas vrai parce que cest justement la ou je vais
+      @meenah_talk MEENAH: je peux pas passer la porte par congre
+      @meenah_happytalk MEENAH: je peux avoir le mot de passe
+      @kanaya2_idle KANAYA: Excuse moi
+      @kanaya2_idle KANAYA: Non
+      @meenah_happy MEENAH: allez
+      @porrim_annoyed2 PORRIM: Meenah, qu’est ce que tu fais ? Ne l’embête pas po+ur des info+rmatio+ns privées. C’est rude.
+      @meenah_creepy MEENAH: ALL-E-E-EZ
+      @meenah_happier MEENAH: je demande gentillement
+      @kanaya2_bored KANAYA: Le Fais Tu Vraiment
+      @meenah_angrytalk MEENAH: je suis en train de sourire putain nan ???
+      @kanaya2_talk KANAYA: Et Bien Jy Allais De Toute Façon
+      @kanaya2_talk KANAYA: Je Ne Te Donnerai Pas Mon Mot De Passe Mais Tu Peux Me Suivre Je Suppose 
+      @kanaya2_talk KANAYA: Mais Tu Ne Peux Rester Seulement Si Je Tescorte
+      @meenah_wut MEENAH: keuwa
+      @meenah_wut MEENAH: pourquoi
+      @kanaya2_talk KANAYA: Parce Que Je Ne Te Fais Pas Confiance
+      @meenah_wut2 MEENAH: aw mec
+      @meenah_annoyed MEENAH: mais je suis cool
+      @meenah_fish MEENAH: tu devrais faire preuve de putain de sagesse et commencer a penser que je suis cool
+      @kanaya2_bored:#Sarcasme-Humain KANAYA: Tu As Raison Avec Un Argument De Vente Comme Celui Ci Je Serais Vraiment Une Imbécile De Ne Pas Vouloir De Ta Compagnie 
+      @meenah_annoyedtalk MEENAH: quest ce que tu as contre moi le clone de maryam
+      @kanaya2_idle KANAYA: Je Pense Que Tu Es Probablement Une Sociopathe
+      @kanaya2_bored KANAYA: Jai Déjà Donné De Mon Temps Dans Le Passé À Ce Genre De Personnage
+      @meenah_fish MEENAH: tu tes trompé sur mon compte meuf
+      @meenah_talk MEENAH: quest ce que je dois faire pour que tu sois de mon cote maryam le retour ?
+      @kanaya2_facepalm KANAYA: Mon Nom Est Kanaya !
+      @meenah_talk MEENAH: dacodac kanaya est ton nom
+      @meenah_talk MEENAH: un jour je trouverai un bon jeu de mot poissoneux pour ca
+      @meenah_happytalk MEENAH: cest comme ca que tu sais que notre merde sera LIEE
       @kanaya2_cry KANAYA: 
-      @meenah_happytalk MEENAH: just lead the way ill be well behaved and win you over
-      @meenah_creepy MEENAH: YOULL S-EA
-      @! Be Kanaya?
+      @meenah_happytalk MEENAH: juste montre le chemin a suivre je me comporterai bien et te conquerirai
+      @meenah_creepy MEENAH: TU V-ERRAS
+      @! être Kanaya?
       <!-- y/n -->
       </args>
 </action>
 
-<action class='porrimTalk3' sprite='kanaya' command='talk' name='Talk to Porrim.'>
+<action class='porrimTalk3' sprite='kanaya' command='talk' name='Parle à Porrim.'>
       <args>
-      @porrim_happytalk PORRIM: Let's stay in to+uch, Kanaya. Co+me lo+o+king fo+r me in yo+ur dreams any time yo+u like.
-      @porrim_happytalk PORRIM: And be sure no+t to+ let that o+ne to+o+ far o+ut o+f yo+ur sight.
-      @meenah_annoyedtalk MEENAH: scrod dammit
-      @meenah_annoyedtalk MEENAH: kids got no respect for royalty these days and i about haddock up to here
-      @porrim_annoyedtalk PORRIM: Please. Yo+u aren't even mad. Yo+u just wanted an excuse to+ use mo+re fish puns.
-      @meenah_annoyedtalk MEENAH: merrygams stop bein such an astute judge a character
+      @porrim_happytalk PORRIM: Resto+ns en co+ntact, Kanaya. Viens me vo+ir dans tes rêves quand tu veux.
+      @porrim_happytalk PORRIM: Et assure-to+i de ne pas laisser celle-là tro+p lo+in de ta vue.
+      @meenah_annoyedtalk MEENAH: baudroiel de merde
+      @meenah_annoyedtalk MEENAH: les jeunes de nos jours ont plus de raiespect pour les royautees et jen ai jusque la 
+      @porrim_annoyedtalk PORRIM: S’il te plait. Tu n'es même pas énervée. Tu vo+ulais juste une excuse po+ur utiliser plus de tes blagues po+isso+nnières.
+      @meenah_annoyedtalk MEENAH: merrygams arrete detre une astucieuse juge de caractere
       <!--  -->
       </args>
 </action>
