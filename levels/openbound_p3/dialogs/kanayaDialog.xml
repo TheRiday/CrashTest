@@ -1,48 +1,47 @@
 <sburb>
 <classes>
-<action class='kanayaTalk1' sprite='rose' command='talk' name='Talk to Kanaya.'>
+<action class='kanayaTalk1' sprite='rose' command='talk' name='Parle à Kanaya.'>
       <args>
-      @rose_concern ROSE: Not to harp on the issue, but,
-      @rose_concern ROSE: Now that you can switch on and off, so to speak, how often do you think you'll resort to phosphorescence?
-      @kanaya2_talk KANAYA: I Dont Know
-      @kanaya2_talk KANAYA: What Do You Think
-      @rose_talk ROSE: Well, which state is more comfortable?
-      @kanaya2_talk KANAYA: I Could Go Either Way
-      @kanaya2_talk KANAYA: Ill Probably Switch On If Im Walking Through A Dark Corridor
-      @kanaya2_talk KANAYA: Now That I Think About It
-      @kanaya2_smirktalk KANAYA: Its Been A Long Time Since I Could Even Be In The Dark
-      @kanaya2_happytalk KANAYA: Maybe Ill Leave It Off For A While And Refamiliarize Myself With The Experience Of Nonillumination
-      @rose_idle ROSE: Makes sense.
-      @rose_talk ROSE: Was this a biological feature common to other trolls?
-      @kanaya2_idle KANAYA: Um
-      @rose_talk ROSE: I'm sorry. I'm really pestering you about this, aren't I?
-      @rose_talk ROSE: We've never talked about it. I guess I was trying to be polite, but I've been really curious about it.
-      @kanaya2_talk KANAYA: No Thats Ok
-      @kanaya2_talk KANAYA: Im Told Its A Trait Confined To Those Of My Caste
-      @kanaya2_talk KANAYA: They Tended To Spend A Lot Of Time In The Brooding Caverns Where A Convenient Source Of Light Was Often Handy
-      @kanaya2_talk KANAYA: That Part Of It Makes Sense To Me But I Have No Idea What The Evolutionary Purpose Was For The Sort Of Thirst Which Accompanies This Perk
-      @kanaya2_talk KANAYA: Strikes Me As An Odd Liability But What Do I Know
-      @rose_concern ROSE: Maybe to frighten predators away from innocent grubs?
-      @kanaya2_idle KANAYA: Maybe
-      @kanaya2_talk KANAYA: Or Perhaps It Was A Measured Defect Imposed On Us
-      @kanaya2_bored KANAYA: To Keep The Auxiliatrices On A Short Leash
-      @rose_talk ROSE: I'll agree with that assessment, on the grounds that I've always been a sucker for a good conspiracy theory.
-      @kanaya2_talk KANAYA: The Condition Was Often Glamorized In Certain Works Of Literature
-      @kanaya2_talk KANAYA: But Theres Really Nothing That Great About It
-      @kanaya2_talk KANAYA: Not Nearly As Useful As Other Abilities Like The Psychic Gifts Which Some Lowbloods Are Predisposed To
-      @kanaya2_talk KANAYA: Though I Guess Its Pretty Useful If You Want To Keep The Plans You Made After Someone Punches A Hole Through Your Gut
-      @rose_talk ROSE: I can see how that could present a whole world of convenience.
-      @rose_happytalk ROSE: Speaking of plans, doing anything later?
-      @kanaya2_idle KANAYA: Not Really
-      @rose_happytalk ROSE: I'm working on some stuff right now, but later, maybe once you're finished escorting your guest around, would you like to do something?
-      @kanaya2_idle KANAYA: Sure
-      @kanaya2_talk KANAYA: Anything In Particular That You Have In Mind
-      @rose_talk ROSE: Not really. Just to hang out. If you're up for it!
-      @kanaya2_happytalk KANAYA: Yeah That Sounds Okay
-      @meenah_annoyed MEENAH: (holy mackerel get a fuckin room)
+      @rose_concern ROSE: Ce n’est pas pour revenir sur la question, mais,
+      @rose_concern ROSE: Maintenant que tu peux, pour ainsi dire, t’allumer et t’éteindre à volonté, à quelle fréquence penses-tu que tu auras recours à ta phosphorescence ?
+      @kanaya2_talk KANAYA: Je Ne Sais Pas
+      @kanaya2_talk KANAYA: Quest Ce Que Tu En Penses ?
+      @rose_talk ROSE: Eh bien, quel état est le plus commode ?
+      @kanaya2_talk KANAYA: Je Pourrais Maccommoder Des Deux Etats
+      @kanaya2_talk KANAYA: Je Mallumerais Probablement Quand Je Traverserais Un Couloir Sombre
+      @kanaya2_talk KANAYA: Maintenant Que Jy Pense
+      @kanaya2_smirktalk KANAYA: Cela Fait Un Long Moment Que Je Nai Pas Été Dans Le Noir
+      @kanaya2_happytalk KANAYA: Peut Être Que Je Resterai Éteinte Pendant Un Moment Pour Me Refamilliariser Avec Lexpérience De La Nonillumination
+      @rose_idle ROSE: Cela fait sens.
+      @rose_talk ROSE: Est-ce que c’était une caractéristique biologique commune à d’autres trolls ?
+      @kanaya2_idle KANAYA: Hum
+      @rose_talk ROSE: Je suis désolée. Je suis vraiment en train de te harceler avec ça, n’est-ce pas ?
+      @rose_talk ROSE: Nous n’en avons jamais parlé. Je suppose que j’essayais d’être polie, mais ça m’a toujours vraiment intriguée.
+      @kanaya2_talk KANAYA: Non Cest Bon
+      @kanaya2_talk KANAYA: On Ma Dit Que Cest Un Caractère Réservé À Ceux De Ma Caste
+      @kanaya2_talk KANAYA: Ils Avaient Tendance À Passer Beaucoup De Temps Dans Les Cavernes-Couveuses Où Une Source De Lumière Était Souvent Bien Pratique.
+      @kanaya2_talk KANAYA: Cette Partie Fait Sens Pour Moi Mais Je Nai Aucune Idée Du But Évolutif De Cette Sorte De Soif Qui L’accompagne
+      @kanaya2_talk KANAYA: Ça Mapparait Juste Comme Un Étrange Fardeau Mais Quest Ce Que Jen Sais
+      @rose_concern ROSE: Peut-être pour effrayer et éloigner les prédateurs des larves innocentes ?
+      @kanaya2_idle KANAYA: Peut Être
+      @kanaya2_talk KANAYA: Ou Peut Être Est Ce Un Défaut Calculé Qui Nous Est Imposé
+      @kanaya2_bored KANAYA: Afin De Tenir Muselées Les Auxiliatrices
+      @rose_talk ROSE: Je suis d’accord avec cette vision des choses, au motif que j’ai toujours été une grande supportrice de toute bonne théorie du complot.
+      @kanaya2_talk KANAYA: Notre Condition A Toujours Été Glorifiée Dans Les Oeuvres Littéraires
+      @kanaya2_talk KANAYA: Mais Ce Nest Pas Aussi Bien Quon Le Pense
+      @kanaya2_talk KANAYA: C’est Loin Dêtre Aussi Utile Que Dautres Aptitudes Telles Que Les Dons Psychiques Auxquels Sont Prédisposés Certains Serfsangs
+      @kanaya2_talk KANAYA: Cependant Je Suppose Que Cest Plutôt Pratique Si Tu Veux Poursuivre Tes Plans Après Que Quelquun Taie Transpercé Le Ventre
+      @rose_talk ROSE: Je constate que cela présenterait une foule de commodités.
+      @rose_happytalk ROSE: En parlant de plans, tu fais quelque chose plus tard ?
+      @kanaya2_idle KANAYA: Pas Vraiment
+      @rose_happytalk ROSE: Je travaille présentement sur quelques trucs, mais plus tard, peut-être une fois que tu auras fini d’escorter ton invitée, tu voudrais faire quelque chose ?
+      @kanaya2_idle KANAYA: Bien Sûr
+      @kanaya2_talk KANAYA: Tu As Quelque Chose De Particulier En Tête
+      @rose_talk ROSE: Pas vraiment. Juste traîner ensemble. Si ça te dit !
+      @kanaya2_happytalk KANAYA: Ouais Ça Me Semble Bien
+      @meenah_annoyed MEENAH: (oh mon lieu il y a des hotels pour ca)
       <!--  -->
       </args>
-</action>
 <action class='kanayaTalk2' sprite='dave' command='talk' name='Talk to Kanaya.'>
       <args>
       @dave_talk DAVE: (you shattered the ring but theres more cracks in your rap)
