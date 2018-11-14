@@ -76,25 +76,25 @@
       </args>
 </action>
 
-<action class='meenahTalk3' sprite='damara' command='talk' name='Talk to Meenah.'>
+<action class='meenahTalk3' sprite='damara' command='talk' name='Parle à Meenah.'>
       <args>
       @damara_talk DAMARA: あなたは時間の領主に挑戦します。
       @damara_talk DAMARA: あなたの哀れな軍隊は失敗しなければならない。
       @damara_talk DAMARA: 彼はあなたの幽霊を食べるようになる。彼は現実そのものを消費するからである。
-      @meenah_idle MEENAH: i think...
-      @meenah_idle MEENAH: it sounded like...
-      @meenah_talk MEENAH: youre tryin to wish me luck in my upcoming battle?
-      @meenah_happytalk MEENAH: hey thanks megido
-      @meenah_happytalk MEENAH: maybe i had you all wrong
+      @meenah_idle MEENAH: je crois que...
+      @meenah_idle MEENAH: ca ressemblait a...
+      @meenah_talk MEENAH: tu essais de me souhaiter bonne chance proue ma prochaine bataille ?
+      @meenah_happytalk MEENAH: he merci megido
+      @meenah_happytalk MEENAH: peut etre que je me suis trompee sur toi   
       @damara_smile DAMARA: ない。あなたはそうしなかった。
-      @meenah_happytalk MEENAH: aw ive probably been a bitch to you for no reason
-      @meenah_happytalk MEENAH: lets forget all that shit ever happened
-      @meenah_happytalk MEENAH: hey how about a hug
-      @meenah_angrytalk MEENAH: whoa watch where youre puttin that hand!!!
+      @meenah_happytalk MEENAH: oh je me suis surement comportee comme une salope avec toi sans raison   
+      @meenah_happytalk MEENAH: oublions que toute cette merde se soit passee
+      @meenah_happytalk MEENAH: hey tu veux un calin   
+      @meenah_angrytalk MEENAH: he regarde un peu ou tu met ta main !!!
       @damara_smoke DAMARA: 私は何も後悔はありません。
-      @meenah_talk MEENAH: apology accepted
-      @meenah_talk MEENAH: hey you get around to moving that huge quartz glacier yet
-      @meenah_fish MEENAH: kind of in a hurry here
+      @meenah_talk MEENAH: jaccepte tes excuses
+      @meenah_talk MEENAH: bon tu va bientot deplacer ce gros glacier de quartz
+      @meenah_fish MEENAH: je suis un peu pressee 
       <!--  -->
       </args>
 </action>
