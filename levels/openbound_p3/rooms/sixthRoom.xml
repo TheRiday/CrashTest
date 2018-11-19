@@ -196,7 +196,7 @@
             <!--  -->
             </args>
       </action>
-      <action sprite='damara' command='talk' name='Qu'avons nous là ?'>
+      <action sprite='damara' command='talk' name='Qu avons nous là ?'>
             <args>
             @damara_smilemean DAMARA: ..............
             <!--  -->
