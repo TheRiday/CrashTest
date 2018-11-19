@@ -2,7 +2,7 @@
     <classes>
 <action class='roseTalk1' sprite='kanaya' command='talk' name='Parle à Rose.'>
       <args>
-      @rose_concern ROSE: Qu’est-ce qui s’est passé !
+      @rose_concern ROSE: Que s’est-il passé !
       @kanaya2_idle KANAYA: Quoi
       @rose_concern ROSE: Tu ne brilles plus !
       @kanaya2_happy KANAYA: Oh Ça
@@ -14,20 +14,20 @@
       @kanaya2_happy KANAYA: Très Bien
       @kanaya2_happytalk KANAYA: Elle Est Très Gentille Et En Tant Que Personne Aussi Impressionnante Que Je Limaginais
       @kanaya2_happytalk KANAYA: Mais Pas Aussi Intimidante En Vérité
-  @rose_happytalk ROSE: Je savais que tu ne regretterais pas de trouver le courage de lui parler.
-      @rose_concern ROSE: Que t’a-t-elle dit, à part quelques conseils pour assombrir la peau de vampire-à-vampire ?
+      @rose_happytalk ROSE: Je savais que tu ne regretterais pas de trouver le courage de lui parler.
+      @rose_concern ROSE: Que t’a-t-elle dit, à part quelques conseils de vampire-à-vampire pour assombrir la peau ?
       @kanaya2_happy KANAYA: Beaucoup De Choses
       @kanaya2_happytalk KANAYA: Principalement Des Encouragements À Poursuivre Mon Précédent Devoir Envers Mon Peuple
       @rose_idle ROSE: Oh ?
       @kanaya2_happytalk KANAYA: Elle A Dit Quelle Rejetait Autrefois Son Rôle Avec Véhémence
       @kanaya2_happytalk KANAYA: Les Devoirs De Notre Caste Étaient Assez Restrictifs Dans Nos Deux Mondes Il Semblerait
-      @kanaya2_happytalk KANAYA: Alors Elle Les Abandonnait Complètement Et Désirait Une Vie Differente
+      @kanaya2_happytalk KANAYA: Alors Elle Les A Complètement Abandonnés Et Désirait Une Vie Différente
       @kanaya2_happytalk KANAYA: Mais Elle A Aussi Dit Quelque Chose Comme Quoi
-      @kanaya2_happytalk KANAYA: Elle A Réalisé Quil Netait Pas Vraiment Nécessaire De Rejeter Ce Role Complètement
+      @kanaya2_happytalk KANAYA: Elle A Réalisé Quil Nétait Pas Vraiment Nécessaire De Rejeter Ce Rôle Complètement
       @kanaya2_happytalk KANAYA: Et Cest Vrai Aussi Pour Moi
       @kanaya2_happytalk KANAYA: Tant Que Je Sais Au Fond De Moi Que Je Suis Libre
-      @kanaya2_happytalk KANAYA: Et Si Ma Décision Est Dembrasser Mon Chemin Alors Il Peut Être Une Source De Force
-      @rose_concern ROSE: Alors tu veux à nouveau essayer de restaurer ta race ?
+      @kanaya2_happytalk KANAYA: Et Si Ma Décision Est Dembrasser Ma Voie Alors Elle Peut Être Une Source De Force
+      @rose_concern ROSE: Alors tu veux à nouveau essayer de restaurer ton espèce ?
       @rose_concern ROSE: J’avais commencé à penser que tu avais perdu espoir en cette possibilité.
       @kanaya2_talk KANAYA: Il Est Vrai Quil Ny A Plus Dorbe
       @kanaya2_talk KANAYA: Elle A Dit Que Cela Pourrait Être Très Difficile
@@ -36,7 +36,7 @@
       @kanaya2_talk KANAYA: Je Ne Sais Pas Encore Comment Je Vais Faire
       @kanaya2_talk KANAYA: Mais Telle Est La Nature Des Aventures
       @kanaya2_talk KANAYA: On Ne Peut Pas Avoir Peur Des Aventures
-      @kanaya2_happytalk KANAYA: Je Pense Que Ca Mexcite À Lheure Actuelle
+      @kanaya2_happytalk KANAYA: Je Pense Que Ca Mexcite À Présent
       @rose_happy ROSE: Je vois ça.
       @rose_happytalk ROSE: Nous pourrons travailler là-dessus quand nous arriverons. Peut-être que la session que nous sommes sur le point d’explorer nous offrira quelques réponses.
      @kanaya2_happy KANAYA: Je Lespère
@@ -76,8 +76,8 @@
       @dave_huhtalk DAVE: a chaque fois que je parle de ta mere ca sonne comme une insulte
       @dave_smug DAVE: tu crois que tes qui ma mere
       @dave_huh DAVE: attend raye ca
-      @dave_huhtalk DAVE: a chaque fois quon commence a parler delle en tant que ma mere les choses font juste effet boule de neige sur la piste de ski de nos conversations stupides et soudainement sigmund freud et le roi oedipe se tapent chacun la mere sexy de lautre dans une genre de fete depravee dechange de mere sexy
-      @rose_annoyedtalk ROSE: Merci pour l’image. C’était presque aussi graphique que ça ne faisait de sens.
+      @dave_huhtalk DAVE: a chaque fois quon commence a parler delle en tant que ma mere les choses font juste effet boule de neige sur la piste de ski de nos conversations stupides et soudainement sigmund freud et le roi oedipe se tapent chacun la mere sexy de lautre dans une genre de fete depravee dechange de meres sexy
+      @rose_annoyedtalk ROSE: Merci pour l’image. C’était presque aussi graphique que ça n’avait de sens.
       @dave_talk DAVE: donc quest ce que tu fais
       @rose_happy ROSE: Des boissons.
       @dave_talk DAVE: des boissons quels genres de boissons
