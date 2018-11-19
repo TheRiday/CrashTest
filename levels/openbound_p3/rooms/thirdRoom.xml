@@ -202,11 +202,11 @@
     </character>
 
     <sprite class='chest7' name='thirdRoomChest9' x='2826' y='351'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Ouvre.'>
         <args>thirdRoomChest9,item9,
-            @! You got a CAN OF EARTH TAB!
-            @! The mayor had a couple of these stowed in his rags for safe keeping. He has decided to store them in chests now, which unbeknownst to him are the opposite of safe keeping.
-            @! You crack it open and chug it. You are overwhelmed by the intense rush of sugar. This high will surely last for hours.
+            @! Vous trouvez une CANETTE DE TAB DE LA TERRE !
+            @! Le Maire en avait quelques unes de rangées dans ses haillons par sécurité. Il les garde dans son coffre maintenant, ce qui, sans qu’il le sache, est en réalité l’opposé d’un lieu sûr. 
+            @! Vous en ouvrez une et la descendez d’une traite. Vous êtes écrasée par cette intense quantité de sucre. Cette énergie va rester pendant des heures, vous en êtes sûre. 
             @!~dialogimg_tab1
             @!~dialogimg_tab2
             @!~dialogimg_tab3
@@ -215,42 +215,42 @@
     </sprite>
 
     <sprite class='chest7' name='thirdRoomChest10' x='2181' y='897'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Ouvre.'>
         <args>thirdRoomChest10,item10,
-             @! You got an EMPTY BOTTLE!
-      @! You guess... you'll just kinda...
-      @!:#boring-treasure Put it over there with the other bottles.
+             @! Vous trouvez une BOUTEILLE VIDE !
+      @! Vous supposez que… vous allez juste...
+      @!:#trésor-nul La poser là avec les autres bouteilles.
         </args>
       </action>
     </sprite>
 
     <sprite class='chest7' name='thirdRoomChest11' x='1698' y='474'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Ouvre.'>
         <args>thirdRoomChest11,item11,
-             @! You got a...
-      @! Hey what even is this thing?
-      @! Whatever it is, you got it.
+             @! Vous trouvez un...
+      @! Hé, c’est quoi cette chose ?
+      @! Peu importe ce que c’est, vous l’avez trouvée.
         </args>
       </action>
     </sprite>
 
     <sprite class='chest7' name='thirdRoomChest12' x='1353' y='474'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Ouvre.'>
         <args>thirdRoomChest12,item12,
-                   @! You got a BOONBUCK!
-      @! Ok, you can't even pretend to be excited about this. You get the feeling that whoever was stocking these chests just started running out of treasure assets.
-      @! You put the phoned-in item back in the chest. But a little later, Meenah sneaks back over here, takes the boonbuck, and stashes it in her nautically themed, hot pink clam shell shaped purse, which we have never seen her rendered with, but is totally is something that exists in the most canonical way possible. There, now you know.
-
+                   @! Vous trouvez un BOONBUCK !
+      @! Ok, vous ne pouvez même pas prétendre être excitée à propos de ça. Vous avez l’impression que la personne chargée de remplir ces coffres arrivait à court de trésors. 
+      @! Vous reposez l’objet dans son coffre. Mais un peu plus tard, Meenah revient par ici, prend le boonbuck, et le range dans son sac à thème nautique, rose vif, en forme de coquille de palourde, que l’on a jamais vu auparavant, mais qui est définitivement quelque chose qui existe de la manière la plus canon possible. Voilà, maintenant vous savez. 
+  
         </args>
       </action>
     </sprite>
 
     <sprite class='chest7' name='thirdRoomChest13' x='828' y='1206'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Ouvre.'>
         <args>thirdRoomChest13,item13,
-             @! EEEUUUGHH MORE TROLL BLOOD, WHY???
-      @! As you prepare to lob it into the dark shaft below, you catch a whiff of it. Hold on... it smells... fruity?
-      @! You guess it was a false alarm. This appears to be some form of delicious juice. Your bad.
+             @! EEEUUUGHH ENCORE DU SANG DE TROLL, POURQUOI ???
+      @! Alors que vous vous apprêtez à le lancer dans le puits ténébreux en dessous de vous, vous sentez une odeur vous arriver aux narines. Un instant… une odeur… fruitée ? 
+      @! Vous supposez que ce n’était qu’une fausse alerte. Il semblerait que ce soit juste un délicieux jus de fruit. Désolé.
         </args>
       </action>
     </sprite>
