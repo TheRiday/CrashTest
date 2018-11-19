@@ -12,26 +12,26 @@
       @kanaya2_talk KANAYA: Maintenant Que Jy Pense
       @kanaya2_smirktalk KANAYA: Cela Fait Un Long Moment Que Je Nai Pas Été Dans Le Noir
       @kanaya2_happytalk KANAYA: Peut Être Que Je Resterai Éteinte Pendant Un Moment Pour Me Refamilliariser Avec Lexpérience De La Nonillumination
-      @rose_idle ROSE: Cela fait sens.
+      @rose_idle ROSE: Cela se tient.
       @rose_talk ROSE: Est-ce que c’était une caractéristique biologique commune à d’autres trolls ?
       @kanaya2_idle KANAYA: Hum
       @rose_talk ROSE: Je suis désolée. Je suis vraiment en train de te harceler avec ça, n’est-ce pas ?
       @rose_talk ROSE: Nous n’en avons jamais parlé. Je suppose que j’essayais d’être polie, mais ça m’a toujours vraiment intriguée.
       @kanaya2_talk KANAYA: Non Cest Bon
-      @kanaya2_talk KANAYA: On Ma Dit Que Cest Un Caractère Réservé À Ceux De Ma Caste
-      @kanaya2_talk KANAYA: Ils Avaient Tendance À Passer Beaucoup De Temps Dans Les Cavernes-Couveuses Où Une Source De Lumière Était Souvent Bien Pratique.
-      @kanaya2_talk KANAYA: Cette Partie Fait Sens Pour Moi Mais Je Nai Aucune Idée Du But Évolutif De Cette Sorte De Soif Qui L’accompagne
+      @kanaya2_talk KANAYA: On Ma Dit Que Cest Une Caractéristique Réservée À Celles De Ma Caste
+      @kanaya2_talk KANAYA: Elles Avaient Tendance À Passer Beaucoup De Temps Dans Les Cavernes-Couveuses Où Une Source De Lumière Était Souvent Bien Pratique
+      @kanaya2_talk KANAYA: Cette Partie Me Semble Logique Mais Je Nai Aucune Idée Du But Évolutif De Cette Sorte De Soif Qui L’accompagne
       @kanaya2_talk KANAYA: Ça Mapparait Juste Comme Un Étrange Fardeau Mais Quest Ce Que Jen Sais
       @rose_concern ROSE: Peut-être pour effrayer et éloigner les prédateurs des larves innocentes ?
       @kanaya2_idle KANAYA: Peut Être
-      @kanaya2_talk KANAYA: Ou Peut Être Est Ce Un Défaut Calculé Qui Nous Est Imposé
-      @kanaya2_bored KANAYA: Afin De Tenir Muselées Les Auxiliatrices
+      @kanaya2_talk KANAYA: Ou Peut Être Est Ce Un Défaut Calculé Qui Nous Était Imposé
+      @kanaya2_bored KANAYA: Afin De Tenir Les Auxiliatrices Sous Le Joug
       @rose_talk ROSE: Je suis d’accord avec cette vision des choses, au motif que j’ai toujours été une grande supportrice de toute bonne théorie du complot.
       @kanaya2_talk KANAYA: Notre Condition A Toujours Été Glorifiée Dans Les Oeuvres Littéraires
       @kanaya2_talk KANAYA: Mais Ce Nest Pas Aussi Bien Quon Le Pense
       @kanaya2_talk KANAYA: C’est Loin Dêtre Aussi Utile Que Dautres Aptitudes Telles Que Les Dons Psychiques Auxquels Sont Prédisposés Certains Serfsangs
       @kanaya2_talk KANAYA: Cependant Je Suppose Que Cest Plutôt Pratique Si Tu Veux Poursuivre Tes Plans Après Que Quelquun Taie Transpercé Le Ventre
-      @rose_talk ROSE: Je constate que cela présenterait une foule de commodités.
+      @rose_talk ROSE: Je peux voir que cela présenterait une foule de commodités.
       @rose_happytalk ROSE: En parlant de plans, tu fais quelque chose plus tard ?
       @kanaya2_idle KANAYA: Pas Vraiment
       @rose_happytalk ROSE: Je travaille présentement sur quelques trucs, mais plus tard, peut-être une fois que tu auras fini d’escorter ton invitée, tu voudrais faire quelque chose ?
@@ -45,19 +45,19 @@
 </action>
 <action class='kanayaTalk2' sprite='dave' command='talk' name='Parle à Kanaya.'>
       <args>
-      @dave_talk DAVE: (tu as brisé lanneau mais ton rap vaut encore moins que rien)
+      @dave_talk DAVE: (tu as brisé le cercle mais les fissures dans ton rap se voient dencore plus loin)
       @dave_talk DAVE: (jvais remplir ton verre de devastation il sera plein)
       @dave_huh DAVE: (attends non)
       @dave_talk DAVE: (cque tas fait serait pas plus gay avec une marionnette entre les mains)
       @dave_huh DAVE: (quoi)
       @dave_huhtalk DAVE: (marionnette… dou est ce que ca vient ca)
-      @dave_talk DAVE: (tu as brisé lanneau mais ton rap vaut encore moins que rien)
+      @dave_talk DAVE: (tu as brisé le cercle mais les fissures dans ton rap se voient dencore plus loin)
       @dave_talk DAVE: (ton flow endort comme du lait chaud et un bon coussin)
       @dave_smug DAVE: (haha oui)
       @dave_talk DAVE: (je serais le shoosh de ton pap alors soyons copain)
       @dave_huhtalk DAVE: (attend ca fait aucun sens)
       @dave_huhtalk DAVE: (nan je vais rester sur le lait)
-      @dave_talk DAVE: (Tu dis que tes le seigneur du temps)
+      @dave_talk DAVE: (tu dis que tes le seigneur du temps)
       @dave_talk DAVE: (mais toutes tes rimes cest que du flan)
       @dave_huhtalk DAVE: (ca passe je suppose)
       @dave_huhtalk DAVE: (mais jai toujours limpression que je devrais rajouter des marionnettes la dedans)
@@ -73,13 +73,13 @@
       @dave_huh DAVE: woh
       @dave_huh DAVE: hey heu
       @dave_huhtalk DAVE: ten as entendu beaucoup ?
-      @kanaya2_talk KANAYA: Vu La Question, Je Dirais Plus Que Tu Ne Laurais Voulu
+      @kanaya2_talk KANAYA: Vu La Question Je Dirais Plus Que Tu Ne Laurais Voulu
       @dave_madtalk DAVE: ce truc est encore en cours decriture
       @dave_madtalk DAVE: ca repond pas encore aux attentes du public
       @dave_madtalk DAVE: pourquoi faut il que tu espionnes
       @kanaya2_idle KANAYA: Je Nespionnais Pas
       @kanaya2_talk KANAYA: Je Me Tenais Ici Et Tu Tes Doucement Approché Dans Un État Dinconscience Totale
-      @kanaya2_talk KANAYA: Tu Marmonnais Ta Poésie Et Tu Tes Dirigé Droit Vers Moi Sans Même Le Remarquer Jusquà Maintenant
+      @kanaya2_talk KANAYA: Tu Marmonnais Ta Poésie Et Tu Tes Dirigé Droit Vers Moi Sans Même Me Remarquer Jusquà Maintenant
       @dave_huh DAVE: merde
       @dave_huh DAVE: vraiment
       @dave_huhtalk DAVE: desole je crois que je me suis laisse emporter dans mon rap
