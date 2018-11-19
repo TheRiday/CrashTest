@@ -82,7 +82,7 @@
       <action class='porrimTalk2'>
         <action command='presentActions'>
           <args>
-            <action name='Yes.' class='beKanaya'>
+            <action name='Oui.' class='beKanaya'>
               <action command='follow'>
                 <args>meenah,kanaya</args>
                 <action command='setGameState'>
@@ -90,7 +90,7 @@
                 </action>  
               </action>
             </action>
-            <action command='cancel' name='No.'/>
+            <action command='cancel' name='Non.'/>
           </args>
         </action>
       </action>
@@ -107,14 +107,14 @@
     </character>
 
     <sprite name='secondRoomDoor' x='1235' y='200' width='200' height='300'>
-      <action command='talk' name='Examine door.' sprite='!kanaya'>
+      <action command='talk' name='Examine la porte.' sprite='!kanaya'>
             <args>
-            @! Wait... there's something different about this door. You think it might be a real door! It's not someone's memory, like the rest of this place is.
-            @! The meteor must be physically passing through the dream bubble again. You'd love to get in here and snoop around somehow, but the door is password protected. There's got to be someone around here who knows the password...
+            @! Attendez… Il y a quelque chose de différent avec cette porte. Cela semble être une vraie porte ! Ce n’est pas le souvenir de quelqu’un, comme le reste de cet endroit. 
+            @! Le météore doit sûrement passer à travers une bulle de rêve. Vous adoreriez passer cette porte et fouiner dans le coin, mais il vous faut un mot de passe pour cela. Il doit bien y avoir quelqu’un aux alentours qui le connaît... 
             <!--  -->
             </args>
       </action>
-      <action command='removeSprite' name='Enter password.' sprite='kanaya'>
+      <action command='removeSprite' name='Entre le mot de passe.' sprite='kanaya'>
         <args>secondRoomDoor,secondRoom</args>
         <action command='addWalkable' noDelay='true'>
           <args>secondRoomWalkable,secondRoom</args>
