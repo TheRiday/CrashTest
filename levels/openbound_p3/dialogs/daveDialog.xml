@@ -12,7 +12,7 @@
       @meenah_wink MEENAH: 
       @dave_huhtalk DAVE: quoi tu parles plus maintenant ?
       @dave_smug DAVE: tavais plus de cran avant tout ce qui sest passe
-      @kanaya2_talk KANAYA: Elle Montre Son Meilleur Visage Pendant Sa Visite
+      @kanaya2_talk KANAYA: Elle Se Montre Sous Son Meilleur Jour Pendant Sa Visite
       @kanaya2_happytalk KANAYA: Jusque Là Elle Se Débrouille Très Bien
       @dave_idle DAVE: ok peu importe
       @dave_talk DAVE: alors quoi cest meme plus la peine de sinquieter quand on passe a travers une bulle onirique maintenant
@@ -24,7 +24,7 @@
       @meenah_fish MEENAH: (racloir a poussiere sans cornes)
       @kanaya2_idle KANAYA: Chut !
       @meenah_wut2 MEENAH: 38(
-      @kanaya2_happytalk KANAYA: Alors Que Marmonais Tu Avant Que Je Ne Tinterrompe
+      @kanaya2_happytalk KANAYA: Alors Que Marmonnais Tu Avant Que Je Ne Tinterrompe
       @dave_talk DAVE: oh juste quelques raps
       @dave_talk DAVE: je bossais sur mes raps
       @dave_talk DAVE: tas entendu mes raps hein
@@ -48,7 +48,7 @@
       @dave_talk DAVE: mais ca veut dire quon aurait pu parler de rap depuis tout ce temps
       @dave_talk DAVE: je veux dire toi et moi
       @dave_talk DAVE: je pense que ca aurait pu arriver si on se parlait plus
-      @dave_talk DAVE: kanaya on devrait se parler plus souvent on ne se parle vraiment pas assez
+      @dave_talk DAVE: kanaya on devrait se parler plus souvent on se parle vraiment pas assez
       @dave_talk DAVE: genre vraiment juste
       @dave_talk DAVE: se mettre au putain de boulot
       @dave_talk DAVE: juste nous deux
@@ -57,9 +57,9 @@
       @dave_idle DAVE: vraiment genre
       @dave_smug DAVE: continuer dans cette dynamique
       @dave_smug DAVE: voir ce quil y a LA DEDANS
-      @dave_madtalk DAVE: on VA presser le sang de cette putain de pierre
+      @dave_madtalk DAVE: on VA aller au coeur de cette situation et en extraire la putain de moelle
       @dave_concern DAVE: avec cette troll fantome etrangement silencieuse comme temoin
-      @kanaya2_talk KANAYA: Si Tu Parviens À Extraire Du Sang Du Matériel Géologique En Question Pourrais Je Lavoir
+      @kanaya2_talk KANAYA: Si Tu Parviens À Extraire Du Sang De Lorgane En Question Pourrais Je Lavoir
       @dave_smug DAVE: awh meuf
       @dave_smug DAVE: les blagues de vampire semi autodevalorisantes sur les bords cest un bon debut jaime ca
       @kanaya2_talk KANAYA: Je Ne Sais Pas À Quel Point Tu Es Sincère Dave
@@ -85,7 +85,7 @@
 </action>
 <action class='daveTalk2' sprite='rose' command='talk' name='Parle à Dave.'>
       <args>
-      @dave_huhtalk DAVE: il se passe quoi avec la troll poisson punk qui suit kanaya de partout
+      @dave_huhtalk DAVE: il se passe quoi avec la troll poisson punk qui suit kanaya partout
       @rose_talk ROSE: Il semblerait qu’elle ne fasse que passer. Kanaya ne veut pas qu’elle cause de problèmes.
       @dave_huh DAVE: causer des problemes
       @dave_madtalk DAVE: quest ce quelle pourrait foutre ici
@@ -97,12 +97,12 @@
       @dave_talk DAVE: quelle fasse pas tomber tes fioles et tout partout
       @dave_talk DAVE: le seul qui a lautorisation d’étaler la science cest moi
       @rose_annoyed ROSE: Crétin.
-      @dave_mad DAVE: soit pas comme ca
+      @dave_mad DAVE: sois pas comme ca
       @dave_madtalk DAVE: jetayais mon putain dART par ici
       @rose_annoyedtalk ROSE: Je sais. J’étais dans la même pièce, juste là, à t’écouter te marmonner des paroles à toi-même pendant ces deux dernières heures.
       @dave_huhtalk DAVE: rose tu sais ce qui craint
       @rose_idle ROSE: Oui.
-      @rose_talk ROSE: A quelle chose minable fais-tu référence ?
+      @rose_talk ROSE: À quelle chose minable fais-tu référence ?
       @dave_talk DAVE: ca vient juste de marriver
       @dave_talk DAVE: quand je crachais sans fin mes vers malsains
       @dave_talk DAVE: jai eu limpression que je devenais peut etre genre
@@ -114,7 +114,7 @@
       @dave_huhtalk DAVE: jveux dire genre a la ramasse
       @dave_talk DAVE: comme une reference pop prehistorique bien lourde
       @dave_talk DAVE: rappelle toi quon est genre bloques en 2009
-      @dave_talk DAVE: donc je suis genre gele dans la popculture de lepoque
+      @dave_talk DAVE: donc cest comme si jetais gele dans la popculture de lepoque
       @dave_talk DAVE: toutes mes references ont lair de setre un peu dessechees
       @dave_talk DAVE: meme si la terre est morte et tout et quil y a plus de culture apres ca de toutes facons
       @dave_talk DAVE: mais quand meme
@@ -122,14 +122,14 @@
       @dave_talk DAVE: genre dans mes tripes
       @dave_talk DAVE: je sais juste que sur une sorte de terre hypothetique qui aurait continue de vivre mes conneries sont en train de devenir pathetiques
       @dave_talk DAVE: et je sais que ca na pas dimportance parce quil y a que nous ici donc quest ce quon en a a foutre
-      @dave_talk DAVE: mais je men fout pas
+      @dave_talk DAVE: mais je men fous pas
       @dave_madtalk DAVE: cest une question dintegrite je suis un putain dartiste
-      @dave_madtalk DAVE: genre je pense que si je fais encore un rap sur genre un des putain de films de dane cook de 2008 pour faire chier karkat ou quoi je vais
+      @dave_madtalk DAVE: genre je pense que si je fais encore un rap sur un des putain de films de dane cook de 2008 pour faire chier karkat ou je sais pas quoi je vais
       @dave_huhtalk DAVE: je sais pas
       @dave_huhtalk DAVE: je vais juste commencer a avoir limpression detre un imposteur
       @dave_huhtalk DAVE: mon jeu pourrait se faner rose
-      @dave_madtalk DAVE: mais cest pas ma faute genre je suis totalement lhotage de ces dechets culturels cryogenises qui ne pourront plus jamais aller de lavant
-      @dave_madtalk DAVE: donc je dois creuser dedans comme si je pillais une putain de tombe pendant que jessaye de RAPER IMPERTINAMENT
+      @dave_madtalk DAVE: mais cest pas ma faute tu vois je suis totalement lotage de ces dechets culturels cryogenises qui ne pourront plus jamais aller de lavant
+      @dave_madtalk DAVE: donc je dois creuser dedans comme si je pillais une putain de tombe pendant que jessaye de RAPER IMPERTINEMMENT
       @dave_smug DAVE: genre OUAIS prenez CA bande d’encules
       @dave_concern DAVE: DU PASSE
       @dave_huhtalk DAVE: vous tous dans une fosse commune quelque part dans un grenouillivers creve
@@ -146,10 +146,10 @@
       @dave_talk DAVE: ca allait etre excitant
       @dave_talk DAVE: genre barack obama venait juste de devenir president tu ten souviens
       @dave_talk DAVE: on saura jamais si il a reussi a retablir leconomie
-      @dave_talk DAVE: souviens toi comme tu mourrais denvie de savoir si il retablirait leconomie tu me le demandais tous les putain de jours
+      @dave_talk DAVE: souviens toi comme tu mourrais denvie de savoir si il retablirait leconomie tu me le demandais tous les jours putain
       @dave_talk DAVE: je deconne personne en avait rien a foutre
-      @dave_huh DAVE: mais genre
-      @dave_huhtalk DAVE: je pourrai jamais jeter un coup doeil aux prochains sons de stiller et voir a quel point je pourrais men moquer
+      @dave_huh DAVE: mais imagine
+      @dave_huhtalk DAVE: je pourrai jamais jeter un coup doeil aux prochaines improsde stiller et voir a quel point je pourrais men moquer
       @dave_huhtalk DAVE: on saura jamais comment laventure de la midnight crew se finit
       @dave_mad DAVE: si elle se finit
       @dave_huh DAVE: rose
