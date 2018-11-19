@@ -2,58 +2,58 @@
     <classes>
   		<action class='porrimTalk1' sprite='meenah' command='talk' name='Écoute la conversation.'>
 		      <args>
-		      @porrim_talk PORRIM: Ah, o+n dirait que l’o+n a de la co+mpagnie. Je suppose que l’o+n devrait co+nclure !
-		      @porrim_happytalk PORRIM: Je suis vraiment heureuse que tu so+is venue me vo+ir. J'espère que tu prendras en co+mpte ce que je t’ai dis.
-		      @kanaya2_happytalk KANAYA: Oui Je Le Ferais
+		      @porrim_talk PORRIM: Ah, o+n dirait que l’o+n a de la co+mpagnie. Je suppo+se que l’o+n devrait co+nclure !
+		      @porrim_happytalk PORRIM: Je suis vraiment heureuse que tu so+is venue me vo+ir. J'espère que tu prendras en co+mpte ce que je t’ai dit.
+		      @kanaya2_happytalk KANAYA: Oui Je Le Ferai
 		      @kanaya2_happytalk KANAYA: Et Je Suis Aussi Heureuse
 		      @kanaya2_happy KANAYA: À Propos De
 		      @kanaya2_smirktalk KANAYA: Oui
-		      @porrim_happytalk PORRIM: Tu as beauco+up de travail devant to+i. L’héritage de no+tre race est entre tes mains.
+		      @porrim_happytalk PORRIM: Tu as beauco+up de travail devant to+i. L’héritage de no+tre espèce est entre tes mains.
 		      @porrim_happytalk PORRIM: Je sais que tu me rendras fière.
 		      @kanaya2_smirklaugh KANAYA: Ok Merci
 		      <!--  -->
 		      </args>
 		</action>
-		<action class='porrimTalk2' sprite='meenah' command='talk' name='Demande le mot de passe a Kanaya.'>
+		<action class='porrimTalk2' sprite='meenah' command='talk' name='Demande le mot de passe à Kanaya.'>
       <args>
       @meenah_talk MEENAH: aw si cest pas popo voltecuisse et mini clone maryam
       @meenah_happytalk MEENAH: vous glubbez quoi les filles ?
-      @kanaya2_bored KANAYA: Rien J’allais Partir
+      @kanaya2_bored KANAYA: Rien Jallais Partir
       @meenah_talk MEENAH: ah et ou ca
       @meenah_talk MEENAH: dans ton meteore pas vrai parce que cest justement la ou je vais
       @meenah_talk MEENAH: je peux pas passer la porte par congre
       @meenah_happytalk MEENAH: je peux avoir le mot de passe
-      @kanaya2_idle KANAYA: Excuse moi
+      @kanaya2_idle KANAYA: Excuse Moi
       @kanaya2_idle KANAYA: Non
       @meenah_happy MEENAH: allez
-      @porrim_annoyed2 PORRIM: Meenah, qu’est ce que tu fais ? Ne l’embête pas po+ur des info+rmatio+ns privées. C’est rude.
+      @porrim_annoyed2 PORRIM: Meenah, qu’est ce que tu fais ? Ne l’embête pas po+ur des info+rmatio+ns privées. C’est impo+li.
       @meenah_creepy MEENAH: ALL-E-E-EZ
-      @meenah_happier MEENAH: je demande gentillement
+      @meenah_happier MEENAH: je demande gentiment
       @kanaya2_bored KANAYA: Le Fais Tu Vraiment
       @meenah_angrytalk MEENAH: je suis en train de sourire putain nan ???
       @kanaya2_talk KANAYA: Et Bien Jy Allais De Toute Façon
       @kanaya2_talk KANAYA: Je Ne Te Donnerai Pas Mon Mot De Passe Mais Tu Peux Me Suivre Je Suppose 
-      @kanaya2_talk KANAYA: Mais Tu Ne Peux Rester Seulement Si Je Tescorte
+      @kanaya2_talk KANAYA: Mais Tu Ne Peux Rester Que Si Je Tescorte
       @meenah_wut MEENAH: keuwa
       @meenah_wut MEENAH: pourquoi
       @kanaya2_talk KANAYA: Parce Que Je Ne Te Fais Pas Confiance
-      @meenah_wut2 MEENAH: aw mec
+      @meenah_wut2 MEENAH: aw cest rude
       @meenah_annoyed MEENAH: mais je suis cool
       @meenah_fish MEENAH: tu devrais faire preuve de putain de sagesse et commencer a penser que je suis cool
       @kanaya2_bored:#Sarcasme-Humain KANAYA: Tu As Raison Avec Un Argument De Vente Comme Celui Ci Je Serais Vraiment Une Imbécile De Ne Pas Vouloir De Ta Compagnie 
       @meenah_annoyedtalk MEENAH: quest ce que tu as contre moi le clone de maryam
       @kanaya2_idle KANAYA: Je Pense Que Tu Es Probablement Une Sociopathe
-      @kanaya2_bored KANAYA: Jai Déjà Donné De Mon Temps Dans Le Passé À Ce Genre De Personnage
-      @meenah_fish MEENAH: tu tes trompé sur mon compte meuf
+      @kanaya2_bored KANAYA: Jai Déjà Donné De Mon Temps Dans Le Passé À Ce Genre De Personnages
+      @meenah_fish MEENAH: tu tes trempee sur mon compte meuf
       @meenah_talk MEENAH: quest ce que je dois faire pour que tu sois de mon cote maryam le retour ?
       @kanaya2_facepalm KANAYA: Mon Nom Est Kanaya !
       @meenah_talk MEENAH: dacodac kanaya est ton nom
       @meenah_talk MEENAH: un jour je trouverai un bon jeu de mot poissoneux pour ca
-      @meenah_happytalk MEENAH: cest comme ca que tu sais que notre merde sera LIEE
+      @meenah_happytalk MEENAH: cest comme ca que tu sauras que notre amitie sera hermetiquement SOUD-E-E
       @kanaya2_cry KANAYA: 
-      @meenah_happytalk MEENAH: juste montre le chemin a suivre je me comporterai bien et te conquerirai
+      @meenah_happytalk MEENAH: juste passe devant je me comporterai bien et te conquerirai
       @meenah_creepy MEENAH: TU V-ERRAS
-      @! être Kanaya?
+      @! Devenir Kanaya ?
       <!-- y/n -->
       </args>
 </action>
@@ -64,20 +64,20 @@
       @porrim_happytalk PORRIM: Et assure-to+i de ne pas laisser celle-là tro+p lo+in de ta vue.
       @meenah_annoyedtalk MEENAH: baudroiel de merde
       @meenah_annoyedtalk MEENAH: les jeunes de nos jours ont plus de raiespect pour les royautees et jen ai jusque la 
-      @porrim_annoyedtalk PORRIM: S’il te plait. Tu n'es même pas énervée. Tu vo+ulais juste une excuse po+ur utiliser plus de tes blagues po+isso+nnières.
-      @meenah_annoyedtalk MEENAH: merrygams arrete detre une astucieuse juge de caractere
+      @porrim_annoyedtalk PORRIM: Allo+ns. Tu n'es même pas énervée. Tu vo+ulais juste une excuse po+ur utiliser plus de tes blagues po+isso+nnières.
+      @meenah_annoyedtalk MEENAH: merrygams arrete detre une perspicace juge de caractere
       <!--  -->
       </args>
 </action>
 
-<action class='porrimTalk4' sprite='damara' command='talk' name='Ecoute attentivement.'>
+<action class='porrimTalk4' sprite='damara' command='talk' name='Écoute attentivement.'>
       <args>
-      @porrim_angrytalk PORRIM: Damara, ça te dérangerai de partir ? No+us teno+ns une discussio+n  privée là.
+      @porrim_angrytalk PORRIM: Damara, ça te dérangerait de partir ? No+us teno+ns une discussio+n  privée là.
       @damara_idle DAMARA: 
       @porrim_angrytalk PORRIM: S’il te plait. Laisse no+us seules. Nous parlero+ns plus tard, d’acco+rd ?
       @kanaya2_idle KANAYA: ...
       @kanaya2_talk KANAYA: (elle me rend légèrement mal à laise.)
-      @porrim_talk PORRIM: (c’est sa spécialité.. ignore la juste jusqu’à qu’elle aille ailleurs.)
+      @porrim_talk PORRIM: (c’est sa spécialité.. igno+re la juste jusqu’à ce qu’elle aille ailleurs.)
       <!--  -->
       </args>
 </action>
