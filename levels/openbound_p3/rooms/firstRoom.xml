@@ -119,7 +119,7 @@
   <animation sheet='plush2' x='-48' y='-55'/>
   <action command='talk' name='Examine.'>
         <args>
-        @!:#You-hum-the-fiduspawn-theme-song-while-gently-weeping. Blech. What a disgusting, friendly mess. His sacrifice was not in vain though. He was brutally murdered from within, so that a new friend could be born.
+        @!:#Vous-fredonnez-l’air-du-thème-de-fiduspawn-tout-en-nettoyant-soigneusement. Beurk. Quel dégoûtant et joyeux bazar. Son sacrifice ne sera pas vain en tout cas. Il a été brutalement tué de l'intérieur, et c’est grâce à ça qu’un nouvel ami a pu naître.
         <!--  -->
         </args>
   </action>
@@ -129,37 +129,37 @@
   <animation sheet='horsaponi' length='8' x='-70' y='-84'/>
   <action command='talk' name='Examine.'>
         <args>
-        @! What an utterly magnificent specimen. But if you train HORSAPONI hard enough, one day he may become HORSARONI. By which I mean, he will grow slightly bigger, and gain no measurable advantages in combat. You will however be required to feed him more.
+        @! Quel magnifique spécimen. Mais si vous entraînez FICHEVLLO assez durement, un jour, il pourra devenir CHEVATALON. Et par là j’entends qu’il sera légèrement plus grand et ne gagnera aucun avantage notable au combat. Vous allez cependant avoir besoin de le nourrir davantage.
         <!--  -->
         </args>
   </action>
-  <action command='removeSprite' name='Take Horsaponi to Horuss.'>
+  <action command='removeSprite' name='Mène Fichevllo à Horuss.'>
     <args>horsaponi,firstRoom</args>
     <action command='removeAction' noDelay='true'>
-      <args>horsaponi, Take Horsaponi to Horuss.</args>
+      <args>horsaponi, Mène Fichevllo à Horuss.</args>
       <action command='addAction' noDelay='true'>
         <args>
           horuss,
-          <action name='Give Horsaponi to Horuss.' command='addSprite'>
+          <action name='Donne le Fichevllo à Horuss.' command='addSprite'>
             <args>horsaponi,firstRoom</args>
             <action command="moveSprite" noDelay='true'>
               <args>horsaponi,1755,702</args>
               <action command="talk">
-                <args>@horuss_smiletalk HORUSS: 8=D &lt; You did it! You brought me a fine, young stallion!
-      @horuss_smiletalk HORUSS: 8=D &lt; What a beautiful gesture of friendship. I am so f*dging happy, you have no idea.
-      @horuss_crossed2 HORUSS: （;≧皿≦） &lt; Wh**ps, so happy, I have become loose with foul language, and forgot I wasn't supposed to make that face anymore.
-      @horuss_crossed2 HORUSS:  (;¬д¬) &lt; You are of course free to be me whenever you wish, my lady.
+                <args>@horuss_smiletalk HORUSS: 8=D &lt; Vous avez réussi ! Vous m’avez ramené une superbe jeune monture !
+      @horuss_smiletalk HORUSS: 8=D &lt; Quel magnifique geste d’amitié ! Je suis si sacr*ment heureux, vous n’avez pas idée !
+      @horuss_crossed2 HORUSS: （;≧皿≦） &lt; **ps, j’étais si heureux que je me suis mis à user d'un langage vulgaire, et que j’ai oublié que je ne devais plus utiliser cette tête.
+      @horuss_crossed2 HORUSS:  (;¬д¬) &lt; Vous pouvez bien sûr vous 100tir libre de devenir moi quand vous le désirez ma dame.
       @! Be Horuss?
                 </args>
                 <action command='removeAction'>
-                  <args>horuss,Be Horuss.,Give Horsaponi to Horuss.</args>
+                  <args>horuss,Deviens Horuss.,Donne le Fichevllo à Horuss.</args>
                   <action command='removeAction'>
                     <args>horsaponi,Examine.</args>
                     <action command='addAction'>
                       <args>horsaponi,
                         <action command='talk' name='Examine.'>
                               <args>
-                              @!:#neigh Dear, sweet, beautiful, dear, precious, sweet, sweet, dear, sweet HORSEAPONI. 
+                              @!:#hénissement Cher, doux, magnifique, cher, précieux, tendre, adorable, cher doux FICHEVLLO 
                               <!--  -->
                               </args>
                         </action>
@@ -170,8 +170,8 @@
                         </args>
                         <action command='presentActions'>
                           <args>
-                            <action class='beHoruss' name='Yes.'/>
-                            <action command='cancel' name='No.'/>
+                            <action class='beHoruss' name='Oui.'/>
+                            <action command='cancel' name='Non.'/>
                           </args>
                         </action>
                       </action>
@@ -284,16 +284,16 @@
     </character>
   	
   	<character class='mituna' x='2394' y='285' state='crash'>
-      <action sprite='!damara' command='talk' name="It's Mituna!">
+      <action sprite='!damara' command='talk' name="C’est Mituna !">
           <args>
-          @!:#Falling-is-hard-work! D'aw, looks like he's all tuckered out under the brain tree.  
+          @!:#tomber-est-un-travail-difficile-! Aw, on dirait bien qu'il est complètement épuisé sous cet arbre fait de cerveau.
           <!--  -->
           </args>
       </action>
-      <action sprite='damara' command='talk' name="It's Mituna!">
+      <action sprite='damara' command='talk' name="C’est Mituna !”>
           <args>
-          @latula_happier LATULA: h3y d4mz!!!!
-          @latula_happytalk LATULA: 1f you go 4nywh3r3 n34r h1m, 1 w1ll fuck1ng k1ll you!
+          @latula_happier LATULA: h3 d4mz !!!!
+          @latula_happytalk LATULA: s1 tu t4pproches de lu1, j3 t3 d3fonc3 !
           <!--  -->
           </args>
       </action>
@@ -324,7 +324,7 @@
       <action class='damaraTalk6'/>
       <action class='beDamara' sprite='rufioh'>
         <action command='removeAction'>
-          <args>damara,Be Damara.,Be Damara.,Be Damara.</args>
+          <args>damara,Deviens Damara.,Deviens Damara.,Deviens Damara.</args>
           <action command='addAction'>
             <args>damara,
               <action class='beDamara'/>
@@ -339,76 +339,76 @@
   	</sprite>
   	
   	<sprite name='firstRoomOrb' class='blueBubble' x='1536' y='1518'>
-      <action sprite='!damara' command='talk' name='Examine bubble.'>
+      <action sprite='!damara' command='talk' name='Examine la bulle.'>
             <args>
-            @! This bubble contains Damara's memory of a huge quartz obstacle. Only she can remove it. Stinkin' witch. She never makes it easy, does she?
+            @! Cette bulle contient le souvenir de Damara à propos d’un énorme obstacle de quartz. Elle seule peut le retirer. Saloperie de sorcière. Elle ne simplifie pas les choses.
             <!--  -->
             </args>
       </action>
-  		<action sprite='damara' command='removeSprite' name='Remove quartz glacier.'>
+  		<action sprite='damara' command='removeSprite' name='Fais disparaitre l'obstacle de quartz.'>
   			<args>qwartz,firstRoom</args>
   			<action command='addWalkable'>
   				<args>firstRoomWalkable,firstRoom</args>
           <action command='removeActions'>
-            <args>firstRoomOrb,Examine bubble.,Remove quartz glacier.</args>
+            <args>firstRoomOrb,Examine la bulle.,Fais disparaitre l'obstacle de quartz.</args>
             <action command='playSound'>
               <args>hitPowerfulSound</args>
             </action>
           </action>
   			</action>
   		</action>
-      <action command='talk' name="Yeah I have no idea what I'm doing here.">
+      <action command='talk' name="Yep, je n’ai absolument aucune idée de ce que je fais.">
         <args>
-        @! Click the MAP link below the game for HOT TIPS!!!
+        @! Cliquez sur le lien de la CARTE en dessous du jeu pour des SUPERS CONSEILS !!!
         </args>
       </action>
   	</sprite>
 
     <sprite class='chest8' name='firstRoomChest1' x='618' y='778'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Ouvre.'>
         <args>firstRoomChest1,item1,
-          @! You got some FIDUSPAWN CARDS! Gotta hatch em all!!!!!
-          @! Is advice you should follow if you want way too many fiduspawn crawling around. For safety reasons, the manufacturer recommends that you only hatch some.
+          @! Vous trouvez des CARTES FIDUSPAWN ! Éclosez-les tous !!!!! 
+          @! Ce conseil est à suivre si vous voulez beaucoup trop de fiduspawns rampant à vos côtés. Pour des raisons de sécurité, le fabricant recommande de n’en faire éclore que quelques un.
         </args>
       </action>
     </sprite>
     
     <sprite class='chest8' name='firstRoomChest2' x='1422' y='422'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Ouvre.'>
         <args>firstRoomChest2,item2,
-          @! You got a BUSTED ROBOT HEAD! 
-      @! There was a rumor going around that once, through an elaborate courtship process, Horuss sent Rufioh a robotic duplicate of himself to spar with, piece by piece. The last part he sent was supposedly the head.
-      @! That's almost certainly a myth. Horuss is a pretty strange dude, but he would have to be a total lunatic to do something like that. The anecdote strains plausibility.
+          @! Vous trouvez une TÊTE DE ROBOT DÉTRUITE !
+      @! Il y avait une rumeur qui circulait disant qu’une fois, pendant une tentative élaborée de flirt, Horuss a envoyé à Rufioh une version robotique de lui-même pour s'entraîner avec, morceau par morceau. La dernière pièce qui aurait dû être envoyée était supposément la tête. 
+      @! C'est certainement un mythe. Horuss est un gars plutôt étrange, mais il devait être totalement lunatique pour faire ça. L'anecdote paraît peu plausible.
         </args>
       </action>
     </sprite>
 
     <sprite class='chest8' name='firstRoomChest3' x='1984' y='134'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Ouvre.'>
         <args>firstRoomChest3,item3,
-          @! You got a pair of DUTTON BUBBLE GOGGLES!
-      @! You can see into infinity for eternity. 
-      @! Just the way Charles Dutton would have wanted it.
+          @! Vous trouvez une paire de BULLES-MIRETTES DUTTON
+      @! Vous pouvez voir dans l'infini éternellement.
+      @! Comme Charles Dutton l'aurait voulu.
         </args>
       </action>
     </sprite>
 
     <sprite class='chest7' name='firstRoomChest4' x='2122' y='560'>
-      <action sprite='horuss' command='openChest' name='Open.'>
+      <action sprite='horuss' command='openChest' name='Ouvre.'>
         <args>firstRoomChest4,item4,
-          @! You got a PRICELESS WORK OF FINE ART!!!
-      @! You spend a few moments solemnly contemplating the artistic merits of the splendid classical sculpture.
+          @! Vous trouvez un TRAVAIL ARTISTIQUE INESTIMABLE !!!
+      @! Vous passez quelques moments solennels à contempler les mérites artistique de ce sublime classique de la sculpture. 
       @horuss_horsedick_blur1 
-      @! Wait, no...
-      @! Hang on, don't move. The pixelation is missing its mark...
+      @! Attendez, non..
+      @! Un instant, ne bougez pas. La pixellisation est mal placée.
       @horuss_horsedick_blur2 
-      @! Damn it! Still not quite right... ok, hold your horses.
+      @! Punaise ! Ce n’est pas encore bon… ok, ne nous emballons pas.
       @horuss_horsedick_blur3 
-      @! Perfect! Whew, crisis averted. That was a close call.
-      @! You very nearly caught a glimpse of a horse penis and began to cry.
+      @! Parfait ! Ouf, la crise est évitée. C'était tendu.
+      @! Vous avez presque entraperçu le pénis d’un cheval et vous seriez mis à pleurer.
         </args>
         <action command='removeAction'>
-          <args>firstRoomChest4,Open.</args>
+          <args>firstRoomChest4,Ouvre.</args>
         </action>
       </action>
       <action sprite='!horuss' command='talk' name='Open.'>
