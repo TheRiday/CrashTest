@@ -4,24 +4,24 @@
 	      <args>
 	      @meenah_idle MEENAH: yo nitram
 	      @rufioh_happytalk \nRUFIOH: oh, salut poupée... t’éta1s part1e pendant vachement longtemps... 
-	      @rufioh_happytalk:#je-croya1s-que-tu-alla1s-faire-éclore-un-f1duspawn-avec-ce-truc-pour-être-honnête…  \nRUFIOH: cool de te revoir, cependant... yo, cette combine avec la bombe que tu nous as sort1e c’était de la fol1e p*ta1n.
+	      @rufioh_happytalk: je-croya1s-que-tu-alla1s-fa1re-éclore-un-f1duspawn-avec-ce-truc-pour-être-honnête…  \nRUFIOH: cool de te revoir, cependant... yo, cette comb1ne avec la bombe que tu nous as sort1e c’éta1t de la fol1e p*ta1n.
 	      @meenah_happy MEENAH: ctai pas ghareng chose
-	      @rufioh_sheepish \nRUFIOH: te sous-est1mes pas... je pense pas que j’aurais pu fa1re ça. t’es plutot gangsta, pe1xes.
+	      @rufioh_sheepish \nRUFIOH: te sous-est1mes pas... je pense pas que j’aura1s pu fa1re ça. t’es plutot gangsta, pe1xes.
 	      @meenah_idle MEENAH: oui je sais
 	      @meenah_talk:#jai-des-questions MEENAH: hey et si on arretait  de parler da quel point je suis badass une minute et quon parlait de toi
 	      @rufioh_idle \nRUFIOH: vas-y, poupée...
 	      @meenah_idle MEENAH: ces ailes
 	      @meenah_talk MEENAH: tu as eclot avec hein
 	      @meenah_idle:#quand-tu-as-atteint-ta-puperte?? MEENAH: ou tu les as pupatees
-	      @rufioh_laugh:#un-vocabulaire-genre...#tu-sais...#de-mots-normaux \nRUFIOH: ha, oua1s c’est ça… je su1s un “m*tant”... ne dis pas a kankr1 que j’a1 d1t ça ! c’est mon pote, ma1s tu sa1s comment 1l n’a1me pas ce vocabula1re...
+	      @rufioh_laugh:#un-vocabulaire-genre...#tu-sais...#de-mots-normaux \nRUFIOH: ha, oua1s c’est ça… je su1s un “m*tant”... ne d1s pas à kankr1 que j’a1 d1t ça ! c’est mon pote, ma1s tu sa1s comment 1l n’a1me pas ce vocabula1re...
 	      @meenah_annoyedtalk MEENAH: ug dis pas ca il va genre se teleporter dans notre conversation avec de la magie fantome juste pour te faire taire
-	      @rufioh_sheepish \nRUFIOH: oua1s... il te le fais à to1 auss1, hein... c’est complètement fou p*ta1n !
+	      @rufioh_sheepish \nRUFIOH: oua1s... 1l te le fa1s à to1 auss1, he1n... c’est complètement fou p*ta1n !
 	      @meenah_talk MEENAH: ok donc tu as toujours eu des ailes
 	      @meenah_talk MEENAH: donc je suppose que tes pas secretement tier divin ou quoi
 	      @rufioh_talk \nRUFIOH: nan... c’aura1t été cool de part1r à fond sur la roublard1se... hé, peut-être que tu aura1s pu me donner genre, des conse1ls de chapardage... genre en tant que voleuse et tout ! 
-	      @rufioh_happytalk \nRUFIOH: mais nah, je ne pense pas que j'aura1s pu fa1re ça... pas 1ntent1onnellement je veux d1re...
+	      @rufioh_happytalk \nRUFIOH: ma1s nah, je ne pense pas que j'aura1s pu fa1re ça... pas 1ntent1onnellement je veux d1re...
 	      @meenah_idle MEENAH: hein pourquoi pas
-	      @rufioh_sadtalk \nRUFIOH: je sa1s pas... se su1c1der, c’est... un truc dur à fa1re. je su1s pas comme to1, meenah... je pense pas que tout le monde so1t... enf1n damara est plutôt... mais peut-être que l’on ne devra1t pas entrer dans ce sujet, hahaha. 1l ne faut pas réve1ller le f1duspawn qu1 dort, tu comprends...
+	      @rufioh_sadtalk \nRUFIOH: je sa1s pas... se su1c1der, c’est... un truc dur à fa1re. je su1s pas comme to1, meenah... je pense pas que tout le monde so1t... enf1n damara est plutôt... ma1s peut-être que l’on ne devra1t pas entrer dans ce sujet, hahaha. 1l ne faut pas réve1ller le f1duspawn qu1 dort, tu comprends...
 	      @meenah_annoyed MEENAH: ...
 	      @rufioh_sheepish \nRUFIOH: ce que je veux d1re c’est que, tu t’es pr1se au jeu... et je peux le comprendre... ma1s je n’a1 jama1s été auss1 courageux que les gens l’ont toujours pensé... je ne sa1s pas pourquo1 1ls pensa1ent toujours ça de mo1. peut-être que ce sont mes a1les ou ma coupe à crète... ou quand je sors des bangarang des fo1s très fort ? ça me fa1t passer pour le type avec beaucoup d’est1me de so1... ma1s mon est1me de mo1 est pas à tomber par terre… j’sa1s pas...
 	      @meenah_talk MEENAH: daccord tu as pas passe le tier mais je carpe toujours pas un truc
@@ -65,25 +65,24 @@
 
 			<action class='rufiohTalk2' sprite='meenah' command='talk' name='Demande à Rufioh de se joindre à toi.'>
 			      <args>
-			      @meenah_talk MEENAH: je ne devrais peut etre pas te demander ca vu que tu nes pas si brave et tu pourrais bien finir par membrasseraussi brave que ce que les autre sembrassent a dire
-			      @meenah_annoyedtalk:#attends#quest-ce-que-jai-dits-?#pas-important MEENAH: je veux dire finir par membarrasser sembarassent a dire
+			      @meenah_talk MEENAH: je ne devrais peut etre pas te demander ca vu que tes pas si brave et tu pourrais bien finir par membrasser 			      @meenah_annoyedtalk:#attends#quest-ce-que-jai-dit-?#pas-important MEENAH: je veux dire finir par membarrasser
 			      @meenah_happytalk MEENAH: mais tu voudrais venir avec moi pour...
 			      @rufioh_notalk \nRUFIOH: whoa, mec... pas to1 auss1 !!! ahaha...
 			      @meenah_wut2 MEENAH: quewa
 			      @rufioh_sheepish \nRUFIOH: ça va... c’est pas grave s1 tu me k1ffes, je su1s flatté... tu éta1s juste la dern1ère personne qu1 ne m’ava1t pas dragué... et j’a1 un peu a1mé ça chez to1, tu sa1s ?
-			      @meenah_angry MEENAH: je ne te demandais pas de sortir avec moi cretin
+			      @meenah_angry MEENAH: je te demandais pas de sortir avec moi cretin
 			      @rufioh_surprisetalk \nRUFIOH: oh... wow... m*rde ! désolé, je suppose que je me su1s fa1t une mauva1se 1dée...
 			      @rufioh_sheepish \nRUFIOH: c’est juste une sorte de réflexe, poupée... tu vo1s ? tout le monde me drague tout le temps, et je sa1s pas pourquo1... p*ta1n c’est fou...
 			      @rufioh_offendedtalk \nRUFIOH: r1en que l’autre jour, écoute... un mec orange dans un t-sh1rt vert est sort1 d’un bu1sson et a essayé de m’embrasser... et je su1s genre quooo1... recule l'enjoué, haha...
 			      @meenah_creepytalk MEENAH: peut etre parce que tes un putain de bishonen avec une crete qui tue
-			      @rufioh_happytalk:#je-pourra1s-te-donner-des-conse1ls pour-te-te1ndre-une-crète...#tu-déch1rera1-avec-ce-look-!!! \nRUFIOH: yo, c’est cool de me le d1re...  tu as ce truc de l’otenba b1shojo qu1i fonct1onne chez sur to1, meuf... ton style est trop cool, j’a1 toujours trouvé que t’éta1s super classecool...
+			      @rufioh_happytalk:#je-pourra1s-te-donner-des-conse1ls pour-te-te1ndre-une-crète...#tu-déch1rera1-avec-ce-look-!!! \nRUFIOH: yo, c’est cool de me le d1re...  tu as ce truc de l’otenba b1shojo qu1 fonct1onne chez to1, meuf... ton style est trop cool, j’a1 toujours trouvé que t’éta1s super classe...
 			      @meenah_happytalk MEENAH: pour ce que ca vaut
 			      @meenah_happytalk MEENAH: je pourrais etre ta moe dere dere en moins dune seconde mon chou 
-			      @meenah_happytalk MEENAH: si jetais attiree par toi ou si je trouvais ta personnalitee plus seduisante
-			      @meenah_happytalk MEENAH: et aussi si je partageais ta passion debile pour les animes trolls et ne pensais pas que ca puait de leventprenait tous les dialogues
+			      @meenah_happytalk MEENAH: si jetais attiree par toi ou si je trouvais ta personnalite plus seduisante
+			      @meenah_happytalk MEENAH: et aussi si je partageais ta passion debile pour les animes trolls et ne pensais pas que ca puait de levent
 			      @rufioh_talk \nRUFIOH: ahaha, bangarang ! c’est un scénar1o qu1 pourra1t me pla1re...
-			      @rufioh_sadtalk \nRUFIOH: j’a1 pas grand monde avec qu1 parler de mes h1stoi1res, yo... vu que je su1s en fro1d avec mon ex...
-			      @meenah_annoyed MEENAH: saletee de sorciere
+			      @rufioh_sadtalk \nRUFIOH: j’a1 pas grand monde avec qu1 parler de mes h1sto1res, yo... vu que je su1s en fro1d avec mon ex...
+			      @meenah_annoyed MEENAH: salete de sorciere
 			      @rufioh_offended \nRUFIOH: sér1eux... elle est folle...
 			      @rufioh_happytalk:#et-s1-c’est-pas-de-quelle-sorte-de-te1nture-je-me-sers-pour-ma-crête-? \nRUFIOH: donc que voula1s tu me demander... heu, s1 c’est pas un rendez-vous ?
 			      @meenah_annoyed MEENAH: oublie
@@ -97,8 +96,8 @@
 			<action class='rufiohTalk3' sprite='meenah' command='talk' name='Deviens Rufioh.'>
 			      <args>
 			      @rufioh_happytalk \nRUFIOH: oh p*ta1n... tu veux être mo1 ? ok c’est plutôt cool je suppose.
-			      @rufioh_surprisetalk \nRUFIOH: ma1s ça peut attendre ? mon lusus a encore d1sparu et je badepeux pas me concentrer sans lu1... c’est mon pet1t bonheur !!! haha...
-			      @rufioh_offendedtalk \nRUFIOH: j’espère que damara lu1 a r1en fa1t... des fo1s elle a1me b1en me fa1re ch*** en cachant le p’t1it gars quelque part... elle est tarée !!!
+			      @rufioh_surprisetalk \nRUFIOH: ma1s ça peut attendre ? mon lusus a encore d1sparu et je bade sans lu1... c’est mon pet1t bonheur !!! haha...
+			      @rufioh_offendedtalk \nRUFIOH: j’espère que damara lu1 a r1en fa1t... des fo1s elle a1me b1en me fa1re ch*** en cachant le p’t1t gars quelque part... elle est tarée !!!
 			      <!--  -->
 			      </args>
 			</action>
@@ -111,37 +110,37 @@
       @rufioh_offendedtalk \nRUFIOH: euh… non… c’est juste euh… oua1s, c’est b1en horuss. le style est vra1ment, euh… 1mpress1onnant. wow.
       @horuss_smiletalk HORUSS: 8=D &lt; Sérieusement, je pourrais arrêter de faire cette tête. Meenah m’a récemment ordonné d’arrêter de la faire en sa présence, et j’ai bien sûr instantanément obtempéré. Je serais tout aussi prêt à faire la même chose pour quelqu’un d’aussi important pour moi que toi.
       @rufioh_sheepish:#sauf-peut-être#de-tant-la-po1nter-vers-mo1... \nRUFIOH: hé… haha. c’est cool… ma1s ouais, ça va. vraiment, j’appréc1e le style, je suppose. fa1s tout ce que tu te sens de fa1re avec...
-      @horuss_smiletalk HORUSS: 8=D &lt; Rufioh, ton affable plasticité continue à être ta plus grande qualité. C’est le bijou de ton mohawk. Un vrai diamant bRuf. Tu as toujours été l’incarnation idéale de ton aspect, aussi plaisamment errant et volage que La Brise elle-même.
+      @horuss_smiletalk HORUSS: 8=D &lt; Rufioh, ton affable plasticité continue à être ta plus grande qualité. C’est la prunelle de ta crête. Un vrai diamant bRuf. Tu as toujours été l’incarnation idéale de ton aspect, aussi plaisamment errant et volage que La Brise elle-même.
       @rufioh_sheepish \nRUFIOH: oua1s… euh… merc1. je devra1s probablement essayer de trava1ller sur ça par contre...
-      @horuss_smiletalk HORUSS: 8=D &lt; Bien sûr. Nous faisons toujours tout notre possible pour perfectionner notre art, martelant toujours le fer pour donner une parfaite forme à la chaussure. Je sais très bien le travail que c’est.
+      @horuss_smiletalk HORUSS: 8=D &lt; Bien sûr. Nous faisons toujours tout notre possible pour perfectionner notre art, martelant toujours le méta lpour donner une parfaite forme au fer à cheval. Je sais très bien le travail que c’est.
       @rufioh_surprisetalk \nRUFIOH: non, je voula1s pas d1re, genre… être PLUS comme ça… je veux d1re… euh, désolé de t’1nterrompre… vas-y ?
-      @horuss_smiletalk HORUSS: 8=D &lt; Mon chemin fut similairement gouverné par mon aspect. Pendant tellement de temps, je me suis senti comme une feuille de papier blanche. Comme si je devais me créer à partir de rien.
+      @horuss_smiletalk HORUSS: 8=D &lt; Mon chemin fut similairement gouverné par mon aspect. Pendant tellement de temps, je me suis 100ti comme une feuille de papier blanche. Comme si je devais me créer à partir de rien.
       @horuss_smiletalk HORUSS: 8=D &lt; Et cela étant je commençai à écouter attentivement le néant au fond de moi et à rassembler les attributs de personnalités divers que j’entendais m’appeler.
       @horuss_smiletalk HORUSS: 8=D &lt; Comme assemblant une machine comple%e, je commençai à assembler une FORTE identité, ce qui bien sûr impliquait de découvrir une passion pour la mécanique elle-même.
-      @horuss_smiletalk HORUSS: 8=D &lt; Et, cela va sans dire, ce qui galopa aussi hors du vide dans mon âme fut la réalisation que je suis évidemment une noble bête à sabots, même si mon apparence physique trahit cruellement ce fait.
+      @horuss_smiletalk HORUSS: 8=D &lt; Et, cela va 100 dire, ce qui galopa aussi hors du vide dans mon âme fut la réalisation que je suis évidemment une noble bête à sabots, même si mon apparence physique trahit cruellement ce fait.
       @rufioh_surprisetalk \nRUFIOH: hé, heu… horuss… je pense...
       @rufioh_sadtalk \nRUFIOH: 1l faut qu’on parle.
       @rufioh_sad \nRUFIOH: je veux d1re, quand tu auras une m1nute…
       @horuss_smiletalk HORUSS: 8=D &lt; Et pour les révolutions solaires qui suivirent je continuai à tourner mes précises oreilles équines, mécaniquement augmentées, vers l’abysse à l’intérieur de moi, et à en découvrir plus sur moi-même. J'apprendrai que j’étais plus compliqué que j’aurais pu l’imaginer. Plus compliqué qu’aucun esprit mortel ne pourrait comprendre.
-      @horuss_hmmtalk HORUSS: 8=D &lt; Savoir que j’étais bête à sabots-kin n’était qu’effleurer la surface du pâturage. A peine écrémer le dessus du lait. J’étais tellement plus que ça.
+      @horuss_hmmtalk HORUSS: 8=D &lt; Savoir que j’étais bête à sabots-kin n’était qu’effleurer la surface du pâturage. A peine écrémer la surface du lait. J’étais tellement plus que ça.
       @rufioh_sad \nRUFIOH: je pense que peut-être on devra1t genre...
       @rufioh_sheepish \nRUFIOH: euh… vo1r d’autres...
-      @horuss_hmmtalk HORUSS: 8=D &lt; Il s’avère que mon corps était simplement l’hôte d’un système d’entités hautement complexe d’autant de sortes que tu pourrais nommer, biologiques ou mécaniques, sentientes ou non sentientes, physiques ou métaphysiques. Mon champ interne d’e%périence est partagé par les âmes d’anciennes et légendaires bêtes à muscles, un panel d’appareils tels que des électroménagers, une quantité de caractéristiques cosmologiques tel que des planètes, des systèmes d’étoiles, même plusieurs univers, et une variété de concept abstraits pour lesquels les êtres sentients n’ont pas encore formé un langage capable de les e%primer.
+      @horuss_hmmtalk HORUSS: 8=D &lt; Il s’avère que mon corps était simplement l’hôte d’un système d’entités hautement comple%e d’autant de sortes que tu pourrais imaginer, biologiques ou mécaniques, 100tientes ou non 100tientes, physiques ou métaphysiques. Mon champ interne d’e%périence est partagé par les âmes d’anciennes et légendaires bêtes à muscles, un panel de machines tels que des appareils électroménagers, une quantité de caractéristiques cosmologiques telles que des planètes, des systèmes stellaires, même plusieurs univers, et une variété de concepts abstraits pour lesquels les êtres 100tients n’ont pas encore formé un langage capable de les e%primer.
       @rufioh_sheepish \nRUFIOH: genre… le prends pas mal… on a passé de bons moments ensemble… ça a été b1en, vra1ment...
-      @rufioh_sad \nRUFIOH: mais peut-être qu’1l est temps de euh… j’sa1s pas.
+      @rufioh_sad \nRUFIOH: ma1s peut-être qu’1l est temps de euh… j’sa1s pas.
       @horuss_crossed HORUSS: 8=D &lt; Mais peu importe tout ce que j’apprenais sur moi-même, je ne trouvais jamais de moyen de devenir entier.
       @horuss_idle HORUSS: 8=D &lt; Le néant n’a jamais été rempli jusqu’à ce que tu arrives dans ma vie, Rufioh.
       @rufioh_surprise \nRUFIOH: wow mec. c’est...
       @rufioh_sadtalk \nRUFIOH: wow.
       @horuss_smiletalk HORUSS: 8=D &lt; S’il y a une seule leçon que je voudrais que les autres retiennent de mon histoire, ce serait une leçon qui est un système multiple se composant de deux leçons distinctes.
-      @horuss_smiletalk HORUSS: 8=D &lt; La première est que l’amour guérit toutes les blessures, mêmes celles constituées de l’infinie essence de néant qui imprègne ton entière e%istence et rôle en temps que héros légendaire.
-      @horuss_smiletalk HORUSS: 8=D &lt; La deuxième est que, si tu fais face à une quelconque crise d’identité, il est très important de faire de ton mieux pour manufacturer des traits ésotériques de ta personnalité et croire en eux très FORTEMENT et en parler aux autres aussi fréquemment que possible.
-      @horuss_bashful HORUSS: 8=D &lt; Je peux t’assurer à l’heure actuelle, le labeur qui constitua le fait de forger ma personnalité en une chose intéressante et compliqué fut plutôt intensif.
+      @horuss_smiletalk HORUSS: 8=D &lt; La première est que l’amour guérit toutes les blessures, mêmes celles constituées de l’infinie e100ce de néant qui imprègne ton entière e%istence et rôle en temps que héros légendaire.
+      @horuss_smiletalk HORUSS: 8=D &lt; La deuxième est que, si tu fais face à une quelconque crise d’identité, il est très important de faire de ton mieux pour manufacturer des traits ésotériques de ta personnalité et croire en eux très FORTEMENT, et en parler aux autres aussi fréquemment que possible.
+      @horuss_bashful HORUSS: 8=D &lt; Je peux te l’assurer à l’heure actuelle, le labeur qui constitua le fait de forger ma personnalité en une chose intére100te et compliquée fut plutôt intensif.
       @horuss_sweat_bashful2 HORUSS: 8=D~~ &lt; J’ai vraiment beaucoup sué dans le procédé.
       @horuss_sweat_bashful HORUSS: 8=D~~~~ &lt; (Ça c’est la sueur qui coule de mon visage.)
       @rufioh_no \nRUFIOH: hé yo… c’est...
       @rufioh_no \nRUFIOH: c’est p*ta1n d’1ntense mec !
-      @horuss_smiletalk HORUSS: 8=D &lt; Enfin bon, mes excuses pour avoir parlé autant. Tu sais que tu as ce quelque chose qui donne un second souffle aux gens.
+      @horuss_smiletalk HORUSS: 8=D &lt; Enfin bon, mes e%cuses pour avoir parlé autant. Tu sais que tu as ce quelque chose qui donne un second souffle aux gens.
       @horuss_idle HORUSS: 8=D &lt; Qu’est-ce que tu essayais de me dire ?
       @rufioh_sheepish \nRUFIOH: oh... oua1s.
       @rufioh_sheepish \nRUFIOH: euh...
@@ -160,30 +159,30 @@
       @damara_talk DAMARA: 何を壊す？彼のホーン？
       @rufioh_sheepish \nRUFIOH: hahaha ! nan... ça ne fera r1en de bon...
       @rufioh_sadtalk \nRUFIOH: je veux d1re… r1en que d’y penser je me sens comme un crét1n … 1l a été tellement sympa...
-      @rufioh_offendedtalk \nRUFIOH: ma1s m*rde ! l'éternité c’est p*ta1n de long !!! je ne sa1s pas vra1ment s1 une relat1on devra1t durer auss1 longtemps...  
+      @rufioh_offendedtalk \nRUFIOH: ma1s m*rde ! l'étern1té c’est p*ta1n de long !!! je ne sa1s pas vra1ment s1 une relat1on devra1t durer auss1 longtemps...  
       @damara_talk DAMARA: あなたのセックスライフはどうですか？
-      @rufioh_notalk \nRUFIOH: ho, heu… un peu personnel comme quest1on ? peu 1mporte c’est pas ça… 
+      @rufioh_notalk \nRUFIOH: oh, heu… un peu personnel comme quest1on ? peu 1mporte c’est pas ça… 
       @rufioh_sadtalk \nRUFIOH: je me sens coupable de le d1re… je ne su1s tout s1mplement plus 1ntéressé… tellement de rencards répét1t1fs dans le m1lléna1re… beaucoup de… d1scuss1ons de béta1l et de gros an1maux musclés et… je sa1s pas. ce ne sont pas vra1ment mes centres d'1ntérêts... 
       @rufioh_surprisetalk \nRUFIOH: peut-être qu’on n’a jama1s été vra1ment compat1ble et que je n’a1 jama1s eu le courage de le d1re ?
       @damara_sadtalk DAMARA: RUFIOH。私はあなたにこのことを告げた。毎日。永遠に。
       @rufioh_laugh \nRUFIOH: je sa1s, je sa1s… je ne t’a1 pas écoutée… je pensa1s que tu éta1s encore jalouse et  en colère !!!
       @damara_mean DAMARA: 私は怒って嫉妬した。
       @rufioh_sheepish \nRUFIOH: oua1s… je ne sa1s juste pas quo1 fa1re.
-      @rufioh_surprisetalk \nRUFIOH: 1l est gén1al… ma1s qu’est ce qu’1l est collant ! je ne sais pas comment il fa1t après tout ce temps… ce mec a de l’endurance… je su1s comme… épu1sé sent1mentalement parlant. tu me comprends poupée ? 
+      @rufioh_surprisetalk \nRUFIOH: 1l est gén1al… ma1s qu’est ce qu’1l est collant ! je ne sa1s pas comment 1l fa1t après tout ce temps… ce mec a de l’endurance… je su1s comme… épu1sé sent1mentalement parlant. tu me comprends poupée ? 
       @damara_meantalk DAMARA: はい。愛が私には死んでいる。ので、誰かがずっと前に、心臓を介して私を刺した。
       @rufioh_idle \nRUFIOH: hé, touché.
       @rufioh_sadtalk \nRUFIOH: ma1s pour de vra1… je ne veux pas blesser ses sent1ments...
       @damara_squinttalk DAMARA: あなたは私が彼を殺したいですか？再び？
       @rufioh_notalk \nRUFIOH: non !!! mon d1eu, non… ne blesse personne… ne reparlons pas de ça...
       @damara_smile DAMARA: 私が彼を誘惑したいですか？
-      @rufioh_offendedtalk \nRUFIOH:euh… je pense que s1 vous êtes genre… heu. s1 c’est vraiment entre to1 et lu1 ? je ne suis pas sûr qu’1l acceptera1t… peu 1mporte, je ne pense pas que ça m’a1derait vra1ment...
+      @rufioh_offendedtalk \nRUFIOH: heu… je pense que s1 vous êtes genre… heu. s1 c’est vra1ment entre to1 et lu1 ? je ne su1s pas sûr qu’1l acceptera1t… peu 1mporte, je ne pense pas que ça m’a1dera1t vra1ment...
       @damara_squinttalk DAMARA: 私は彼の魂を消費するために悪魔をもたらすでしょう。
-      @rufioh_notalk \nRUFIOH: quoi?  non ! je t’a1 d1s, s’1l-te-pla1t ne nourr1s personne avec l'âme de QU1CONQUE!!! 
+      @rufioh_notalk \nRUFIOH: quo1 ? non ! je t’a1 d1t, s’1l te pla1t ne nourr1s personne avec l'âme de QU1CONQUE !!! 
       @rufioh_offendedtalk \nRUFIOH: tu do1s garder tes paroles 1nsensées pour to1, damara !
       @rufioh_surprisetalk \nRUFIOH: s1 les gens sava1ent un peu les c*nner1es que tu d1s… quand tu d1s des c*nner1es 1nsensées comme quo1 tu veux le serv1r... p*ta1n !
       @rufioh_surprisetalk \nRUFIOH: ce ne sera1t pas cool… les gens vont p1quer une cr1se...
-      @rufioh_offendedtalk \nRUFIOH: b*rdel, t’as pas entendu que meenah était en train de lever une armée pour le tuer ?
-      @rufioh_sheepish \nRUFIOH: si elle pouvait entendre un peu des choses que tu m’a dis… m*rde… je ne dois pas la laisser savoir...
+      @rufioh_offendedtalk \nRUFIOH: b*rdel, t’as pas entendu que meenah éta1t en tra1n de lever une armée pour le tuer ?
+      @rufioh_sheepish \nRUFIOH: s1 elle pouva1t entendre certa1nes choses que tu m’a d1tes… m*rde… je ne do1s pas la la1sser savo1r...
       @rufioh_sad:#}:( \nRUFIOH: si elle l’apprena1t, vous 1r1ez encore vous battre...
       @damara_talk DAMARA: あなたは必然だけを遅らせる。
       @damara_squint DAMARA: 私たちの終了時間が近いです。
