@@ -290,7 +290,7 @@
           <!--  -->
           </args>
       </action>
-      <action sprite='damara' command='talk' name="C’est Mituna !”>
+      <action sprite='damara' command='talk' name="C’est Mituna !">
           <args>
           @latula_happier LATULA: h3 d4mz !!!!
           @latula_happytalk LATULA: s1 tu t4pproches de lu1, j3 t3 d3fonc3 !
