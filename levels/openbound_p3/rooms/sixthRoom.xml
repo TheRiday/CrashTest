@@ -36,8 +36,8 @@
         @karkat_talk KARKAT: OK, C'EST JUSTE STUPIDE LA.
         @dave_idle DAVE: quoi
         @karkat_talk KARKAT: JE SUIS ENDORMI, MAIS JE SUPPOSE QUE LE METEORE EST PHYSIQUEMENT EN TRAIN DE PASSER A TRAVERS LA BULLE DANS LAQUELLE JE REVE ?
-        @karkat_talk KARKAT: ET MAINTENANT MON "FANTOME ONIRIQUE", OU QUELQUE SOIT LA PUTAIN DE FACON DONT EST CENSE S'APPELER CETTE VERSION DE SOI-MEME, EST AU MEME ENDROIT PHYSIQUE QUE MON CORPS ENDORMI.
-        @karkat_yell KARKAT: JE SUIS JUSTE ICI EN TRAIN DE ME REGARDER DORMIR SUR UNE PILE DE KLAXONS. ON A ATTEINT UN SEUIL CRITIQUE D'IDIOCIE DE SAILLIE ENGOURDIE.
+        @karkat_talk KARKAT: ET MAINTENANT MON "FANTOME ONIRIQUE", OU QUELQUE SOIT LA PUTAIN DE FACON DONT EST CENSEE S'APPELER CETTE VERSION DE SOI-MEME, EST AU MEME ENDROIT PHYSIQUE QUE MON CORPS ENDORMI.
+        @karkat_yell KARKAT: JE SUIS JUSTE ICI EN TRAIN DE ME REGARDER DORMIR SUR UNE PILE DE KLAXONS. ON A ATTEINT UN SEUIL CRITIQUE D'IDIOTIE DE SAILLIE ENGOURDIE.
         @dave_huh DAVE: hein
         @karkat_yell KARKAT: DAILLEURS COMMENT EST-CE QU'ON APPELLE CETTE VERSION ENDORMIE DE SOI-MEME ? CA PEUT PAS ETRE DOUBLE ONIRIQUE VU QUE CA EXISTE DEJA. C’EST LA VERSION DE TOI-MEME SUR DERSE OU PROSPIT.
         @karkat_yell KARKAT: MAIS C'ETAIT PLUTOT COMME UNE VERSION PHYSIQUE ET REELLE DE SOI, QUI A FINALEMENT AUSSI SERVI DE VIE DE SECOURS. C'EST QUELQUE CHOSE DE COMPLETEMENT DIFFERENT, COMME UN HOLOGRAMME BIZARRE.
@@ -47,15 +47,15 @@
         @dave_huh DAVE: quoi
         @karkat_eyeroll1 KARKAT: DONNE MOI JUSTE UN PETIT COUP.
         @dave_mad DAVE: non
-        @karkat_talk KARKAT: SOIT PAS COMME CA, GRANDIS UN PEU ET TOUCHE MOI. EFFLEURE PEUT-ETRE JUSTE MA JOUE GENTIMENT AVEC LE DOS DE TA MAIN. QUELQUE CHOSE SANS AMBIGUITE COMME CA.
+        @karkat_talk KARKAT: SOIS PAS COMME CA, GRANDIS UN PEU ET TOUCHE MOI. EFFLEURE PEUT-ETRE JUSTE MA JOUE GENTIMENT AVEC LE DOS DE TA MAIN. QUELQUE CHOSE SANS AMBIGUITE COMME CA.
         @dave_mad DAVE: non va te faire foutre
-        @dave_madtalk DAVE: je ne vais pas caresser ton hologramme onirique
-        @karkat_facepalm KARKAT: TU AS UN ESPRIT TRAGIQUEMENT PEU CURIEUX, DAVE. CEST POUR LA SCIENCE. SI LA SCIENCE NE DEPPENDAIT QUE DE TOI, L'HUMANITE N'AURAIT JAMAIS MEME RIEN QU'APPROCHE SON NIVEAU PATHETIQUE QUELLE AVAIT TOUT JUSTE REUSSI A ATTEINDRE.
+        @dave_madtalk DAVE: je vais pas caresser ton hologramme onirique
+        @karkat_facepalm KARKAT: TU AS UN ESPRIT TRAGIQUEMENT PEU CURIEUX, DAVE. CEST POUR LA SCIENCE. SI LA SCIENCE NE DEPENDAIT QUE DE TOI, L'HUMANITE N'AURAIT JAMAIS MEME RIEN QU'APPROCHE LE NIVEAU PATHETIQUE QU’ELLE AVAIT TOUT JUSTE REUSSI A ATTEINDRE.
         @dave_talk DAVE: tas lair vraiment fatigue mec
         @dave_talk DAVE: ton fantome onirique devrait aller se blottir contre ton sac de viande endormi sur la pile de klaxons et essayer de pioncer un coup
         @karkat_shout KARKAT: OUAIS, ET BIEN PEUT-ETRE QUE JE VAIS JUSTEMENT FAIRE CA, CONNARD !
         @dave_idle DAVE: ok
-        @dave_idle DAVE: vasy
+        @dave_idle DAVE: vas y
         @karkat_sullen KARKAT: NON. PAS PENDANT QUE TU REGARDES.
         @dave_idle DAVE: mec
         @dave_talk DAVE: nos conversations peuvent etre si embarrassantes
@@ -79,7 +79,7 @@
             @gamzee_idle GAMZEE: NON.
             @gamzee_idle GAMZEE: comme si j’allais laisser a cette salope lumineuse et a sa tronconneuse ne serait-ce qu’une place dans ma vie et mes quadrants.
             @gamzee_idle GAMZEE: EN PLUS J’AI DEJA UN AUTRE FILS DE PUTE DANS MON QUADRANT NOIR.
-            @gamzee_idle GAMZEE: j’ai flirte avec quelqu’un depuis la putain d’obscurite. c’est devenu plutot sale entre nous. on a fait la putain d'experience de ce putain de miracle appele l’amour-haine. 
+            @gamzee_idle GAMZEE: j’ai flirte avec quelqu’un dans l’ombre. c’est devenu plutot sale entre nous. on a fait la putain d'experience de ce putain de miracle appele l’amour-haine. 
             @rose_concern ROSE: Attends, vraiment ?
             @rose_annoyed ROSE: Qui ?
             @gamzee_idle GAMZEE: :o)
@@ -111,7 +111,7 @@
             @rose_talk ROSE: Vos dynamiques sociales commencent à devenir réellement compliquées à partir du moment où vous remplissez vos quadrants, n’est-ce pas ?
             @gamzee_idle GAMZEE: PUTAIN, OUAIS, C’EST PUTAIN DE CA.
             @rose_talk ROSE: Ne t’en fais pas, ton secret est en sécurité avec moi.
-            @rose_talk ROSE: Allez, psss. Maintenant retourne dans le système de ventilation avant que quelqu’un ne te voit
+            @rose_talk ROSE: Allez, psss. Maintenant retourne dans le système de ventilation avant que quelqu’un ne te voit.
             <!--  -->
             </args>
       </action>
@@ -171,32 +171,32 @@
     </sprite>
 
     <sprite name='sleepKat' x='602' y='589' width='224' height='100'>
-      <action sprite='kanaya' command='talk' name='Examine snoozing Karkat.'>
+      <action sprite='kanaya' command='talk' name='Examine le Karkat endormi.'>
             <args>
             @meenah_idle MEENAH: !!!!!
-            @! Hey, it's your newly recruited Grand Threshecutioner! Looks like he hasn't woken up from the same nap he was having last time you talked to him. The guy must have been really tired.
-            @! Why's he sleeping in this massive pile of horns? That can't be too comfortable. Maybe you should wake him up. Then as long as he's awake, might as well see if he's ready to pack his bags and head off to war.
-            @! Hold on. Maryam is eying you suspiciously. She isn't on to your plan, is she? How could she know? This girl is really cramping your style. You'd try to shake her loose, but as a rainbow drinker she seems to have an absolutely insane fastness attribute.
-            @kanaya2_talk KANAYA: Whatever Youre Thinking Dont Even Try It
-            @meenah_wut MEENAH: what!!!
-            @meenah_wut2 MEENAH: wasnt thinkin nofin
-            @kanaya2_talk KANAYA: Lets Keep Moving
+            @! Hé, c'est votre tout fraichement recruté Grand Tueurexécuteur ! On dirait qu'il ne s'est toujours pas réveillé de sa sieste de la dernière fois. Le mec devait vraiment être fatigué.
+            @! Pourquoi est-ce qu'il dort dans cette énorme pile de cornes ? Ça ne doit pas être agréable. Vous devriez peut-être le réveiller. Et puis tant qu'il est réveillé, vous pourriez aussi voir s'il est prêt à faire ses bagages et se rendre à la guerre.
+            @! Un instant. Maryam vous regarde de manière suspecte. Elle n'est pas au courant de votre plan, si ? Comment pourrait-elle savoir ? Cette fille ne fait que vous gêner. Vous tenteriez bien de la semer, mais en tant que buveuse arc-en-ciel, elle semble avoir un avantage de rapidité incroyable.
+            @kanaya2_talk KANAYA: Peu Importe Ce Que Tu Penses Nessaye Même Pas
+            @meenah_wut MEENAH: quoi !!!
+            @meenah_wut2 MEENAH: je poissonais a rien
+            @kanaya2_talk KANAYA: Continuons Notre Chemin
             <!--  -->
             </args>
       </action>
-      <action sprite='rose' command='talk' name='Examine snoozing Karkat.'>
+      <action sprite='rose' command='talk' name='Examine le Karkat endormi.'>
             <args>
-            @! "ZZZZZZZZZZZZZ," Karkat said from atop the towering heap of hilarious clown accessories.
+            @! "ZZZZZZZZZZZZZZZZZZ", dit Karkat depuis le sommet de son tas d'hilarants accessoires de clowns.
             <!--  -->
             </args>
       </action>
-      <action sprite='dave' command='talk' name='Examine snoozing Karkat.'>
+      <action sprite='dave' command='talk' name='Examine le Karkat endormi.'>
             <args>
-            @! So many horns. You've always wondered what the elusive juggalo troll even needs with so many horns? You think he may have some sort of problem. Also what is with trolls and their weird tendency to be found sleeping in horn piles? You can't even imagine a less comfortable place to nap. There are some things you will never understand.
+            @! Tellement de cornes. Vous vous êtes toujours demandée pourquoi l'évasif troll juggalo avait besoin d’autant de cornes. Vous pensez qu'il a sûrement quelques problèmes. Et puis, c'est quoi le truc avec les trolls et leur tendance bizarre à être trouvé en train de dormir dans des piles de cornes ? Vous ne pouvez même pas imaginer un pire endroit pour dormir. Il y a certaines choses que vous ne comprendrez jamais.
             <!--  -->
             </args>
       </action>
-      <action sprite='damara' command='talk' name='What have we here?'>
+      <action sprite='damara' command='talk' name='Qu'avons nous là ?'>
             <args>
             @damara_smilemean DAMARA: ..............
             <!--  -->
