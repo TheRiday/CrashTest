@@ -108,41 +108,41 @@
       <action class='andrewTalk1'/>
     </sprite>
 
-    <sprite class='chest7' name='fifthRoomChest15' x='440' y='540'>
-      <action command='openChest' name='Open.'>
+ <sprite class='chest7' name='fifthRoomChest15' x='440' y='540'>
+      <action command='openChest' name='Ouvre.'>
         <args>fifthRoomChest15,item15,
-        @! You got a BROKEN 8 BALL!
-      @! You remember seeing a bunch of these earlier. What was the context again? You just had so many long weird conversations it's all kind of a jumble now.
-      @! You feel unlucky just looking at this thing. You toss it in the bushes.
+        @! Vous trouvez une BOULE NOIRE MAGIQUE BRISÉE !
+      @! Vous vous souvenez en avoir vu plus tôt. Quel était le contexte déjà ? Vous avez eu tellement de longues conversations bizarres, c’est un peu fouilli pour le moment.
+      @! Vous vous sentez malchanceuse rien qu’en regardant cette chose. Vous la jetez dans les buissons.
         </args>
       </action>
     </sprite>
-
+	  
     <sprite class='chest7' name='fifthRoomChest16' x='672' y='756'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Ouvre.'>
         <args>fifthRoomChest16,item16,
-         @!:#pshoooes You got a pair of ROCKET BOOTS!
-      @! What would a ghost need with rocket boots, anyway? Can't all ghosts fly?
-      @! Or maybe that's just dead god tiers, who can generally fly anyway. Or dead dream selves? Actually you don't know what the flying rules are and you don't really care.
+         @!:#pchooooooooo Vous trouvez une paire de BOTTES FUSÉES !
+      @! Qu’est-ce qu’un fantôme pourrait bien faire avec des bottes fusées ? Est-ce que tous les fantômes ne peuvent pas voler ?
+      @! Ou peut-être que ce sont juste les tiers divins morts qui peuvent voler dans tous les cas. Ou les doubles oniriques morts ? En fait, vous ne savez pas quelles sont les règles pour le vol et vous vous en fichez un peu. 
         </args>
       </action>
     </sprite>
 
     <sprite class='chest7' name='fifthRoomChest17' x='608' y='756'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Ouvre.'>
         <args>fifthRoomChest17,item17,
-          @! You got a HEAP OF PRICELESS TREASURE!
-      @! Huh. Actual treasure, inside a treasure chest.
-      @! Now you've seen everything.
+          @! Vous trouvez un AMAS DE TRÉSORS INESTIMABLES ! 
+      @! Heu. De véritables trésors à l’intérieur d’un coffre au trésor. 
+      @! Vous avez tout vu.
         </args>
       </action>
     </sprite>
 
     <sprite class='chest7' name='fifthRoomChest18' x='828' y='1532'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Ouvre.'>
         <args>fifthRoomChest18,item18,
-           @! You got the FLUORITE OCTET!
-      @!:#:::;) Feeling lucky, punk????????
+           @! Vous trouvez l’OCTET FLUORITE !
+      @!:#:::;) Tu te sens chanceuse, punkette ????????
         </args>
       </action>
     </sprite>
