@@ -1,6 +1,6 @@
 <sburb>
     <classes>
-<action sprite='meenah' class='expoTalk1' command='talk' name='Status report.'>
+<action sprite='meenah' class='expoTalk1' command='talk' name='Au rapport'>
       <args>
     @meenah_annoyed:#thon MEENAH: bon
       @meenah_annoyedtalk MEENAH: je suis un echec total
@@ -12,22 +12,22 @@
       @meenah_talk MEENAH: tas lair plus hypee quavant pour mon plan darmee
     @meenah_talk MEENAH: quest ce que ce changement de thon
       @aranea_happytalk ARANEA: Je me suis mise à penser que ce que tu fais est peut-être important. Juste un ressenti.
-      @aranea_happytalk:#Ou,-les-dents-d’une-fourche,-si-tu-préfères. ARANEA: Cela pourrait être aussi critique que ma quête pour trouver le cheru8. Je pense que tout ceci pourrait être relié. Comme les pieds d’un ta8ouret qui ne tiendrait pas tant qu’ils ne seraient pas tous mis en place.
-      @meenah_talk MEENAH: comment se passe ta quete de cherub dailleurs
+      @aranea_happytalk:#Ou,-les-dents-d’une-fourche,-si-tu-préfères. ARANEA: Cela pourrait être aussi critique que ma quête pour trouver la chéru8in. Je pense que tout ceci pourrait être relié. Comme les pieds d’un ta8ouret qui ne tiendrait pas tant qu’ils ne seraient pas tous mis en place.
+      @meenah_talk MEENAH: comment se passe ta quete de cherubin dailleurs
       @aranea_think ARANEA: Euh... ok.
       @aranea_think ARANEA: J’ai encore été un peu…….. préoccupée.
       @meenah_idle MEENAH: meuf pitie
       @meenah_talk MEENAH: tas traine ton stand a parlote un peu partout pour saouler des gens avec des faits
       @aranea_surprised ARANEA: C’est ma dernière session, juré !!!!!!!!
-      @aranea_talk ARANEA: Après ça je me suis promis que je mettrais le stand d’exposition à la retraite pour de bon. Peut-être que je le mettrai en vente, et j’essaierai de récupérer les pertes su8stantielles nécessaires à son opération.
+      @aranea_talk ARANEA: Après ça je me suis promis que je mettrais le stand d’exposition à la retraite pour de 8on. Peut-être que je le mettrai en vente, et j’essaierai de récupérer les pertes su8stantielles nécessaires à son uilisation.
      @meenah_talk MEENAH: aranea on est tellement des echecs ensemble
       @meenah_talk MEENAH: pourquoi est ce quon est un tel couple de superbes et sexys echecs a tout ce quon fait
       @aranea_happytalk ARANEA: Je ne sais pas, mais on ne peut pas a8andonner !
-      @aranea_happytalk ARANEA: Une fois que j’aurai fermé 8outique, je redou8lerai d’efforts pour trouver ce cheru8.
+      @aranea_happytalk ARANEA: Une fois que j’aurai fermé 8outique, je redou8lerai d’efforts pour trouver cette chéru8in.
       @aranea_happytalk ARANEA: La première chose à faire sera de trouver son nom. Il a été si désespérément élusif, presque comme si quelqu’un avait pris soin d’en effacer la moindre trace ou référence à travers tout l’espace paradoxal, que ce soit en souvenirs ou dans la réalité.
       @meenah_talk MEENAH: ok alors quest ce que tu dis de ca
       @meenah_talk MEENAH: pendant que jessaie de pecher des recrues je garderai loeil ouvert au cas ou je tomberais sur des indices a propos delle
-      @meenah_talk MEENAH: et pendant que tessaies de chasser du cherub peut etre que tu peux essayer de voir si quelquun veut servir la ptite condesce dans sa nouvelle armee imperiale
+      @meenah_talk MEENAH: et pendant que tessaies de chasser du cherubin peut etre que tu peux essayer de voir si quelquun veut servir la ptite condesce dans sa nouvelle armee imperiale
       @meenah_idle MEENAH: ca sera
       @meenah_happy MEENAH: du travail dequipe
       @aranea_happier ARANEA: Ça a l’air d’un super plan !
@@ -39,13 +39,13 @@
 
 <action sprite='meenah' class='expoTalk2' command='talk' name='Parle-moi de Rufioh Nitram.'>
       <args>
-      @aranea_happytalk ARANEA: Le Rou8lard du Souffle a toujours été un mem8re populaire dans notre groupe. Pro8a8lement le plus populaire, je dirais. Une sorte d'anti-moi, à cet égard. Toujours le destinataire des sollicitations romantiques quelque soit leur nature. Une sorte d'anti-Cronus, à cet égard.
+      @aranea_happytalk ARANEA: Le Rou8lard du Souffle a toujours été un mem8re populaire dans notre groupe. Pro8a8lement le plus populaire, je dirais. Une sorte d'anti-moi, à cet égard. Toujours le destinataire des sollicitations romantiques quelle que soit leur nature. Une sorte d'anti-Cronus, à cet égard.
       @meenah_creepylaugh MEENAH: awh ouais que ce pervers dampora aille bruler en enfer tape men 5
-      @aranea_happytalk ARANEA: Effectivement. Sa mutation a cependant fait de lui un exclu. Pour éviter l'attention indésira8le que lui apportaient ses ailes, il a trouvé refuge dans la forêt, parmis ceux qui acceptaient ses différences et qui lui apprirent à s'en servir.
-      @aranea_happytalk ARANEA: Les Wea8oos Perdus étaient une guilde de jeunes trolls otakus vivant dans les ar8res, qui appréciaient particulièrement les coups de poings, la voltige, et diverses formes de théâtre oriental exotique. Fléau des ennemis des pitreries, désespoir des classes aquatiques qui...
+      @aranea_happytalk ARANEA: Effectivement. Sa mutation a cependant fait de lui un exclu. Pour éviter l'attention indésira8le que lui apportaient ses ailes, il a trouvé refuge dans la forêt, parmi ceux qui acceptaient ses différences et qui lui apprirent à s'en servir.
+      @aranea_happytalk ARANEA: Les Wea8oos Perdus étaient une guilde de jeunes trolls otakus vivant dans les ar8res, qui appréciaient particulièrement les coups de poings, la voltige, et diverses formes de cinéma oriental exotique. Fléau des ennemis des pitreries, désespoir des classes aquatiques qui...
       @meenah_fish MEENAH: NOP-E
       @meenah_fishtalk MEENAH: J-E N-ECOUTILL-E PAS CA LA LA LA GLUB GLUB GLUB
-      @aranea_annoyedtalk ARANEA: #77003c (GLUB GLUB GLUB GLUB)## des siècles de querelles avec les tri8ues Kemonomimi #77003c (GLUB GLUB GLUB LA LA LA LA GLUB GLUB GLUB)## festivals de yaoi avec des torches cérémoniales #77003c (LA LA LA LA GLUB GLUB LA LA LA)## vacillations des quadrants des tsundere #77003c (GLUUUUUB GLUBGLUBGLUBGLUB GLUUUUUUUUUB)## planta une daguelance pour contester la dominance du haut seme de la guilde #77003c (NON NON NON NON NON NON NON NON NON NON)## a finalement servi en tant que shonen sur l'île de Shitsuji.
+      @aranea_annoyedtalk ARANEA: #77003c (GLUB GLUB GLUB GLUB)## des siècles de querelles avec les tri8us Kemonomimi #77003c (GLUB GLUB GLUB LA LA LA LA GLUB GLUB GLUB)## festivals de yaoi avec des torches cérémoniales #77003c (LA LA LA LA GLUB GLUB LA LA LA)## vacillations des quadrants des tsundere #77003c (GLUUUUUB GLUBGLUBGLUBGLUB GLUUUUUUUUUB)## planta une daguelance pour contester la dominance du haut seme de la guilde #77003c (NON NON NON NON NON NON NON NON NON NON)## a finalement été traité comme un shonen sur l'île de Shitsuji.
       @meenah_annoyed MEENAH: hey serket
       @meenah_annoyedtalk MEENAH: combien dois je te payer pour que tu nouvres plus jamais ta gueule a propos de cette merde
       @aranea_happier ARANEA: Pour une telle demande, je n'aurai 8esoin que de la grande statue en or de ton palais. Je pense que tu sais de laquelle je parle.
@@ -56,49 +56,49 @@
 </action>
 
 
-<action sprite='meenah' class='expoTalk3' command='talk' name='Parle moi de Horuss Zahhak.'>
+<action sprite='meenah' class='expoTalk3' command='talk' name='Parle-moi de Horuss Zahhak.'>
       <args>
-      @aranea_happytalk ARANEA: Le Page du Vide était un maître de la mécanique autodidacte, un avide mécène des 8eaux arts, un 8ody 8uilder passionné, arché, collecteur d’am8roise et un artisan de vapeur. Un poète, un érudit, un guerrier, un amant, il était tout ce que requérait sa caste et plus encore. Un vrai troll de la Renaissance. Son nom veut dire “Celui Qui Suit Les 8êtes À Muscles.”
-      @aranea_happytalk ARANEA: Mais toutes ses compétences furent durement gagnées, construites à partir de rien comme son aspect l’impliquait, avançant au rythme lent de sa classe. En dépit de tout ce travail qu’il avait mis à faire quelque chose de sa personne, sa valeur s’élevait finalement à très peu. Responsable ni de grands actes d’héroïsmes ni d’infamie, il fut juste une autre pièce à bouger sur le plateau. L’aspect qui régnait sur sa vie conspira toujours pour étouffer son intérêt.
-      @aranea_happytalk ARANEA: Le Néant est facilement l’aspect le plus mystérieux, celui qui défie intrinsèquement toute rationalité. Cela le rend particulièrement fascinant, et tout aussi frustrant, pour les joueurs de Lumière comme moi. Illuminer le rien même est futile. Car connaître véritablement le néant est, paradoxalement, le dénuer de sa nature !
+      @aranea_happytalk ARANEA: Le Page du Vide était un maître de la mécanique autodidacte, un avide mécène des 8eaux arts, un 8ody 8uilder passionné, archer, collecteur d’am8roisie et un artisan de la vapeur. Un poète, un érudit, un guerrier, un amant, il était tout ce que requérait sa caste et plus encore. Un vrai troll de la Renaissance. Son nom veut dire “Celui Qui Suit Les 8êtes À Muscles.”
+      @aranea_happytalk ARANEA: Mais toutes ses compétences furent durement gagnées, construites à partir de rien comme son aspect l’impliquait, avançant au rythme lent de sa classe. En dépit de tout ce travail qu’il avait mis à faire quelque chose de sa personne, sa valeur s’élevait finalement à très peu. Responsa8le ni de grands actes d’héroïsmes ni d’infamie, il fut juste une autre pièce à 8ouger sur le plateau. L’aspect qui régnait sur sa vie conspira toujours pour étouffer son intérêt.
+      @aranea_happytalk ARANEA: Le Néant est facilement l’aspect le plus mystérieux, celui qui défie intrinsèquement toute rationalité. Cela le rend particulièrement fascinant, et tout aussi frustrant, pour les joueurs de la Lumière comme moi. Illuminer le rien même est futile. Car connaître vérita8lement le néant est, paradoxalement, le dénuer de sa nature !
       @aranea_happytalk ARANEA: Le rôle du joueur du vide est d’em8rasser le rien d’une manière ou d’une autre, de devenir un avec celui-ci. Et pourtant, en totale contradiction avec ça, pour se servir du pouvoir qu’il accorde et servir un rôle important, il faut trouver une manière de le surmonter ! De voir le potentiel infini du vide. De trouver tout dans le rien, et de l’amener à être.
-    @aranea_annoyed #77003c MEENAH: zzzzzzzzzzz##
+      @aranea_annoyed #77003c MEENAH: zzzzzzzzzzz##
       @aranea_angrytalk ARANEA: Hé !!!!!!!!
       @meenah_wut2 MEENAH: quoi
-      @aranea_annoyedtalk ARANEA: Ceci est un cas parfait, cela dit, en ce qui concerne le chemin du joueur du néant. Tu as été si résistante au fait de donner un impact à son histoire sur quoi que ce soit, tu t’es endormie et n’a pas entendu un mot.
+      @aranea_annoyedtalk ARANEA: Ceci est un cas parfait, cela dit, en ce qui concerne le chemin du joueur du néant. Son histoire est si résistante à l’idée de laisser un impact, tu t’es endormie et n’a pas entendu un mot.
       @meenah_annoyed MEENAH: ouais cest cool
       @meenah_annoyed MEENAH: OU -EST MON ARG-ENT
-      @aranea_facepalmtalk ARANEA: Tu n’y as pas le droit. Tu as annulé la transaction dans ton sommeil.
+      @aranea_facepalmtalk ARANEA: Tu n’y as pas droit. Tu as annulé la transaction dans ton sommeil.
       @meenah_wut MEENAH: eh bah
       <!--  -->
       </args>
 </action>
 
 
-<action sprite='meenah' class='expoTalk4' command='talk' name='Parle moi de Damara Megido.'>
+<action sprite='meenah' class='expoTalk4' command='talk' name='Parle-moi de Damara Megido.'>
       <args>
-      @aranea_happytalk ARANEA: La Sorcière du Temps n’a pas toujours été la plus grande fauteuse de trouble du groupe. Si tu t’en rappelles, tu as porté cette tiare pendant un long moment. ::::)
+      @aranea_happytalk ARANEA: La Sorcière du Temps n’a pas toujours été la plus grande fauteuse de trou8les du groupe. Si tu t’en rappelles, tu as porté cette tiare pendant un long moment. ::::)
       @meenah_annoyed MEENAH: ouais ouais
       @aranea_happytalk ARANEA: Elle était autrefois aussi docile qu’on peut l’être. Originaire des provinces de l’Est, elle migra à travers les mers et s’installa près de la forêt qui a8ritait la guilde de Rufioh. Ces deux-là ressentirent vite de l’affection l’un envers l’autre, et partagèrent 8eaucoup de centres d’intérêts !
       @aranea_happytalk ARANEA: Il commença secrètement à voir quelqu’un d’autre, croyant qu’elle n’en savait rien. Mais elle avait toujours suspecté son infidélité, et sa souffrance grandit au fil du temps. Mais sa tristesse ne devint jamais vraiment de la rage ou de la malveillance. Pas jusqu’à ce que tu… t’impliques.
       @meenah_annoyedtalk MEENAH: ugh est ce quon doit vraiment refaire ca
       @aranea_happytalk ARANEA: Si tu veux o8tenir ton argent, alors oui !
       @meenah_annoyed MEENAH: bleuh daccord
-   @aranea_happytalk ARANEA: Après que nous ayons commencé notre jeu, tu déterminas vite que gagner avec notre équipe allait être une 8ataille ardue. Tout le monde était si préoccupé avec ses pro8lèmes interpersonnels, et personne ne sem8lait paré à gérer des combats majeurs. Ça te rappelle quelque chose ?
+      @aranea_happytalk ARANEA: Après que nous ayons commencé notre jeu, tu déterminas vite que gagner avec notre équipe allait être une 8ataille ardue. Tout le monde était si préoccupé avec ses pro8lèmes interpersonnels, et personne ne sem8lait paré à gérer des com8ats majeurs. Ça te rappelle quelque chose ?
       @meenah_talk MEENAH: le deja vu ca craint serk
-      @aranea_happytalk ARANEA: Alors tu as fait de ton mieux pour énerver l’équipe de toutes les manières possibles. Insistant sur les insécurités des gens, les hostilités enterrées, les rivalités qui couvaient… provoquant autant de confrontations que tu le pouvais. Ta théorie était que si tu augmentais l’état d’agression de tout le monde, ils seraient mieux équipés pour jouer au jeu. Et tu avais en quelque sorte raison là-dessus ! Mais les Alterniens seraient ceux qui le prouveraient. Pas notre groupe, malheureusement.
+      @aranea_happytalk ARANEA: Alors tu as fait de ton mieux pour énerver l’équipe de toutes les manières possi8les. Insistant sur les insécurités des gens, les hostilités enterrées, les rivalités qui couvaient… provoquant autant de confrontations que tu le pouvais. Ta théorie était que si tu augmentais l’état d’agression de tout le monde, ils seraient mieux équipés pour jouer au jeu. Et tu avais en quelque sorte raison là-dessus ! Mais les Alterniens seraient ceux qui le prouveraient. Pas notre groupe, malheureusement.
       @aranea_happytalk ARANEA: La pauvre fille qui fut le plus touchée par tes tactiques de harcèlement fut Damara Megido. Tu as insisté sur la trahison de son moitiesprit, la faisant se sentir encore plus affreuse, tout en le poussant encore plus dans les 8ras de son rival, jusqu’à ce qu’elle craque, tout simplement. Elle l’attaqua, le paralysant jusqu’à son cou. Tu o8tins finalement la confrontation agressive que tu cherchais. Malheureusement, tu déchaînas quelque chose à quoi tu n’étais pas préparée, et tu dus la gérer toi-même. Après un long duel sanglant, elle te tua. Et tu serais restée morte si je n’avais pas été là !
-      @aranea_happytalk ARANEA: Tu ne m’écoutais jamais. Tu te contentais de continuer à em8êter et enquiquiner et harceler jusqu’à ce que tu finisses par en payer le prix, et j’ai du te sortir de là.
+      @aranea_happytalk ARANEA: Tu ne m’écoutais jamais. Tu te contentais de continuer à em8êter et enquiquiner et harceler jusqu’à ce que tu finisses par en payer le prix, et j’ai dû te sortir de là.
       @meenah_wut2 MEENAH: (argh a quel point je veux ce stupide argent…)
-      @aranea_happytalk ARANEA: Damara est instable depuis lors. En augmentant ses tendances violentes, au lieu de devenir un atout dans le jeu, tu en as fait un électron libre, se montrant ar8itrairement à des moments clés à travers le continuum pour nous sa8oter.
-@aranea_happytalk ARANEA: Son changement de personnalité fut si radical, j’ai eu du mal à imaginer que tes incitations en étaient la seule cause. Il a toujours semblé que d’autres forces étaient en jeu, comme si ses actes, apparemment incohérents, faisaient partis d’un inscrutable projet. Bien sûr, ça n’aide pas qu’il soit si difficile de la comprendre même dans les bons jours.
+      @aranea_happytalk ARANEA: Damara est insta8le depuis lors. En augmentant ses tendances violentes, au lieu de devenir un atout dans le jeu, tu en as fait un électron li8re, se montrant ar8itrairement à des moments clés à travers le continuum pour nous sa8oter.
+      @aranea_happytalk ARANEA: Son changement de personnalité fut si radical, j’ai eu du mal à imaginer que tes incitations en étaient la seule cause. Il a toujours sem8lé que d’autres forces étaient en jeu, comme si ses actes, apparemment incohérents, faisaient partie d’un insonda8le projet. 8ien sûr, ça n’aide pas qu’il soit si difficile de la comprendre même dans les 8ons jours.
       @aranea_happytalk ARANEA: Étrangement, la seule fois où elle fut une aide fervente fut lorsque nous nous préparions à initier le Scratch. Et c’est une 8onne chose qu’elle l’ait été, car je ne suis pas sûr que quiconque d’autre aurait eu la capacité de faire cette quantité de dégâts au Mouvement Cardinal et de li8érer son énergie.
       @aranea_happytalk ARANEA: La joie avec laquelle elle se soumettait à notre plan était presque un peu inquiétante. Qu’est ce que Rufioh a dit qu’elle avait dit ? Quelque chose comme quoi nous allions tous finalement avoir ce que nous méritions...
       @aranea_happytalk ARANEA: À ce moment là, je pensais que c’était glaçant. Mais en vérité il y a deux manières de voir ça. L’une d’entre elle est comment le Scratch a redémarré notre monde à un état de pur chaos, culminant à l’annihilation de notre univers. Mais d’un autre côté, on a tous eu la chance de vivre nos plus folles fantaisies en tant qu’adultes sur Alternia !
       @aranea_happytalk ARANEA: Ou au moins, je suis sûre que toi et moi l’avons eue. Et je ne doute pas qu’elle a la même impression.
       @meenah_idle MEENAH: bon
       @meenah_idle MEENAH: cest fini ?
-      @aranea_happier ARANEA: C’est bon !
+      @aranea_happier ARANEA: C’est 8on !
       @meenah_talk MEENAH: les 5 bucks les plus chiants que je me sois jamais faits
       <!--  -->
       </args>
@@ -112,9 +112,9 @@
       @! Je ne te laisserai pas répondre. Tu vas juste encore dire quelque chose de totalement grossier en japonais et mettre tout le monde mal à l’aise.
       @damara_lewd #000000 WOW ÉCRASE !##
       @! Et bien. Je suppose que c’est ce qui arrive quand on n’a pas reçu d’éducation de la part d’un gardien descent. Ou au moins un qui n’est pas un trou du cul d’un mètre vingt avec des bretelles, et qui est une sorte d’oncle poupesque flippant.
-      @! Écoute, posons nous tranquillement ici. Plus de shenanigans japonais obscènes, compris ?? Tu l’as peut-être remarqué, mais j’ai récemment fait l’acquisition d’une nouvelle franchise.
+      @! Écoute, posons-nous tranquillement ici. Plus de magouilles japonaises obscènes, compris ?? Tu l’as peut-être remarqué, mais j’ai récemment fait l’acquisition d’une nouvelle franchise.
       @! Ça m’a coûté une fortune ! J’ai dû mettre en gage un anneau ayant appartenu à un pauvre type juste pour faire l’acompte.
-      @! Mais je devrais être capable de récupérer les pertes, si j’ajuste un peu le modèle économique. Ecoute moi bien. À la place de donner de l’argent aux gens pour qu’ils écoutent ma merde, je pense que je devrais en fait commencer à les FAIRE PAYER pour le service. C’est fou, je sais, n’est-ce pas ?
+      @! Mais je devrais être capable de récupérer les pertes, si j’ajuste un peu le modèle économique. Écoute-moi bien. À la place de donner de l’argent aux gens pour qu’ils écoutent ma merde, je pense que je devrais en fait commencer à les FAIRE PAYER pour le service. C’est fou, je sais, n’est-ce pas ?
       @! Je pensais diviser mes offres en une série d’explications à un prix exorbitant appelées PACKS D’EXPOSITION, dans lesquels je pourrais...
       @damara_fu3 DAMARA:
       @! D’aaaaaaccord, je suppose que ça ne te convient pas ? 
@@ -124,21 +124,21 @@
       @! Bon d’accord. Je te donnerai ces explications gratuitement. On dira que c’est un investissement pour attirer les clients. Tu en parleras à tes amis, peut-être qu’ils en parleront aussi aux leurs, et puis les pièces commenceront à tinter.
       @! Oui ? Oui ???
       @damara_huh DAMARA:
-      @! Oh et puis merde. Dis moi juste ce que tu veux savoir.
-      @! Par contre, ce seront des histoires plutôt merdiques ! J’suis pas un héro de la Lumière.
+      @! Oh et puis merde. Dis-moi juste ce que tu veux savoir.
+      @! Par contre, ce seront des histoires plutôt merdiques ! J’suis pas un héros de la Lumière.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk2' command='talk' name='Hey, avant que nous ne commencions...'>
+<action sprite='damara' class='expo2Talk2' command='talk' name='Hé, avant que nous ne commencions...'>
       <args>
       @! Tu es arrivé ici avec Damara avant d’y arriver avec Meenah ? Si c’est le cas, je pense que je vais péter un cable. C’est une manière absurde d’avancer dans le jeu. Arrête tout de suite de me parler et reviens en tant que Meenah.
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk3' command='talk' name='Parle moi de Damara Megido.'>
+<action sprite='damara' class='expo2Talk3' command='talk' name='Parle-moi de Damara Megido.'>
       <args>
-      @! Tu veux que je te parle de TOI ??? Tu parles d’une personne imbue d’elle même... Mais d’accord.
+      @! Tu veux que je te parle de TOI ??? Tu parles d’une personne imbue d’elle-même... Mais d’accord.
       @! Tu dis des trucs en japonais, et quand les gens qui parlent vraiment japonais les lisent, ils sont certainement morts de rire parce que c’est du très mauvais japonais. Désolé de briser tes rêves Damara, mais les choses que tu dis ont été écrites en anglais, puis sont passées par Google Traduction une fois, et une seconde fois pour vérifier que ça ait un minimum de sens lorsqu’on le re-traduit en anglais. Donc tu n’es pas vraiment une authentique troll japonaise, tu es une fausse troll japonaise.
       @damara_fu2 DAMARA:
       @! Wow je fais que dire la vérité ! On se calme. Tout le monde pense que t’es géniale. En fait, il y a probablement quelqu’un qui réalise JUSTE À L’INSTANT un dessin pornographique bizarre de toi.
@@ -147,67 +147,67 @@
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk4' command='talk' name='Parle moi de Mituna Captor.'>
+<action sprite='damara' class='expo2Talk4' command='talk' name='Parle-moi de Mituna Captor.'>
       <args>
-      @! Sollux Mega Man a quelques problèmes. Il tombe et tout et parle sur un fond de 4chan, à cause de 4chan. Mais malgré ça, il est courageux et fait de son mieux et tout le monde l’aime. Aussi, personne ne peut lire un putain de mot de ce qu’il dit. Son quirk est le moins lisible de tous les quirks, juste derrière celui de Damara..
+      @! Sollux Mega Man a quelques problèmes. Il tombe et tout et parle sur un fond de 4chan, à cause de 4chan. Mais malgré ça, il est courageux et fait de son mieux et tout le monde l’aime. Aussi, personne ne peut lire un putain de mot de ce qu’il dit. Son quirk est le moins lisible de tous les quirks, avec celui de Damara juste derrière.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk5' command='talk' name='Parle moi de Rufioh Nitram.'>
+<action sprite='damara' class='expo2Talk5' command='talk' name='Parle-moi de Rufioh Nitram.'>
       <args>
-      @! Avec toutes mes excuses à Dante Basco. Dante, je suis désolé à propos de ça. De tout ça. Je suis tellement, tellement désolé. Tu menais la vie normale et modeste d’une superstar d’Hollywood, et puis cette merde est arrivée. Tout est fini à jamais. J’ai aimé ton travail dans Le Dernier Maître de l’Air. Tu sais ce qui est drôle c’est qu’il y a probablement des gens qui lisent ceci à l’instant et qui n’ont aucune idée de ce dont je parle. Mais tu sais quoi ? Qu’est ce que ça a de PUTAIN de neuf ?
+      @! Avec toutes mes excuses à Dante Basco. Dante, je suis désolé à propos de ça. De tout ça. Je suis tellement, tellement désolé. Tu menais la vie normale et modeste d’une superstar d’Hollywood, et puis cette merde est arrivée. Tout est fini à jamais. J’ai aimé ton travail dans Le Dernier Maître de l’Air. Tu sais ce qui est drôle, c’est qu’il y a probablement des gens qui lisent ceci à l’instant et qui n’ont aucune idée de ce dont je parle. Mais tu sais quoi ? Qu’est ce que ça a de PUTAIN de neuf ?
       @! En tous cas, Bangarang, mec.
       @!:#rufiozuko.tumblr.com Bangarang.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk6' command='talk' name='Parle moi de Kankri Vantas.'>
+<action sprite='damara' class='expo2Talk6' command='talk' name='Parle-moi de Kankri Vantas.'>
       <args>
-      @! Le saviez-vous : 99 pourcent des lecteurs d’Homestuck ne lisent pas ou se fichent de tout ce qu’a pu dire Kankri. Donc, en d’autres mots, il est exactement comme tous les mauvais blogueurs de la justice sociale. Certains blogueurs de la justice sociale se sont énervés face à la blague qu’il incarne, mais ce sont les mauvais, et être mauvais est justement la cause de leur énervement. Ils veulent être mauvais en paix, sans être moqués. C’est ça d’être une cible de ridicule justifiée. Tu te sens triste et énervé tout le temps et tu ne sais même pas pourquoi.
+      @! Le saviez-vous : 99 pourcents des lecteurs d’Homestuck ne lisent pas ou se fichent de tout ce qu’a pu dire Kankri. Donc, en d’autres mots, il est exactement comme tous les mauvais blogueurs de justice sociale. Certains blogueurs de justice sociale se sont énervés face à la blague qu’il incarne, mais ce sont les mauvais, et être mauvais est justement la cause de leur énervement. Ils veulent être mauvais en paix, sans être moqués. C’est ça d’être une cible de ridicule justifiée. Tu te sens triste et énervé tout le temps et tu ne sais même pas pourquoi.
       @! Kankri porte un adorable pull rouge et est par ailleurs sincèrement adorable. Porrim se comporte comme sa mère, ce qui est aussi terriblement adorable.
       <!--  -->
       </args>
 </action>
   
-<action sprite='damara' class='expo2Talk7' command='talk' name='Parle moi de Meulin Leijon.'>
+<action sprite='damara' class='expo2Talk7' command='talk' name='Parle-moi de Meulin Leijon.'>
       <args>
-      @! Meulin est la Nepeta sourde de ce fracassant buffet de personnages infirmes. Elle parle en ASL pour dire des memes qui sont appelés mimes parce qu’il n’y a qu’une seule lettre de différence et que c’est un jeu de mots. Mais tu ne peux pas réellement utiliser l’ASL pour dire des GIFs animés en provenance de tumblr, tu peux seulement dire des mots. Autrement,, elle lit sur les lèvres, ce qui est amusant puisque son BFF a justement cousu ses satanées lèvres, et alors ils se miment des memes l’un à l’autre toute la journée tout en étant défoncés. Il est sous-entendu qu’ils fument de l’herbe à chat tous les deux, comme si c’était de la marijuana, ce qui est une référence particulièrement amusante pour les gens qui aiment la drogue. On passe à autre chose ??
+      @! Meulin est la Nepeta sourde de ce fracassant buffet de personnages infirmes. Elle parle en ASL pour dire des memes qui sont appelés mimes parce qu’il n’y a qu’une seule lettre de différence et que c’est un jeu de mots. Mais tu ne peux pas réellement utiliser l’ASL pour dire des GIFs animés en provenance de tumblr, tu peux seulement dire des mots. Autrement, elle lit sur les lèvres, ce qui est amusant puisque son BFF a justement cousu ses satanées lèvres, et alors ils se miment des memes l’un à l’autre toute la journée tout en étant défoncés. Il est sous-entendu qu’ils fument de l’herbe à chat tous les deux, comme si c’était de la marijuana, ce qui est une référence particulièrement amusante pour les gens qui aiment la drogue. On passe à autre chose ??
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk8' command='talk' name='TParle moi de Latula Pyrope.'>
+<action sprite='damara' class='expo2Talk8' command='talk' name='Parle-moi de Latula Pyrope.'>
       <args>
-      @! Latula est la gamegrl du gamebro de Mituna. Les gamebros et les gamegrls ne sont pas des types de personnes à proprement parler, dans le sens où ce sont des clichés creux se montrant condescendants à de nombreux groupes de personnes, sur plusieurs niveaux. Donc, en d’autres termes, les parfaits attributs des personnages de calibre PNJ et de dimension 1,5, qui jouent à un jeu de style jdr. Attends, je parlais de quoi ? Oh, ouais, Latula. 
-      @! Latula est super rad, mais elle ne sent rien. Je pense que je suis d’accord avec Karkat : c’est pas une infirmité. C’est juste comme avoir un rhume permanent, mais sans les symptômes et problèmes qui vont avec. Qui s’en soucie ? Latula aime en taper cinq aux gens à tout va, mais déteste qu’on laisse une main pendre. C’est un jeu de mots, parce que Redglare aimait pendre des gens avec des noeuds coulants. Mindfang a définitivement fait pendre Redglare de cette manière aussi. J’explique la blague là. Quoi ? Je t’avais prévenu que ces histoires craindraient. Tu as ce pour quoi tu as payé.
+      @! Latula est la gamegrl du gamebro de Mituna. Les gamebros et les gamegrls ne sont pas des types de personnes à proprement parler, dans le sens où ce sont des clichés creux se montrant condescendants envers de nombreux groupes de personnes, sur plusieurs niveaux. Donc, en d’autres termes, les parfaits attributs des personnages de calibre PNJ en 1,5 dimensions dans un jrpg. Attends, je parlais de quoi ? Oh, ouais, Latula. 
+      @! Latula est super rad, mais elle ne sent rien. Je pense que je suis d’accord avec Karkat : c’est pas une infirmité. C’est juste comme avoir un rhume permanent, mais sans les symptômes et problèmes qui vont avec. Qui s’en soucie ? Latula aime en taper cinq aux gens à tout va, mais déteste qu’on laisse une main pendre en l’air. C’est un jeu de mots, parce que Redglare aimait pendre des gens avec des noeuds coulants. Mindfang a ultimement laissé Redglare pendue de cette manière aussi. J’explique la blague là. Quoi ? Je t’avais prévenu que ces histoires craindraient. Tu as ce pour quoi tu as payé.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk9' command='talk' name='Parle moi de Porrim Maryam.'>
+<action sprite='damara' class='expo2Talk9' command='talk' name='Parle-moi de Porrim Maryam.'>
       <args>
       @! Porrim est meilleure en justice sociale que Kankri, parce qu’elle n’est pas un ennuyeux connard. Certains défenseurs de la justice sociale devraient en prendre de la graine. Porrim veut plus d’égalité pour les femmes. Cependant, tout le monde ne s’en soucie pas, ce qui rend les choses difficiles pour les personnes comme Porrim. C’est comme ça que ça se passe dans la vraie vie. Des CHALLENGES. Mais à part ça, c’est un vampire avec des tatouages stylés. Fin de l’histoire.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk10' command='talk' name='Parle moi d’Aranea Serket.'>
+<action sprite='damara' class='expo2Talk10' command='talk' name='Parle-moi d’Aranea Serket.'>
       <args>
-      @! Aranea est une pipelette, tout comme Mindfang. Qu’elle soit une adolescente ou une pirate sexy adulte, elle fait de très longues tirades qui font que les gens se demandent “mais qu’est-ce ce que je suis train de lire ?”. Il était temps que je prenne en charge ce stand d’exposition. La façon dont je décris toute ces conneries est des millions de fois meilleure que la sienne. Elle m’a suffisamment fait payé pour ça. Bon dieu, ça m’a ruiné. Pourquoi était-ce si cher ??? CE STAND EST EN PUTAIN DE CARTON.
+      @! Aranea est une pipelette, tout comme Mindfang. Qu’elle soit une adolescente ou une pirate sexy adulte, elle fait de très longues tirades qui font que les gens se demandent “mais qu’est-ce ce que je suis train de lire ?”. Il était temps que je prenne en charge ce stand d’exposition. La façon dont je décris toute ces conneries est des millions de fois meilleure que la sienne. Elle m’a suffisamment fait payer pour ça. Bon dieu, ça m’a ruiné. Pourquoi était-ce si cher ??? CE STAND EST EN PUTAIN DE CARTON.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk11' command='talk' name='Parle moi de Horrus Zahhak.'>
+<action sprite='damara' class='expo2Talk11' command='talk' name='Parle-moi de Horrus Zahhak.'>
       <args>
       @! Ce mec est juste Equius sous stéroïdes équins. Point Final.
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk12' command='talk' name='Parle moi de Kurloz Makara.'>
+<action sprite='damara' class='expo2Talk12' command='talk' name='Parle-moi de Kurloz Makara.'>
       <args>
       @! Il a avalé sa langue et a cousu ses lèvres parce que c’est un timbré de mèche avec Gamzee et English. Qui sait ce qu’ils manigancent ? C’est probablement juste un tas d’âneries. Des clowneries absurdes et insensées. Tu veux savoir pourquoi ils forment une assemblée de vilains ? Ils pensent probablement que c’est drôle. Kurloz parle avec des os quand il pratique son hypnose clownesque merdique, mais autrement, il mime absolument tout vu que, tiens toi bien, c’est littéralement un mime. Et aussi un juggalo. Parce que c’est exactement ce dont avait besoin Homestuck : un autre enfoiré de juggalo. Homestuck avait autant besoin d’un autre juggalo que de...
       @! Eh bien, douze autres trolls, je suppose.
@@ -215,17 +215,17 @@
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk13' command='talk' name='Parle moi de Cronus Ampora.'>
+<action sprite='damara' class='expo2Talk13' command='talk' name='Parle-moi de Cronus Ampora.'>
       <args>
-      @! Cronus est le pire personnage de Homestuck, à au moins un mile nautique. Des questions ?
+      @! Cronus est le pire personnage de Homestuck, au moins un mile nautique devant les autres. Des questions ?
       <!--  -->
       </args>
 </action>
 
-<action sprite='damara' class='expo2Talk14' command='talk' name='Parle moi de Meenah Peixes.'>
+<action sprite='damara' class='expo2Talk14' command='talk' name='Parle-moi de Meenah Peixes.'>
       <args>
-      @! Meenah est une sorte de compensation pour les personnes Poissons qui devaient se coltiner Feferi. Feferi n’a pas vraiment fait grand chose et puis elle est morte. Meenah est une punk cool et impertinente qui avait plus de choses importantes à faire que Feferi n’en a jamais eu. Tu viens juste de passer ces trois dernières heures à jouer à ce jeu depuis son point de vue, donc tu sais évidemment ça. À présent, tu es probablement fatigué par les jeux de mots impliquant la mer. Après un bon moment, tu commences à manquer de jeux de mots poissonneux. Tu peux épuiser les jeux de mots marins tout comme tu peux épuiser les océans. Tu commences à manquer littéralement de putain de poisson. Fais attention.
-      @! Meenah a découvert que lever une armée est une chose difficile. Mais tu sais ce qui est vraiment difficile ? Ce qui est vraiment difficile c’est de créer des jeux. Les jeux déguisent les efforts qu’ils demandent comme le font peu d’autres activités. Des gens ont probablement dû mourir pour faire en sorte que leurs jeux soient un peu plus que médiocres. Comme pour construire les pyramides. Mais personne n’est vraiment mort en faisant ces jeux-ci, c’est pourquoi ils sont seulement acceptables. Mais tout de même, si tu additionnes tout le travail effectué collectivement sur ces trois derniers jeux, c’était probablement comparable à la masse de travail effectuée seul sur [S] Cascade. Tu sais ce que c’était ? C’était un fait stupide.
+      @! Meenah est une sorte de compensation pour les personnes Poissons qui devaient se coltiner Feferi. Feferi n’a pas vraiment fait grand chose et puis elle est morte. Meenah est une punk cool et impertinente qui avait plus de choses importantes à faire que Feferi n’en a jamais eues. Tu viens juste de passer ces trois dernières heures à jouer à ce jeu depuis son point de vue, donc tu sais évidemment ça. À présent, tu es probablement fatigué par les jeux de mots impliquant la mer. Après un bon moment, tu commences à manquer de jeux de mots poissonneux. Tu peux épuiser les jeux de mots marins tout comme tu peux épuiser les océans. Tu commences à manquer littéralement de putain de poisson. Fais attention.
+      @! Meenah a découvert que lever une armée est une chose difficile. Mais tu sais ce qui est vraiment difficile ? Ce qui est vraiment difficile c’est de créer des jeux. Les jeux déguisent les efforts qu’ils demandent comme le font peu d’autres activités. Des gens ont probablement dû mourir pour faire en sorte que leurs jeux soient un peu mieux que médiocres. Comme pour construire les pyramides. Mais personne n’est vraiment mort en faisant ces jeux-ci, c’est pourquoi ils sont seulement acceptables. Mais tout de même, si tu additionnes tout le travail effectué collectivement sur ces trois derniers jeux, c’était probablement comparable à la masse de travail effectuée seul sur [S] Cascade. Tu sais ce que c’était ? C’était un fait stupide.
       <!--  -->
       </args>
 </action>
