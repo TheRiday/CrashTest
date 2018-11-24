@@ -65,7 +65,8 @@
 
 			<action class='rufiohTalk2' sprite='meenah' command='talk' name='Demande à Rufioh de se joindre à toi.'>
 			      <args>
-			      @meenah_talk MEENAH: je ne devrais peut etre pas te demander ca vu que tes pas si brave et tu pourrais bien finir par membrasser 			      @meenah_annoyedtalk:#attends#quest-ce-que-jai-dit-?#pas-important MEENAH: je veux dire finir par membarrasser
+			      @meenah_talk MEENAH: je ne devrais peut etre pas te demander ca vu que tes pas si brave et tu pourrais bien finir par membrasser
+		              @meenah_annoyedtalk:#attends#quest-ce-que-jai-dit-?#pas-important MEENAH: je veux dire finir par membarrasser
 			      @meenah_happytalk MEENAH: mais tu voudrais venir avec moi pour...
 			      @rufioh_notalk \nRUFIOH: whoa, mec... pas to1 auss1 !!! ahaha...
 			      @meenah_wut2 MEENAH: quewa
