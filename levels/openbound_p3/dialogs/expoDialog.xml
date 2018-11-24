@@ -2,7 +2,7 @@
     <classes>
 <action sprite='meenah' class='expoTalk1' command='talk' name='Au rapport'>
       <args>
-    @meenah_annoyed:#thon MEENAH: bon
+      @meenah_annoyed:#thon MEENAH: bon
       @meenah_annoyedtalk MEENAH: je suis un echec total
       @meenah_annoyedtalk MEENAH: jai pas recrute un seul fantome pour mon armee
       @meenah_wut2 MEENAH: enfin sauf un type mais il etait endormi
@@ -10,7 +10,7 @@
       @aranea_happytalk ARANEA: Tu as juste 8esoin de trouver quelqu’un avec suffisamment de tripes pour commencer. Je suis sûre que d’autres suivront après.
       @aranea_happytalk ARANEA: Qui sait, si tu continues à explorer, peut-être que tu trouveras quelqu’un comme ça dans le coin !
       @meenah_talk MEENAH: tas lair plus hypee quavant pour mon plan darmee
-    @meenah_talk MEENAH: quest ce que ce changement de thon
+      @meenah_talk MEENAH: quest ce que ce changement de thon
       @aranea_happytalk ARANEA: Je me suis mise à penser que ce que tu fais est peut-être important. Juste un ressenti.
       @aranea_happytalk:#Ou,-les-dents-d’une-fourche,-si-tu-préfères. ARANEA: Cela pourrait être aussi critique que ma quête pour trouver la chéru8in. Je pense que tout ceci pourrait être relié. Comme les pieds d’un ta8ouret qui ne tiendrait pas tant qu’ils ne seraient pas tous mis en place.
       @meenah_talk MEENAH: comment se passe ta quete de cherubin dailleurs
@@ -20,7 +20,7 @@
       @meenah_talk MEENAH: tas traine ton stand a parlote un peu partout pour saouler des gens avec des faits
       @aranea_surprised ARANEA: C’est ma dernière session, juré !!!!!!!!
       @aranea_talk ARANEA: Après ça je me suis promis que je mettrais le stand d’exposition à la retraite pour de 8on. Peut-être que je le mettrai en vente, et j’essaierai de récupérer les pertes su8stantielles nécessaires à son uilisation.
-     @meenah_talk MEENAH: aranea on est tellement des echecs ensemble
+      @meenah_talk MEENAH: aranea on est tellement des echecs ensemble
       @meenah_talk MEENAH: pourquoi est ce quon est un tel couple de superbes et sexys echecs a tout ce quon fait
       @aranea_happytalk ARANEA: Je ne sais pas, mais on ne peut pas a8andonner !
       @aranea_happytalk ARANEA: Une fois que j’aurai fermé 8outique, je redou8lerai d’efforts pour trouver cette chéru8in.
