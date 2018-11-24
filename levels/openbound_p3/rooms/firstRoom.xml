@@ -159,7 +159,7 @@
                       <args>horsaponi,
                         <action command='talk' name='Examine.'>
                               <args>
-                              @!:#neigh Dear, sweet, beautiful, dear, precious, sweet, sweet, dear, sweet HORSEAPONI. 
+                              @!:#hénissement Cher, doux, magnifique, cher, précieux, tendre, adorable, cher doux FICHEVLLO. 
                               <!--  -->
                               </args>
                         </action>
@@ -170,8 +170,8 @@
                         </args>
                         <action command='presentActions'>
                           <args>
-                            <action class='beHoruss' name='Yes.'/>
-                            <action command='cancel' name='No.'/>
+                            <action class='beHoruss' name='Oui.'/>
+                            <action command='cancel' name='Non.'/>
                           </args>
                         </action>
                       </action>
@@ -284,16 +284,16 @@
     </character>
   	
   	<character class='mituna' x='2394' y='285' state='crash'>
-      <action sprite='!damara' command='talk' name="It's Mituna!">
+      <action sprite='!damara' command='talk' name="C’est Mituna !">
           <args>
-          @!:#Falling-is-hard-work! D'aw, looks like he's all tuckered out under the brain tree.  
+          @!:#tomber-est-un-travail-difficile-! Aw, on dirait bien qu'il est complètement épuisé sous cet arbre fait de cerveau.  
           <!--  -->
           </args>
       </action>
-      <action sprite='damara' command='talk' name="It's Mituna!">
+      <action sprite='damara' command='talk' name="C’est Mituna !">
           <args>
-          @latula_happier LATULA: h3y d4mz!!!!
-          @latula_happytalk LATULA: 1f you go 4nywh3r3 n34r h1m, 1 w1ll fuck1ng k1ll you!
+          @latula_happier LATULA: h3 d4mz !!!!
+          @latula_happytalk LATULA: s1 tu t4pproches de lu1, j3 t3 d3fonc3 !
           <!--  -->
           </args>
       </action>
