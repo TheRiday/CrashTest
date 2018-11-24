@@ -398,7 +398,7 @@ var _onkeydown = function(e){
 				    }
 			    }
 			    if(Sburb.chooser.choices.length>0){
-				    Sburb.chooser.choices.push(new Sburb.Action("cancel","cancel","Fermer."));
+				    Sburb.chooser.choices.push(new Sburb.Action("cancel","cancel","Cancel."));
 				    beginChoosing();
 			    }
 		    }
