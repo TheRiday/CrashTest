@@ -55,7 +55,6 @@
       </args>
 </action>
 
-
 <action class='horussTalk2' sprite='meenah' command='talk' name='Demande à Horuss de se joindre à toi.'>
       <args>
       @horuss_smiletalk HORUSS: 8=D &lt; Respectueusement, vôtre Superlative Magnifi100ce, je ne crois pas que ce soit conseillé.
