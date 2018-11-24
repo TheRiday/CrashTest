@@ -119,7 +119,7 @@
   <animation sheet='plush2' x='-48' y='-55'/>
   <action command='talk' name='Examine.'>
         <args>
-        @!:#You-hum-the-fiduspawn-theme-song-while-gently-weeping. Blech. What a disgusting, friendly mess. His sacrifice was not in vain though. He was brutally murdered from within, so that a new friend could be born.
+        @!:#Vous-fredonnez-l’air-du-thème-de-fiduspawn-tout-en-nettoyant-soigneusement. Beurk. Quel dégoûtant et joyeux bazar. Son sacrifice ne sera pas vain en tout cas. Il a été brutalement tué de l'intérieur, et c’est grâce à ça qu’un nouvel ami a pu naître.
         <!--  -->
         </args>
   </action>
@@ -129,30 +129,30 @@
   <animation sheet='horsaponi' length='8' x='-70' y='-84'/>
   <action command='talk' name='Examine.'>
         <args>
-        @! What an utterly magnificent specimen. But if you train HORSAPONI hard enough, one day he may become HORSARONI. By which I mean, he will grow slightly bigger, and gain no measurable advantages in combat. You will however be required to feed him more.
+        @! Quel magnifique spécimen. Mais si vous entraînez FICHEVLLO assez durement, un jour, il pourra devenir CHEVATALON. Et par là j’entends qu’il sera légèrement plus grand et ne gagnera aucun avantage notable au combat. Vous allez cependant avoir besoin de le nourrir davantage.
         <!--  -->
         </args>
   </action>
-  <action command='removeSprite' name='Take Horsaponi to Horuss.'>
+  <action command='removeSprite' name='Mène Fichevllo à Horuss.'>
     <args>horsaponi,firstRoom</args>
     <action command='removeAction' noDelay='true'>
-      <args>horsaponi, Take Horsaponi to Horuss.</args>
+      <args>horsaponi, Mène Fichevllo à Horuss.</args>
       <action command='addAction' noDelay='true'>
         <args>
           horuss,
-          <action name='Give Horsaponi to Horuss.' command='addSprite'>
+          <action name='Donne le Fichevllo à Horuss.' command='addSprite'>
             <args>horsaponi,firstRoom</args>
             <action command="moveSprite" noDelay='true'>
               <args>horsaponi,1755,702</args>
               <action command="talk">
-                <args>@horuss_smiletalk HORUSS: 8=D &lt; You did it! You brought me a fine, young stallion!
-      @horuss_smiletalk HORUSS: 8=D &lt; What a beautiful gesture of friendship. I am so f*dging happy, you have no idea.
-      @horuss_crossed2 HORUSS: （;≧皿≦） &lt; Wh**ps, so happy, I have become loose with foul language, and forgot I wasn't supposed to make that face anymore.
-      @horuss_crossed2 HORUSS:  (;¬д¬) &lt; You are of course free to be me whenever you wish, my lady.
+                <args>@horuss_smiletalk HORUSS: 8=D &lt; Vous avez réussi ! Vous m’avez ramené une superbe jeune monture !
+      @horuss_smiletalk HORUSS: 8=D &lt; Quel magnifique geste d’amitié ! Je suis si sacr*ment heureux, vous n’avez pas idée !
+      @horuss_crossed2 HORUSS: （;≧皿≦） &lt; **ps, j’étais si heureux que je me suis mis à user d'un langage vulgaire, et que j’ai oublié que je ne devais plus utiliser cette tête.
+      @horuss_crossed2 HORUSS:  (;¬д¬) &lt; Vous pouvez bien sûr vous 100tir libre de devenir moi quand vous le désirez ma dame.
       @! Be Horuss?
                 </args>
                 <action command='removeAction'>
-                  <args>horuss,Be Horuss.,Give Horsaponi to Horuss.</args>
+                  <args>horuss,Deviens Horuss.,Donne le Fichevllo à Horuss.</args>
                   <action command='removeAction'>
                     <args>horsaponi,Examine.</args>
                     <action command='addAction'>
