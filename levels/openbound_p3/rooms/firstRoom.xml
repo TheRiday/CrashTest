@@ -350,7 +350,7 @@
   			<action command='addWalkable'>
   				<args>firstRoomWalkable,firstRoom</args>
           <action command='removeActions'>
-            <args>firstRoomOrb,Examine la bulle.,Faire disparaitre le glacier.</args>
+            <args>firstRoomOrb,Examine la bulle.,Fais disparaitre le glacier.</args>
             <action command='playSound'>
               <args>hitPowerfulSound</args>
             </action>
@@ -367,51 +367,51 @@
     <sprite class='chest8' name='firstRoomChest1' x='618' y='778'>
       <action command='openChest' name='Ouvre.'>
         <args>firstRoomChest1,item1,
-          @! You got some FIDUSPAWN CARDS! Gotta hatch em all!!!!!
-          @! Is advice you should follow if you want way too many fiduspawn crawling around. For safety reasons, the manufacturer recommends that you only hatch some.
+          @! Vous trouvez des CARTES FIDUSPAWN ! Éclosez-les tous !!!!! 
+          @! Ce conseil est à suivre si vous voulez beaucoup trop de fiduspawns rampant à vos côtés. Pour des raisons de sécurité, le fabricant recommande de n’en faire éclore que quelques un.
         </args>
       </action>
     </sprite>
     
     <sprite class='chest8' name='firstRoomChest2' x='1422' y='422'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Ouvre.'>
         <args>firstRoomChest2,item2,
-          @! You got a BUSTED ROBOT HEAD! 
-      @! There was a rumor going around that once, through an elaborate courtship process, Horuss sent Rufioh a robotic duplicate of himself to spar with, piece by piece. The last part he sent was supposedly the head.
-      @! That's almost certainly a myth. Horuss is a pretty strange dude, but he would have to be a total lunatic to do something like that. The anecdote strains plausibility.
+          @! Vous trouvez une TÊTE DE ROBOT DÉTRUITE !
+      @! Il y avait une rumeur qui circulait disant qu’une fois, pendant une tentative élaborée de flirt, Horuss a envoyé à Rufioh une version robotique de lui-même pour s'entraîner avec, morceau par morceau. La dernière pièce qui aurait dû être envoyée était supposément la tête. 
+      @! C'est certainement un mythe. Horuss est un gars plutôt étrange, mais il devait être totalement lunatique pour faire ça. L'anecdote paraît peu plausible.
         </args>
       </action>
     </sprite>
 
     <sprite class='chest8' name='firstRoomChest3' x='1984' y='134'>
-      <action command='openChest' name='Open.'>
+      <action command='openChest' name='Ouvre.'>
         <args>firstRoomChest3,item3,
-          @! You got a pair of DUTTON BUBBLE GOGGLES!
-      @! You can see into infinity for eternity. 
-      @! Just the way Charles Dutton would have wanted it.
+          @! Vous trouvez une paire de BULLES-MIRETTES DUTTON
+      @! Vous pouvez voir dans l'infini éternellement.
+      @! Comme Charles Dutton l'aurait voulu.
         </args>
       </action>
     </sprite>
 
     <sprite class='chest7' name='firstRoomChest4' x='2122' y='560'>
-      <action sprite='horuss' command='openChest' name='Open.'>
+      <action sprite='horuss' command='openChest' name='Ouvre.'>
         <args>firstRoomChest4,item4,
-          @! You got a PRICELESS WORK OF FINE ART!!!
-      @! You spend a few moments solemnly contemplating the artistic merits of the splendid classical sculpture.
+          @! Vous trouvez un TRAVAIL ARTISTIQUE INESTIMABLE !!!
+      @! Vous passez quelques moments solennels à contempler les mérites artistique de ce sublime classique de la sculpture. 
       @horuss_horsedick_blur1 
-      @! Wait, no...
-      @! Hang on, don't move. The pixelation is missing its mark...
+      @! Attendez, non..
+      @! Un instant, ne bougez pas. La pixellisation est mal placée.
       @horuss_horsedick_blur2 
-      @! Damn it! Still not quite right... ok, hold your horses.
+      @! Punaise ! Ce n’est pas encore bon… ok, ne nous emballons pas.
       @horuss_horsedick_blur3 
-      @! Perfect! Whew, crisis averted. That was a close call.
-      @! You very nearly caught a glimpse of a horse penis and began to cry.
+      @! Parfait ! Ouf, la crise est évitée. C'était tendu.
+      @! Vous avez presque entraperçu le pénis d’un cheval et vous seriez mis à pleurer.
         </args>
         <action command='removeAction'>
-          <args>firstRoomChest4,Open.</args>
+          <args>firstRoomChest4,Ouvre.</args>
         </action>
       </action>
-      <action sprite='!horuss' command='talk' name='Open.'>
+      <action sprite='!horuss' command='talk' name='Ouvre.'>
         <args>
         @! This chest appears to have an extremely complicated lock. There's no way you can open it. You'll need to find someone who's handy with gadgets.
         </args>
