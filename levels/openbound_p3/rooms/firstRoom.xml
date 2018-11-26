@@ -437,7 +437,7 @@
         <action command='addAction'>
           <args>
             plush1,
-            <action name='Utilise un oeuf de Fiduspawn sur la peluche hôte'>
+            <action name='Utilise un oeuf de Fiduspawn sur la peluche hôte' command='removeSprite'>
               <args>plush1,firstRoom</args>
               <action command='addSprite' noDelay='true'>
                 <args>plush2,firstRoom</args>
