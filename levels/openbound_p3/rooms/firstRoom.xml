@@ -357,7 +357,7 @@
           </action>
   			</action>
   		</action>
-      <action command='talk' name="Ouais j'ai aucune idée de ce que je fais ici.">
+      <action command='talk' name="J'ai aucune idée de ce que je fais ici.">
         <args>
         @! Cliquez sur le lien de la CARTE en dessous du jeu pour des SUPERS CONSEILS !!!
         </args>
@@ -437,7 +437,7 @@
         <action command='addAction'>
           <args>
             plush1,
-            <action name='Utilise un oeuf de Fiduspawn sur la peluche hôte' command='removeSprite'>
+            <action name='Utilise l'oeuf de Fiduspawn sur la peluche hôte' command='removeSprite'>
               <args>plush1,firstRoom</args>
               <action command='addSprite' noDelay='true'>
                 <args>plush2,firstRoom</args>
