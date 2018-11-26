@@ -4,7 +4,7 @@
 	      <args>
 	      @meenah_idle MEENAH: yo nitram
 	      @rufioh_happytalk \nRUFIOH: oh, salut poupée... t’éta1s part1e pendant vachement longtemps... 
-	      @rufioh_happytalk: je-croya1s-que-tu-alla1s-fa1re-éclore-un-f1duspawn-avec-ce-truc-pour-être-honnête…  \nRUFIOH: cool de te revoir, cependant... yo, cette comb1ne avec la bombe que tu nous as sort1e c’éta1t de la fol1e p*ta1n.
+	      @rufioh_happytalk:#je-croya1s-que-tu-alla1s-fa1re-éclore-un-f1duspawn-avec-ce-truc-pour-être-honnête…  \nRUFIOH: cool de te revoir, cependant... yo, cette comb1ne avec la bombe que tu nous as sort1e c’éta1t de la fol1e p*ta1n.
 	      @meenah_happy MEENAH: ctai pas ghareng chose
 	      @rufioh_sheepish \nRUFIOH: te sous-est1mes pas... je pense pas que j’aura1s pu fa1re ça. t’es plutot gangsta, pe1xes.
 	      @meenah_idle MEENAH: oui je sais
@@ -12,7 +12,7 @@
 	      @rufioh_idle \nRUFIOH: vas-y, poupée...
 	      @meenah_idle MEENAH: ces ailes
 	      @meenah_talk MEENAH: tu as eclot avec hein
-	      @meenah_idle:#quand-tu-as-atteint-ta-puperte?? MEENAH: ou tu les as pupatees
+	      @meenah_idle:#quand-tu-as-atteint-ta-puperte-?? MEENAH: ou tu les as pupatees
 	      @rufioh_laugh:#un-vocabulaire-genre...#tu-sais...#de-mots-normaux \nRUFIOH: ha, oua1s c’est ça… je su1s un “m*tant”... ne d1s pas à kankr1 que j’a1 d1t ça ! c’est mon pote, ma1s tu sa1s comment 1l n’a1me pas ce vocabula1re...
 	      @meenah_annoyedtalk MEENAH: ug dis pas ca il va genre se teleporter dans notre conversation avec de la magie fantome juste pour te faire taire
 	      @rufioh_sheepish \nRUFIOH: oua1s... 1l te le fa1s à to1 auss1, he1n... c’est complètement fou p*ta1n !
@@ -23,16 +23,17 @@
 	      @meenah_idle MEENAH: hein pourquoi pas
 	      @rufioh_sadtalk \nRUFIOH: je sa1s pas... se su1c1der, c’est... un truc dur à fa1re. je su1s pas comme to1, meenah... je pense pas que tout le monde so1t... enf1n damara est plutôt... ma1s peut-être que l’on ne devra1t pas entrer dans ce sujet, hahaha. 1l ne faut pas réve1ller le f1duspawn qu1 dort, tu comprends...
 	      @meenah_annoyed MEENAH: ...
-	      @rufioh_sheepish \nRUFIOH: ce que je veux d1re c’est que, tu t’es pr1se au jeu... et je peux le comprendre... ma1s je n’a1 jama1s été auss1 courageux que les gens l’ont toujours pensé... je ne sa1s pas pourquo1 1ls pensa1ent toujours ça de mo1. peut-être que ce sont mes a1les ou ma coupe à crète... ou quand je sors des bangarang des fo1s très fort ? ça me fa1t passer pour le type avec beaucoup d’est1me de so1... ma1s mon est1me de mo1 est pas à tomber par terre… j’sa1s pas...
-	      @meenah_talk MEENAH: daccord tu as pas passe le tier mais je carpe toujours pas un truc
-	      @meenah_wut MEENAH: tu avais pas une connerie du genre un putain de corps robot a un moment ou je lai juste imagine
-	      @meenah_annoyedtalk:#peut-etre-que-jai-attrape-la-folie-fantome#je-pourrais-JURER-que-tu-etais-un-cheval-de-metal-quand-meme MEENAH: toute cette periode de notre session etait tres embrouillee pour moi probablement parce que jetais morte pendant un bon moment
+	      @rufioh_sheepish \nRUFIOH: ce que je veux d1re c’est que, tu t’es pr1se au jeu... et je peux le comprendre... ma1s je n’a1 jama1s été auss1 courageux que les gens l’ont toujours pensé... je ne sa1s pas pourquo1 1ls pensa1ent toujours ça de mo1. peut-être que ce sont mes a1les ou ma coupe à crète... ou quand je sors des bangarang des fo1s très fort ? ça me fa1t passer pour le type avec beaucoup d’est1me de so1...
+	      @rufioh_sheepish \nRUFIOH: ma1s mon est1me de mo1 est pas à tomber par terre… j’sa1s pas...
+              @meenah_talk MEENAH: daccord tu as pas passe le tier mais je carpe toujours pas un truc
+	      @meenah_wut MEENAH:#peut-etre-que-jai-attrape-la-folie-fantome tu avais pas une connerie du genre un putain de corps robot a un moment ou je lai juste imagine
+	      @meenah_annoyedtalk:#je-pourrais-JURER-que-tu-etais-un-cheval-de-metal-quand-meme MEENAH: toute cette periode de notre session etait tres embrouillee pour moi probablement parce que jetais morte pendant un bon moment
 	      @rufioh_sad \nRUFIOH: oua1111s...
 	      @rufioh_sheepish \nRUFIOH: non, le  corps robot est vra1ment arr1vé... j’a1 un peu répr1mé ce souven1r auss1, haha... c’éta1t... c’éta1t p*ta1n de quelque chose, yo ! fou...
 	      @rufioh_surprisetalk \nRUFIOH: je su1s sûr que tu te souv1ens comment tout ça a commencé... quand damara et mo1 sort1ons encore ensemble... ça te d1t quelque chose ?
 	      @meenah_annoyed MEENAH: ouais
 	      @meenah_annoyed MEENAH: putain de megido
-	      @meenah_annoyedtalk:#taureau#lol#attend...#pourquoi-tu-fais-jamais-de-blague-taurine?#NUL MEENAH: est ce que lon a vraiment besoin dagiter le chiffon rouge
+	      @meenah_annoyedtalk:#taureau#lol#attend...#pourquoi-tu-fais-jamais-de-blague-taurine-?#NUL MEENAH: est ce que lon a vraiment besoin dagiter le chiffon rouge
               @rufioh_no \nRUFIOH: non,  non… eh, juste pour d1re c’est tout... c’est toute l’h1sto1re… en tout cas, c’éta1t quand horuss comença1t à fl1rter avec mo1, tu te souv1ens... et je ne voula1s pas vra1ment vac1ller avec lu1 et elle car je sava1s comment elle éta1t… m*rde, s1 jalouse… tellement folle p*ta1n...
 	      @rufioh_offendedtalk \nRUFIOH: donc elle a fa1t de mo1 un estrop1é tu te souv1ens ?
 	      @meenah_idle:#validisme MEENAH: tagge cette merde mon pote
@@ -57,7 +58,7 @@
 	      @meenah_talk MEENAH: tout le monde craignait mais tu etais presque bien
 	      @meenah_talk MEENAH: sauf que tu as toujours ete une mauviette
 	      @meenah_annoyed:#AT#SOUS-ENTENDU-DE-HANDICAP# MEENAH: sans vouloir tinvalider mec
-	      @kankri_talk4:#Aussi,-pendant-que-tu-marches,-fais-attenti9n-à-ne-pas-exhi6er-la-santé-de-tes-jam6es. KANKRI: Excuse-m9i. Meenah, "Invalide" est une injure validiste, qui dans ce c9ntexte est VRAIMENT inappr9priée. Tagger tes 6lagues avec des alertes trigger “ir9niques” n’excuse pas cette attitude. Je te remercierais de te réfréner d’utiliser de tels termes dans le futur.
+	      @kankri_talk4:#Quand-tu-marches,-fais-attenti9n-à-ne-pas-exhi6er-la-santé-de-tes-jam6es. KANKRI: Excuse-m9i. Meenah, "Invalide" est une injure validiste, qui dans ce c9ntexte est VRAIMENT inappr9priée. Tagger tes 6lagues avec des alertes trigger “ir9niques” n’excuse pas cette attitude. Je te remercierais de te réfréner d’utiliser de tels termes dans le futur.
 	      @meenah_angry MEENAH: AAAAAUG)(A
 	      <!--  -->
 	      </args>
@@ -76,7 +77,7 @@
 			      @rufioh_sheepish \nRUFIOH: c’est juste une sorte de réflexe, poupée... tu vo1s ? tout le monde me drague tout le temps, et je sa1s pas pourquo1... p*ta1n c’est fou...
 			      @rufioh_offendedtalk \nRUFIOH: r1en que l’autre jour, écoute... un mec orange dans un t-sh1rt vert est sort1 d’un bu1sson et a essayé de m’embrasser... et je su1s genre quooo1... recule l'enjoué, haha...
 			      @meenah_creepytalk MEENAH: peut etre parce que tes un putain de bishonen avec une crete qui tue
-			      @rufioh_happytalk:#je-pourra1s-te-donner-des-conse1ls pour-te-te1ndre-une-crète...#tu-déch1rera1-avec-ce-look-!!! \nRUFIOH: yo, c’est cool de me le d1re...  tu as ce truc de l’otenba b1shojo qu1 fonct1onne chez to1, meuf... ton style est trop cool, j’a1 toujours trouvé que t’éta1s super classe...
+			      @rufioh_happytalk:#je-pourra1s-te-donner-des-conse1ls-pour-te-te1ndre-une-crète...#tu-déch1rera1-avec-ce-look-!!! \nRUFIOH: yo, c’est cool de me le d1re...  tu as ce truc de l’otenba b1shojo qu1 fonct1onne chez to1, meuf... ton style est trop cool, j’a1 toujours trouvé que t’éta1s super classe...
 			      @meenah_happytalk MEENAH: pour ce que ca vaut
 			      @meenah_happytalk MEENAH: je pourrais etre ta moe dere dere en moins dune seconde mon chou 
 			      @meenah_happytalk MEENAH: si jetais attiree par toi ou si je trouvais ta personnalite plus seduisante
