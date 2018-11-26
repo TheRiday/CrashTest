@@ -486,14 +486,14 @@
             </action>
           </args>
           <action command='removeAction'>
-            <args>firstRoomChest7,Open.</args>
+            <args>firstRoomChest7,Ouvre.</args>
           </action>
         </action>
       </action>
       <action sprite='!horuss' command='talk' name='Ouvre.'>
         <args>
-          @! What's that sound? You listen closely to the chest. You hear something flapping around in there. This thing looks air tight. Whatever's in there might run out of ghost oxygen soon.
-      @! Alas, this chest appears to have an extremely complicated lock. There's no way you can open it. You'll need to find someone who's handy with gadgets.
+          @! Quel est ce bruit ? Vous écoutez attentivement le coffre. Vous entendez quelque chose s’agiter là-dedans. Cette chose a l’air de manquer d’air. Peu importe ce qu’il y a dedans, ça risque de bientôt arriver à cours d’oxygène.
+      @! Malheureusement, ce coffre semble avoir une serrure extrêmement compliquée. C’est impossible que vous puissiez l'ouvrir. Vous allez avoir besoin d'un gars sachant utiliser des outils.
         </args>
       </action>
     </sprite>
@@ -501,8 +501,8 @@
     <sprite class='chest8' name='firstRoomChest8' x='2288' y='1292'>
       <action command='openChest' name='Ouvre.'>
         <args>firstRoomChest8,item6,
-          @! You got an EAST BEFORAN SCROLL!
-          @!:#tinyurl.com/damaramegido It is covered in mysterious runes. If only there were some way for laypersons to translate this absurd gibberish.
+          @! Vous trouvez un PARCHEMIN DE L’EST DE BEFORUS !
+          @!:#https://tinyurl.com/ya38yloo Il est rempli de runes mystérieuses. Si seulement il existait un moyen pour les non-initiés de traduire ce charabia complètement absurde. 
         </args>
       </action>
     </sprite>
@@ -511,7 +511,7 @@
       <animation sheet='plush1' x='-34' y='-50'/>
       <action command='talk' name='Examine.'>
             <args>
-            @!:#You-start-humming-the-fiduspawn-theme-song. It's a happy looking HOST PLUSH! It won't be so happy anymore if you hatch a FIDUSPAWN EGG near it. Maybe you'll be able to find some eggs in this area if you keep searching. Then the REAL fun can begin.
+            @!:#Vous-vous-mettez-à-fredonner-l'air-du-thème-de-fiduspawn. C'est une jolie petite PELUCHE HÔTE ! Elle ne sera plus aussi jolie une fois que vous aurez éclos un OEUF DE FIDUSPAWN à côté d'elle. Peut-être que vous trouverez des oeufs pas loin si vous continuez à chercher. Et LÀ ça deviendra marrant. 
             <!--  -->
             </args>
       </action>
