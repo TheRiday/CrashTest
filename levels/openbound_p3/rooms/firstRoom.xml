@@ -149,7 +149,7 @@
       @horuss_smiletalk HORUSS: 8=D &lt; Quel magnifique geste d’amitié ! Je suis si sacr*ment heureux, vous n’avez pas idée !
       @horuss_crossed2 HORUSS: （;≧皿≦） &lt; **ps, j’étais si heureux que je me suis mis à user d'un langage vulgaire, et que j’ai oublié que je ne devais plus utiliser cette tête.
       @horuss_crossed2 HORUSS:  (;¬д¬) &lt; Vous pouvez bien sûr vous 100tir libre de devenir moi quand vous le désirez ma dame.
-      @! Be Horuss?
+      @! Devenir Horuss ?
                 </args>
                 <action command='removeAction'>
                   <args>horuss,Deviens Horuss.,Donne le Fichevllo à Horuss.</args>
