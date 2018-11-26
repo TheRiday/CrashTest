@@ -135,28 +135,28 @@
       </args>
 </action>
 
-<action class='horussTalk5' sprite='damara' command='talk' name='Talk to Horuss.'>
+<action class='horussTalk5' sprite='damara' command='talk' name='Parle à Horuss.'>
       <args>
-      @damara_meantalk DAMARA: これ以上のゲームはありません。馬男。今私をファック。
-      @horuss_idle HORUSS: 8=D &lt; E%25cuse me?
-      @damara_meantalk DAMARA: HORSEAPONIまたがっ私を曲げる。あなたは私がハードファック。HORSEYスタイル。
-      @horuss_smiletalk HORUSS: 8=D &lt; Oh! I see you've taken an interest in this fine, albeit diminutive steed given to me as a gift earlier.
-      @horuss_smiletalk HORUSS: 8=D &lt; Isn't it wonderful? I shall feed it many an apple and it will grow to be STRONG.
+      @damara_meantalk DAMARA: これ以上のゲームはありません。馬の男。今私をファック。
+      @horuss_idle HORUSS: 8=D &lt; E%cuse-moi ?
+      @damara_meantalk DAMARA: FICHEVLLOまたがっ私を曲げる。あなたは私がハードファック。CHEVALINスタイル。
+      @horuss_smiletalk HORUSS: 8=D &lt; Ho ! Je vois que tu t’intéresses à ce beau, bien que minuscule, étalon qu’on l’on m’a offert plus tôt.
+      @horuss_smiletalk HORUSS: 8=D &lt; N’est-ce pas merveilleux ? Je lui donnerai de nombreuses pommes et il sera FORT en grandi100.
       @damara_smilemeantalk DAMARA: 私にリンゴを養う。その後、私の髪をつかむ。あなたはチャンピオンのように私に乗るだろう。
-      @horuss_sweat_talk HORUSS: 8=D &lt; I don't... do what with your horns? Ride what, now?
+      @horuss_sweat_talk HORUSS: 8=D &lt; Je ne… Faire quoi avec tes cornes ? Chevaucher quoi e%actement ?
       @damara_squinttalk DAMARA: のバケツを埋めることができます。その後、内容がスプラッシュ。私の体の上にすべての。次に干し草の山に私を投げる。
-      @horuss_hmmtalk HORUSS: 8=D &lt; You want me to... something about... hay? Hm.
+      @horuss_hmmtalk HORUSS: 8=D &lt; Tu veu% que je… quelque chose à voir avec… de la paille ? Hm. 
       @damara_talk DAMARA: 私はあなたのホーンを吸うことができます。同時に、あなたは私のお尻を平手打ち。リズミカルにそれを行う。また。いななく。
-      @horuss_sweat_talk HORUSS: 8=D &lt; You would like me to perform... what rhythmic behavior, e%25actly? While making which animal noise?
+      @horuss_sweat_talk HORUSS: 8=D &lt; Tu veu% que je fasse… quoi de manière rythmé ? En faisant quel bruit animalier ?
       @damara_talk DAMARA: 私のすべての反復をファック。性的エクスタシーを体験する私たちのすべてを引き起こす。私たちは一斉にオーガズムましょう。
-      @horuss_sweat_bashful2 HORUSS: 8=D &lt; Do what with... wait... all of you? Wouldn't that be quite a lot of Damaras, regardless of the activity you are trying to describe?
+      @horuss_sweat_bashful2 HORUSS: 8=D &lt; Faire quoi avec… attends… toutes les toi e%istantes ? Est-ce que ça ne fait pas beaucoup de Damaras, peu importe l’activité que tu essayes de décrire ? 
       @damara_squinttalk DAMARA: 清潔なタオルで私を包んでください。私は農場の動物のようにうめき声をしなければならない。
       @damara_smilemeantalk DAMARA: 私の足の間に腹立たしそうに鼻を鳴らす。私は殺された子羊のように悲鳴を上げるでしょう。
       @damara_fiendish DAMARA: 私たちは一緒に私たちのお尻を持ってみましょう。共通のオーガズムに参加。すべての終わりでは、私たちを取り囲んでいる。
-      @horuss_crossed HORUSS: 8=D &lt; Trying to decode your speech is quite agitating, you know.
-      @horuss_crossed2 HORUSS: 8=D &lt; Whenever I talk to you, my system gets a little switchy.
-      @horuss_sweat_grin HORUSS: 8=D &lt; I begin to faintly channel an ancient soul from Alterniasia, and I come very close to understanding you. But then it vanishes just as quickly, and my host vessel is left with nothing but an overwhelming e%25perience of perspiration.
-      @horuss_sweat_talk HORUSS: 8=D &lt; Not that I would e%25pect a lowly rust b100ded singleton like you to understand.
+      @horuss_crossed HORUSS: 8=D &lt; Essayer de décoder tes paroles est assez stre100, tu sais.
+      @horuss_crossed2 HORUSS: 8=D &lt; À chaque fois que je te parle, mon système est tout agité. 
+      @horuss_sweat_grin HORUSS: 8=D &lt; Je commence à re100tir une communication avec une ancienne âme d’Alternasie, et je suis sur le point de te comprendre. Mais tout disparaît aussi rapidement que c’est arrivé, et je suis laissé là avec rien d’autre qu’une accablante e%périence de transpiration. 
+      @horuss_sweat_talk HORUSS: 8=D &lt; Mais ce n’est pas comme si je m'attendais à ce qu’une basse 100 de rouille célibataire comme toi comprenne. 
       @damara_squinttalk DAMARA: もっと私を低下させる。私はほとんどそこにいる。
       @damara_fu4 DAMARA: フリーク。
       <!--  -->
