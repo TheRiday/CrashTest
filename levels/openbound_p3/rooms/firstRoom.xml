@@ -368,7 +368,7 @@
       <action command='openChest' name='Ouvre.'>
         <args>firstRoomChest1,item1,
           @! Vous trouvez des CARTES FIDUSPAWN ! Éclosez-les tous !!!!! 
-          @! Ce conseil est à suivre si vous voulez beaucoup trop de fiduspawns rampant à vos côtés. Pour des raisons de sécurité, le fabricant recommande de n’en faire éclore que quelques un.
+          @! Ce conseil est à suivre si vous voulez beaucoup trop de fiduspawns rampant à vos côtés. Pour des raisons de sécurité, le fabricant recommande de n’en faire éclore que quelques uns.
         </args>
       </action>
     </sprite>
