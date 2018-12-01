@@ -3,7 +3,7 @@
     	<action class='horussTalk1' sprite='meenah' command='talk' name='Parle à Horuss.'>
       <args>
       @horuss_smiletalk HORUSS: 8=D &lt; Votre Harnaisse... Je veux dire Attelesse. Altesse je veux dire.
-      @horuss_bashful:#Cr*ttin!#Je-veux-dire-Attelesse!#Pfiou HORUSS: 8=D &lt; BAL*VARNA*S. Veuillez pardonner mon langage tout à fait e%écrable, et mes bégaiements impardonnables, votre Chevalesse.
+      @horuss_bashful:#Cr*ttin!#Je-veux-dire-Attelesse!#Pfiou HORUSS: 8=D &lt; BAL*VARNA*S. Veuillez pardonner mon langage tout à fait e&#37écrable, et mes bégaiements impardonnables, votre Chevalesse.
       @horuss_sweat_talk HORUSS: 8=D &lt; Je suis une botte de nerfs en votre royale présence, et ça fait si longtemps.
       @horuss_sweat_grin HORUSS: 8=D &lt; Et quand je suis effrayé, vous devez savoir à quel point ça me fait m’identifier encore plus fermement avec la majestueuse bête à sabots.
       @meenah_idle MEENAH: he euh
@@ -23,18 +23,18 @@
       @horuss_smiletalk HORUSS: 8=D &lt; oh, je suppose que vous n’êtes pas au courant. Elle et moi avons développé une FORTE moirallegeance récemment.
       @meenah_idle:#caviartissement:#moins-impressionee-que-je-semble MEENAH: oh mon lieuuu
       @meenah_talk:#chats+cheval#plv MEENAH: cette assoleciation na aucun sens mec
-      @horuss_laugh:#Si-tu-t’en-vas#Sors-avec-un-sourire#8=D HORUSS: 8=D &lt; E&lt;%act&gt;ement. Qui l'eut cru ? Si vous m’aviez demandé avant que l’on soit tous morts si j’envisageais de me jumenler romantiquement avec une r*d*cule moyen100, 100 parler de Mme Leijon, je serais probablement mort par asphy%ie provoquée par le rire.
+      @horuss_laugh:#Si-tu-t’en-vas#Sors-avec-un-sourire#8=D HORUSS: 8=D &lt; E&#37actement. Qui l'eut cru ? Si vous m’aviez demandé avant que l’on soit tous morts si j’envisageais de me jumenler romantiquement avec une r*d*cule moyen100, 100 parler de Mme Leijon, je serais probablement mort par asphy%ie provoquée par le rire.
       @horuss_smiletalk:#Dancêtres#ou-devrais-je-dire#Destriercêtres? HORUSS: 8=D &lt; Mais savez-vous ce qui a éliminé le brouillard provoqué par la vapeur sudorale de mes lunettes ? C’était de rencontrer nos homologues post-scratch.
       @horuss_smiletalk:#Que-j’aurais-naturellement-drainée-via-les-valves-de-drainage-de-sueur-personnalisées HORUSS: 8=D &lt; Voir ainsi nos jeunes équivalents alterniens, juste ciel, cela menaçait de produire une inondation de larmes à l’intérieur de mes lunettes.
       @horuss_smiletalk HORUSS: 8=D &lt; Leur relation, malgré leur FORTE disparité de classes, je l’ai trouvée tellement émouvante, tellement pure. Cela m’a fait totalement reconsidérer mon point de vue sur Meulin à qui, en toute honnêteté, je n’avais jamais porté aucune attention.
       @horuss_smiletalk HORUSS: 8=D &lt; C’est drôle, vous ne trouvez pas ? La manière dont nos jeunes ancêtres sont partis dans une configuration sociale complètement différente, en faisant pour certains de curieuses associations, platoniques et autres. Tout un éventail de mélanges parado%aux, de haut en bas de l’hémospectre 100 aucune considération pour les compatibilités de classes. Et pourtant, tout semble faire étrangement 100s. Non, je pourrais aller jusqu’à dire que c’est plutôt étrangement...
       @horuss_sweat_bashful2 HORUSS: 8=D &lt; T*tillant ? Ou non, ce que je veux peut-être dire c’est que certaines de leurs indiscrétions alterniennes semblent un peu, je sais pas...
       @horuss_oops HORUSS: 8=D &lt; Coquines ?
-      @horuss_crossed:#J’ai-la-bouche-b*en-r*mplie-aujourd’hui HORUSS: 8=D &lt; Oh fl*te, ce n’est pas non plus ce que je veux dire. (Veuillez e%cuser mes gr*voiseries.) Vous devez désormais me prendre pour une sorte de gr*din déviant.
+      @horuss_crossed:#J’ai-la-bouche-b*en-r*mplie-aujourd’hui HORUSS: 8=D &lt; Oh fl*te, ce n’est pas non plus ce que je veux dire. (Veuillez e&#37cuser mes gr*voiseries.) Vous devez désormais me prendre pour une sorte de gr*din déviant.
       @meenah_talk MEENAH: mec pourquoi vous en faites tous tout un tas de fumier d’avoir un rencard en bas du spectre.
       @meenah_talk MEENAH: toi et nitram cest un truc depuis combien de temps deja
       @horuss_idle HORUSS: 8=D &lt; Oui, mais personne n’était 100sé l’apprendre!
-      @horuss_sweat_bashful2:#Même-si-je-rêve-de-participer-à-de-littérales-joutes,-100-résister-au-calembour HORUSS: 8=D &lt; C’était 100sé être mon, ahem, e%ploration privée. Je n’avais pas l’intention de créer une telle joute.
+      @horuss_sweat_bashful2:#Même-si-je-rêve-de-participer-à-de-littérales-joutes,-100-résister-au-calembour HORUSS: 8=D &lt; C’était 100sé être mon, ahem, e&#37ploration privée. Je n’avais pas l’intention de créer une telle joute.
       @horuss_sweat_talk:#Une-histoire-sur-un-coup-de-tête. HORUSS: 8=D &lt; C’était seulement 100sé être un badinage très privé avec un BLOC, mais la situation s’est transformée en un tel scandale si vite.
       @horuss_crossed HORUSS: 8=D &lt; Et rapidement, d’autres ont été mêlés à cette histoire comme vous et la 100 de rouille rancunière, et… et bien, imaginez mon embarras. Croyez-moi, la dernière chose que je voulais c’était que la royauté, telle que vous, soit au courant que je poursuivais du 100 interdit. Être pris les sabots dans la mangeoire, pour ainsi hennir.
       @meenah_wut MEENAH: cool
@@ -44,7 +44,7 @@
       @horuss_smiletalk HORUSS: 8=D &lt; C’est vrai. Je n’ai pas honte de le dire. Je suis tombé à ses sabots. Le museau fantôme en plein dans la paille. Il...
       @horuss_bashful:#Avec-seulement-un-roublardeux-regard HORUSS: 8=D &lt; Il m’a coupé le souffle.
       @meenah_idle MEENAH: wow alerte racontage de vie rien a foutre
-      @horuss_idle HORUSS: 8=D &lt; Toutes mes e%cuses, votre E%cellence.
+      @horuss_idle HORUSS: 8=D &lt; Toutes mes e&#37cuses, votre E&#37cellence.
       @meenah_annoyedtalk MEENAH: dis moi juste pourquoi te palifier avec meu signifie que tu dois faire cette tronche maintenant
       @horuss_smiletalk:#Du-genre#Tout-le-temps. HORUSS: 8=D &lt; Elle m’a appris à me familiariser avec ma colère. À travers une série de mimes relativement reconnaissables, elle m’a fait comprendre qu’il était plus sain d’écraser toute émotion négative sous une ruade de positivité, et de toujours être joyeux et optimiste peu importe la situation, même si e%poser cette façade est parfois physiquement douloureux.
       @meenah_talk MEENAH: cest un conseil merdique et tu devrais abandonner poto
