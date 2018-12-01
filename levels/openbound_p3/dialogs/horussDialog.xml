@@ -3,7 +3,7 @@
     	<action class='horussTalk1' sprite='meenah' command='talk' name='Parle à Horuss.'>
       <args>
       @horuss_smiletalk HORUSS: 8=D &lt; Votre Harnaisse... Je veux dire Attelesse. Altesse je veux dire.
-      @horuss_bashful:#Cr*ttin!#Je-veux-dire-Attelesse!#Pfiou HORUSS: 8=D &lt; BAL*VARNA*S. Veuillez pardonner mon langage tout à fait e&#37écrable, et mes bégaiements impardonnables, votre Chevalesse.
+      @horuss_bashful:#Cr*ttin!#Je-veux-dire-Attelesse!#Pfiou HORUSS: 8=D &lt; BAL*VARNA*S. Veuillez pardonner mon langage tout à fait e%écrable, et mes bégaiements impardonnables, votre Chevalesse.
       @horuss_sweat_talk HORUSS: 8=D &lt; Je suis une botte de nerfs en votre royale présence, et ça fait si longtemps.
       @horuss_sweat_grin HORUSS: 8=D &lt; Et quand je suis effrayé, vous devez savoir à quel point ça me fait m’identifier encore plus fermement avec la majestueuse bête à sabots.
       @meenah_idle MEENAH: he euh
