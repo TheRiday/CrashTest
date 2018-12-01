@@ -3,7 +3,7 @@
     	<action class='horussTalk1' sprite='meenah' command='talk' name='Parle à Horuss.'>
       <args>
       @horuss_smiletalk HORUSS: 8=D &lt; Votre Harnaisse... Je veux dire Attelesse. Altesse je veux dire.
-      @horuss_bashful:#Cr*ttin!#Je-veux-dire-Attelesse!#Pfiou HORUSS: 8=D &lt; BAL*VARNA*S. Veuillez pardonner mon langage tout à fait e%écrable, et mes bégaiements impardonnables, votre Chevalesse.
+      @horuss_bashful:#Cr*ttin!#Je-veux-dire-Attelesse!#Pfiou HORUSS: 8=D &lt; BAL*VARNA*S. Veuillez pardonner mon langage tout à fait e%25écrable, et mes bégaiements impardonnables, votre Chevalesse.
       @horuss_sweat_talk HORUSS: 8=D &lt; Je suis une botte de nerfs en votre royale présence, et ça fait si longtemps.
       @horuss_sweat_grin HORUSS: 8=D &lt; Et quand je suis effrayé, vous devez savoir à quel point ça me fait m’identifier encore plus fermement avec la majestueuse bête à sabots.
       @meenah_idle MEENAH: he euh
@@ -16,25 +16,25 @@
       @meenah_wut MEENAH: suppose ??
       @meenah_annoyedtalk MEENAH: cest vraiment derangeant pour moi pour je ne sais quelles raiesons
       @horuss_smiletalk HORUSS: 8=D &lt; La dernière chose que je désire est de déconcerter notre impératrice prodigue.
-      @horuss_smiletalk:#Je-me-suis-aussi-calmé-niveau-calembours-chevalins,-comme-vous-pouvez-le-voir. HORUSS: 8=D &lt; Je pensais juste que je pourrais essayer de sourire de manière permanente et 100 compromis, plutôt que de relicourir à toutes ces fâcheuses e%pressions qui me trottent dans la tête.
+      @horuss_smiletalk:#Je-me-suis-aussi-calmé-niveau-calembours-chevalins,-comme-vous-pouvez-le-voir. HORUSS: 8=D &lt; Je pensais juste que je pourrais essayer de sourire de manière permanente et 100 compromis, plutôt que de relicourir à toutes ces fâcheuses e%25pressions qui me trottent dans la tête.
       @meenah_annoyedtalk MEENAH: pourquoi tu voudrais faire ca
       @horuss_idle:#8=3 HORUSS: 8=D &lt; En fait, c’était sous la suggestion de Meulin.
       @meenah_idle MEENAH: hein ??
       @horuss_smiletalk HORUSS: 8=D &lt; oh, je suppose que vous n’êtes pas au courant. Elle et moi avons développé une FORTE moirallegeance récemment.
       @meenah_idle:#caviartissement:#moins-impressionee-que-je-semble MEENAH: oh mon lieuuu
       @meenah_talk:#chats+cheval#plv MEENAH: cette assoleciation na aucun sens mec
-      @horuss_laugh:#Si-tu-t’en-vas#Sors-avec-un-sourire#8=D HORUSS: 8=D &lt; E%actement. Qui l'eut cru ? Si vous m’aviez demandé avant que l’on soit tous morts si j’envisageais de me jumenler romantiquement avec une r*d*cule moyen100, 100 parler de Mme Leijon, je serais probablement mort par asphy%ie provoquée par le rire.
+      @horuss_laugh:#Si-tu-t’en-vas#Sors-avec-un-sourire#8=D HORUSS: 8=D &lt; E%25actement. Qui l'eut cru ? Si vous m’aviez demandé avant que l’on soit tous morts si j’envisageais de me jumenler romantiquement avec une r*d*cule moyen100, 100 parler de Mme Leijon, je serais probablement mort par asphy%25ie provoquée par le rire.
       @horuss_smiletalk:#Dancêtres#ou-devrais-je-dire#Destriercêtres? HORUSS: 8=D &lt; Mais savez-vous ce qui a éliminé le brouillard provoqué par la vapeur sudorale de mes lunettes ? C’était de rencontrer nos homologues post-scratch.
       @horuss_smiletalk:#Que-j’aurais-naturellement-drainée-via-les-valves-de-drainage-de-sueur-personnalisées HORUSS: 8=D &lt; Voir ainsi nos jeunes équivalents alterniens, juste ciel, cela menaçait de produire une inondation de larmes à l’intérieur de mes lunettes.
       @horuss_smiletalk HORUSS: 8=D &lt; Leur relation, malgré leur FORTE disparité de classes, je l’ai trouvée tellement émouvante, tellement pure. Cela m’a fait totalement reconsidérer mon point de vue sur Meulin à qui, en toute honnêteté, je n’avais jamais porté aucune attention.
-      @horuss_smiletalk HORUSS: 8=D &lt; C’est drôle, vous ne trouvez pas ? La manière dont nos jeunes ancêtres sont partis dans une configuration sociale complètement différente, en faisant pour certains de curieuses associations, platoniques et autres. Tout un éventail de mélanges parado%aux, de haut en bas de l’hémospectre 100 aucune considération pour les compatibilités de classes. Et pourtant, tout semble faire étrangement 100s. Non, je pourrais aller jusqu’à dire que c’est plutôt étrangement...
+      @horuss_smiletalk HORUSS: 8=D &lt; C’est drôle, vous ne trouvez pas ? La manière dont nos jeunes ancêtres sont partis dans une configuration sociale complètement différente, en faisant pour certains de curieuses associations, platoniques et autres. Tout un éventail de mélanges parado%25aux, de haut en bas de l’hémospectre 100 aucune considération pour les compatibilités de classes. Et pourtant, tout semble faire étrangement 100s. Non, je pourrais aller jusqu’à dire que c’est plutôt étrangement...
       @horuss_sweat_bashful2 HORUSS: 8=D &lt; T*tillant ? Ou non, ce que je veux peut-être dire c’est que certaines de leurs indiscrétions alterniennes semblent un peu, je sais pas...
       @horuss_oops HORUSS: 8=D &lt; Coquines ?
-      @horuss_crossed:#J’ai-la-bouche-b*en-r*mplie-aujourd’hui HORUSS: 8=D &lt; Oh fl*te, ce n’est pas non plus ce que je veux dire. (Veuillez e%cuser mes gr*voiseries.) Vous devez désormais me prendre pour une sorte de gr*din déviant.
+      @horuss_crossed:#J’ai-la-bouche-b*en-r*mplie-aujourd’hui HORUSS: 8=D &lt; Oh fl*te, ce n’est pas non plus ce que je veux dire. (Veuillez e%25cuser mes gr*voiseries.) Vous devez désormais me prendre pour une sorte de gr*din déviant.
       @meenah_talk MEENAH: mec pourquoi vous en faites tous tout un tas de fumier d’avoir un rencard en bas du spectre.
       @meenah_talk MEENAH: toi et nitram cest un truc depuis combien de temps deja
       @horuss_idle HORUSS: 8=D &lt; Oui, mais personne n’était 100sé l’apprendre!
-      @horuss_sweat_bashful2:#Même-si-je-rêve-de-participer-à-de-littérales-joutes,-100-résister-au-calembour HORUSS: 8=D &lt; C’était 100sé être mon, ahem, e%ploration privée. Je n’avais pas l’intention de créer une telle joute.
+      @horuss_sweat_bashful2:#Même-si-je-rêve-de-participer-à-de-littérales-joutes,-100-résister-au-calembour HORUSS: 8=D &lt; C’était 100sé être mon, ahem, e%25ploration privée. Je n’avais pas l’intention de créer une telle joute.
       @horuss_sweat_talk:#Une-histoire-sur-un-coup-de-tête. HORUSS: 8=D &lt; C’était seulement 100sé être un badinage très privé avec un BLOC, mais la situation s’est transformée en un tel scandale si vite.
       @horuss_crossed HORUSS: 8=D &lt; Et rapidement, d’autres ont été mêlés à cette histoire comme vous et la 100 de rouille rancunière, et… et bien, imaginez mon embarras. Croyez-moi, la dernière chose que je voulais c’était que la royauté, telle que vous, soit au courant que je poursuivais du 100 interdit. Être pris les sabots dans la mangeoire, pour ainsi hennir.
       @meenah_wut MEENAH: cool
@@ -44,9 +44,9 @@
       @horuss_smiletalk HORUSS: 8=D &lt; C’est vrai. Je n’ai pas honte de le dire. Je suis tombé à ses sabots. Le museau fantôme en plein dans la paille. Il...
       @horuss_bashful:#Avec-seulement-un-roublardeux-regard HORUSS: 8=D &lt; Il m’a coupé le souffle.
       @meenah_idle MEENAH: wow alerte racontage de vie rien a foutre
-      @horuss_idle HORUSS: 8=D &lt; Toutes mes e%cuses, votre E%cellence.
+      @horuss_idle HORUSS: 8=D &lt; Toutes mes e%25cuses, votre E%25cellence.
       @meenah_annoyedtalk MEENAH: dis moi juste pourquoi te palifier avec meu signifie que tu dois faire cette tronche maintenant
-      @horuss_smiletalk:#Du-genre#Tout-le-temps. HORUSS: 8=D &lt; Elle m’a appris à me familiariser avec ma colère. À travers une série de mimes relativement reconnaissables, elle m’a fait comprendre qu’il était plus sain d’écraser toute émotion négative sous une ruade de positivité, et de toujours être joyeux et optimiste peu importe la situation, même si e%poser cette façade est parfois physiquement douloureux.
+      @horuss_smiletalk:#Du-genre#Tout-le-temps. HORUSS: 8=D &lt; Elle m’a appris à me familiariser avec ma colère. À travers une série de mimes relativement reconnaissables, elle m’a fait comprendre qu’il était plus sain d’écraser toute émotion négative sous une ruade de positivité, et de toujours être joyeux et optimiste peu importe la situation, même si e%25poser cette façade est parfois physiquement douloureux.
       @meenah_talk MEENAH: cest un conseil merdique et tu devrais abandonner poto
       @horuss_idle HORUSS: 8=D &lt; Hem, oui. Très bien.
       @horuss_mad HORUSS: (;≧Д≦) &lt; C’est mieux ?
@@ -61,8 +61,8 @@
       @meenah_creepy:#JEU-DE-MOT-CHEVALIN#CETTE-NANA#PETE-LE-FEU MEENAH: ouh choc du sellcle
       @horuss_smiletalk HORUSS: 8=D &lt; Évidemment, je le ferré 100 hésitation si vous me l’ordonnez. Mais j’ai récemment tenté de me re100trer sur un 100tier de non-violence.
       @horuss_smiletalk:#Je-pourrais-même-être-bientôt-capable-de-dire-FORCE-100-crier. HORUSS: 8=D &lt; J’ai été sellé pendant si longtemps à ma colère et mon hostilité, maintenant je me con100tre sur la résolution de problèmes n’impliquant pas de confrontations ou de FORCE physique.
-      @horuss_sweat_talk HORUSS: 8=D &lt; Par e%emple, la technologie peut résoudre beaucoup de problèmes. Savez-vous combien d’énergie est stockée dans la sueur, qui peut être libérée grâce à sa vapeur ?
-      @horuss_sweat_grin HORUSS: 8=D &lt; Avez-vous une idée de la PUI100CE d’un automate quadrupède alimenté par de rapides courants de vapeur galopant à travers son e%quis torse droit, et jailli100 enfin d’une parfaite paire de naseaux métalliques ? Je pourrais en construire autant que vous voudrez, mon Impératrice.
+      @horuss_sweat_talk HORUSS: 8=D &lt; Par e%25emple, la technologie peut résoudre beaucoup de problèmes. Savez-vous combien d’énergie est stockée dans la sueur, qui peut être libérée grâce à sa vapeur ?
+      @horuss_sweat_grin HORUSS: 8=D &lt; Avez-vous une idée de la PUI100CE d’un automate quadrupède alimenté par de rapides courants de vapeur galopant à travers son e%25quis torse droit, et jailli100 enfin d’une parfaite paire de naseaux métalliques ? Je pourrais en construire autant que vous voudrez, mon Impératrice.
       @meenah_talk:#a-moins-que-tu-fabriques-ces-trucs-flippants-en-or MEENAH: hem non je crois que je vais me passer dune armee de robots chevaux reniflants
       @meenah_talk MEENAH: donc tout ce que tu fais cest construite ces merdes stupides qui fonctionnent avec ta sueur?
       @meenah_talk MEENAH: parce quun gars avec des muscles pourrait vraiment metre utile
@@ -77,7 +77,7 @@
       @meenah_angrytalk MEENAH: zahhak bordel je tordonne royalement darreter pour toujours de faire cette tete
       @horuss_idle2 HORUSS: 8=o &lt; De ce pas, ma dame.
       @horuss_sadtalk HORUSS: 8o &lt; Mon anciennement guilleret visage se retire, pendant que ma posture entièrement dure et tendue frissonne devant votre royale désapprobation.
-      @horuss_idle2talk HORUSS: (ಠ益ಠ;) &lt; Je dois désormais e%primer mes 100timents selon mes moeurs habituelles, comme tel.
+      @horuss_idle2talk HORUSS: (ಠ益ಠ;) &lt; Je dois désormais e%25primer mes 100timents selon mes moeurs habituelles, comme tel.
       @meenah_idle MEENAH: respect
       <!--  -->
       </args>
@@ -130,7 +130,7 @@
       @rufioh_sad \nRUFIOH: ...
       @horuss_sweat_talk HORUSS: 8=D &lt; Hey, pourquoi ne participerait-on pas plus tard à une activité conviviale ensemble, en tant que partenaires romantiques de l’au-delà ? Nous pourrions jouer à un de ces jeux de carte étrangers que tu 100bles apprécier. Comment ça s’appelait déjà ? Fiddlespoon ?
       @rufioh_sadtalk \nRUFIOH: euh. oua1s… on peut fa1re ça...je suppose. ça a l’a1r… euh. gén1al.
-      @horuss_sweat_talk HORUSS: 8=D &lt; Je sais que je ne suis pas le meilleur partenaire pour partager tes intérêts e%otiques et quelque peu enfantins, mais je vais faire de mon mieux pour les comprendre et les apprécier avec toi. La chose la plus importante c’est que l’on passe du temps ensemble et que l’on maintienne une relation FORTE.
+      @horuss_sweat_talk HORUSS: 8=D &lt; Je sais que je ne suis pas le meilleur partenaire pour partager tes intérêts e%25otiques et quelque peu enfantins, mais je vais faire de mon mieux pour les comprendre et les apprécier avec toi. La chose la plus importante c’est que l’on passe du temps ensemble et que l’on maintienne une relation FORTE.
       @rufioh_sad \nRUFIOH: ...
       @rufioh_sad \nRUFIOH: bangarang.
       <!--  -->
@@ -140,24 +140,24 @@
 <action class='horussTalk5' sprite='damara' command='talk' name='Parle à Horuss.'>
       <args>
       @damara_meantalk DAMARA: これ以上のゲームはありません。馬の男。今私をファック。
-      @horuss_idle HORUSS: 8=D &lt; E%cuse-moi ?
+      @horuss_idle HORUSS: 8=D &lt; E%25cuse-moi ?
       @damara_meantalk DAMARA: FICHEVLLOまたがっ私を曲げる。あなたは私がハードファック。CHEVALINスタイル。
       @horuss_smiletalk HORUSS: 8=D &lt; Ho ! Je vois que tu t’intéresses à ce beau, bien que minuscule, étalon qu’on l’on m’a offert plus tôt.
       @horuss_smiletalk HORUSS: 8=D &lt; N’est-ce pas merveilleux ? Je lui donnerai de nombreuses pommes et il sera FORT en grandi100.
       @damara_smilemeantalk DAMARA: 私にリンゴを養う。その後、私の髪をつかむ。あなたはチャンピオンのように私に乗るだろう。
-      @horuss_sweat_talk HORUSS: 8=D &lt; Je ne… Faire quoi avec tes cornes ? Chevaucher quoi e%actement ?
+      @horuss_sweat_talk HORUSS: 8=D &lt; Je ne… Faire quoi avec tes cornes ? Chevaucher quoi e%25actement ?
       @damara_squinttalk DAMARA: のバケツを埋めることができます。その後、内容がスプラッシュ。私の体の上にすべての。次に干し草の山に私を投げる。
-      @horuss_hmmtalk HORUSS: 8=D &lt; Tu veu% que je… quelque chose à voir avec… de la paille ? Hm. 
+      @horuss_hmmtalk HORUSS: 8=D &lt; Tu veu%25 que je… quelque chose à voir avec… de la paille ? Hm. 
       @damara_talk DAMARA: 私はあなたのホーンを吸うことができます。同時に、あなたは私のお尻を平手打ち。リズミカルにそれを行う。また。いななく。
-      @horuss_sweat_talk HORUSS: 8=D &lt; Tu veu% que je fasse… quoi de manière rythmé ? En faisant quel bruit animalier ?
+      @horuss_sweat_talk HORUSS: 8=D &lt; Tu veu%25 que je fasse… quoi de manière rythmé ? En faisant quel bruit animalier ?
       @damara_talk DAMARA: 私のすべての反復をファック。性的エクスタシーを体験する私たちのすべてを引き起こす。私たちは一斉にオーガズムましょう。
-      @horuss_sweat_bashful2 HORUSS: 8=D &lt; Faire quoi avec… attends… toutes les toi e%istantes ? Est-ce que ça ne fait pas beaucoup de Damaras, peu importe l’activité que tu essayes de décrire ? 
+      @horuss_sweat_bashful2 HORUSS: 8=D &lt; Faire quoi avec… attends… toutes les toi e%25istantes ? Est-ce que ça ne fait pas beaucoup de Damaras, peu importe l’activité que tu essayes de décrire ? 
       @damara_squinttalk DAMARA: 清潔なタオルで私を包んでください。私は農場の動物のようにうめき声をしなければならない。
       @damara_smilemeantalk DAMARA: 私の足の間に腹立たしそうに鼻を鳴らす。私は殺された子羊のように悲鳴を上げるでしょう。
       @damara_fiendish DAMARA: 私たちは一緒に私たちのお尻を持ってみましょう。共通のオーガズムに参加。すべての終わりでは、私たちを取り囲んでいる。
       @horuss_crossed HORUSS: 8=D &lt; Essayer de décoder tes paroles est assez stre100, tu sais.
       @horuss_crossed2 HORUSS: 8=D &lt; À chaque fois que je te parle, mon système est tout agité. 
-      @horuss_sweat_grin HORUSS: 8=D &lt; Je commence à re100tir une communication avec une ancienne âme d’Alternasie, et je suis sur le point de te comprendre. Mais tout disparaît aussi rapidement que c’est arrivé, et je suis laissé là avec rien d’autre qu’une accablante e%périence de transpiration. 
+      @horuss_sweat_grin HORUSS: 8=D &lt; Je commence à re100tir une communication avec une ancienne âme d’Alternasie, et je suis sur le point de te comprendre. Mais tout disparaît aussi rapidement que c’est arrivé, et je suis laissé là avec rien d’autre qu’une accablante e%25périence de transpiration. 
       @horuss_sweat_talk HORUSS: 8=D &lt; Mais ce n’est pas comme si je m'attendais à ce qu’une basse 100 de rouille célibataire comme toi comprenne. 
       @damara_squinttalk DAMARA: もっと私を低下させる。私はほとんどそこにいる。
       @damara_fu4 DAMARA: フリーク。
