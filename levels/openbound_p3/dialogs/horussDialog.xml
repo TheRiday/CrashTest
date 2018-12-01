@@ -23,7 +23,7 @@
       @horuss_smiletalk HORUSS: 8=D &lt; oh, je suppose que vous n’êtes pas au courant. Elle et moi avons développé une FORTE moirallegeance récemment.
       @meenah_idle:#caviartissement:#moins-impressionee-que-je-semble MEENAH: oh mon lieuuu
       @meenah_talk:#chats+cheval#plv MEENAH: cette assoleciation na aucun sens mec
-      @horuss_laugh:#Si-tu-t’en-vas#Sors-avec-un-sourire#8=D HORUSS: 8=D &lt; E\%actement. E%actly. Qui l'eut cru ? Si vous m’aviez demandé avant que l’on soit tous morts si j’envisageais de me jumenler romantiquement avec une r*d*cule moyen100, 100 parler de Mme Leijon, je serais probablement mort par asphy%25ie provoquée par le rire.
+      @horuss_laugh:#Si-tu-t’en-vas#Sors-avec-un-sourire#8=D HORUSS: 8=D &lt; E%actement. Qui l'eut cru ? Si vous m’aviez demandé avant que l’on soit tous morts si j’envisageais de me jumenler romantiquement avec une r*d*cule moyen100, 100 parler de Mme Leijon, je serais probablement mort par asphy%25ie provoquée par le rire.
       @horuss_smiletalk:#Dancêtres#ou-devrais-je-dire#Destriercêtres? HORUSS: 8=D &lt; Mais savez-vous ce qui a éliminé le brouillard provoqué par la vapeur sudorale de mes lunettes ? C’était de rencontrer nos homologues post-scratch.
       @horuss_smiletalk:#Que-j’aurais-naturellement-drainée-via-les-valves-de-drainage-de-sueur-personnalisées HORUSS: 8=D &lt; Voir ainsi nos jeunes équivalents alterniens, juste ciel, cela menaçait de produire une inondation de larmes à l’intérieur de mes lunettes.
       @horuss_smiletalk HORUSS: 8=D &lt; Leur relation, malgré leur FORTE disparité de classes, je l’ai trouvée tellement émouvante, tellement pure. Cela m’a fait totalement reconsidérer mon point de vue sur Meulin à qui, en toute honnêteté, je n’avais jamais porté aucune attention.
@@ -64,14 +64,14 @@
       @horuss_sweat_talk HORUSS: 8=D &lt; Par e%25emple, la technologie peut résoudre beaucoup de problèmes. Savez-vous combien d’énergie est stockée dans la sueur, qui peut être libérée grâce à sa vapeur ?
       @horuss_sweat_grin HORUSS: 8=D &lt; Avez-vous une idée de la PUI100CE d’un automate quadrupède alimenté par de rapides courants de vapeur galopant à travers son e%25quis torse droit, et jailli100 enfin d’une parfaite paire de naseaux métalliques ? Je pourrais en construire autant que vous voudrez, mon Impératrice.
       @meenah_talk:#a-moins-que-tu-fabriques-ces-trucs-flippants-en-or MEENAH: hem non je crois que je vais me passer dune armee de robots chevaux reniflants
-      @meenah_talk MEENAH: donc tout ce que tu fais cest construite ces merdes stupides qui fonctionnent avec ta sueur?
+      @meenah_talk MEENAH: donc tout ce que tu fais cest construire ces merdes stupides qui fonctionnent avec ta sueur?
       @meenah_talk MEENAH: parce quun gars avec des muscles pourrait vraiment metre utile
       @meenah_creepytalk:#plutot-sexy-en-fait MEENAH: je sais pas si tas vu ce mec squelette mais il est DOP-E
       @horuss_smiletalk HORUSS: 8=D &lt; Oh non, c’est loin d’être ma seule préoccupation. J’ai aussi pris le temps de perfectionner l’art de l’humour.
       @horuss_idle HORUSS: 8=D &lt; Voudriez-vous entendre une blague?
-      @meenah_annoyed:#fine MEENAH: oh non...
+      @meenah_annoyed:#bon-ok MEENAH: oh non...
       @horuss_smiletalk HORUSS: 8=D &lt; Un cheval trotte dans une cabane de soif. Ses épaules musclées avachies, sa noble tête basse.
-      @horuss_smiletalk HORUSS: 8=D &lt; Le pourvoyeur laitierremarque que la grande bête est clairement déprimée, et demande : 
+      @horuss_smiletalk HORUSS: 8=D &lt; Le pourvoyeur laitier remarque que la grande bête est clairement déprimée, et demande : 
       @horuss_idle HORUSS: 8==========D &lt; Pourquoi cette tête de dix sabots de long ?
       @meenah_wut MEENAH: euuherk
       @meenah_angrytalk MEENAH: zahhak bordel je tordonne royalement darreter pour toujours de faire cette tete
@@ -86,7 +86,7 @@
 
 <action class='horussTalk3' sprite='meenah' command='talk' name='Deviens Horuss.'>
       <args>
-      @horuss_idle2talk HORUSS: ᕦ(ò д óˇ)ᕤ &lt; Rapportez-moi un cheval et je serais à vous pour toujours.
+      @horuss_idle2talk HORUSS: ᕦ(ò д óˇ)ᕤ &lt; Rapportez-moi un cheval et je serai à vous pour toujours.
       <!--  -->
       </args>
 </action>
